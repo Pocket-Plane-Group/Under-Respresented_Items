@@ -1,0 +1,8 @@
+IF
+  !Global("FORCETOBPARTYMOVE4000","GLOBAL",0) // only if ToB has started
+  Global("U#SpawnConlan","AR3000",0)
+THEN
+  RESPONSE #100
+    CreateCreature("u#conlan",[1957.2466],4)  
+    SetGlobal("U#SpawnConlan","AR3000",1)
+END

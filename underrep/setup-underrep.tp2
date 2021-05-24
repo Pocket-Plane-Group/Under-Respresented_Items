@@ -1,0 +1,391 @@
+BACKUP ~underrep/backup~
+AUTHOR ~http://forums.pocketplane.net/index.php/board,43.0.html~
+
+ALWAYS
+
+  OUTER_SET ee_game = 0
+  
+  ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+
+    ACTION_DEFINE_ARRAY cdreload BEGIN ~setup~ ~u#conlan~ END
+    LAF HANDLE_CHARSETS INT_VAR infer_charset = 1 STR_VAR default_language = american tra_path = EVAL ~%MOD_FOLDER%/languages~ convert_array = cdreload reload_array = cdreload END
+
+    OUTER_SET ee_game = 1 // ee game
+
+  END
+  
+END
+
+VERSION ~v7~
+
+README ~underrep/readme-underrep.txt~
+
+LANGUAGE ~American English~ 
+         ~american~
+         ~underrep/languages/american/setup.tra~
+         ~underrep/languages/american/u#conlan.tra~
+
+LANGUAGE ~Traduction francaise (par Mathrim Cauthon, Mathrim.Cauthon@free.fr)~ 
+         ~french~
+	       ~underrep/languages/french/setup.tra~
+         ~underrep/languages/french/u#conlan.tra~
+
+LANGUAGE ~Russian (SERKOS)~
+         ~russian~
+         ~underrep/languages/russian/underrep.tra~
+         ~underrep/languages/russian/u#conlan.tra~
+
+LANGUAGE ~Italian (Stoneangel)~
+         ~italian~
+         ~underrep/languages/italian/underrep.tra~
+         ~underrep/languages/italian/u#conlan.tra~
+
+
+BEGIN @0
+
+ACTION_IF ((ee_game) AND (FILE_EXISTS ~underrep/languages/%LANGUAGE%/setup_ee.tra~)) BEGIN
+
+  LOAD_TRA ~underrep/languages/%LANGUAGE%/setup_ee.tra~ // override normal item descriptions with EE-formatted ones
+ 
+END 
+
+COPY ~underrep/bam~     ~override~
+     ~underrep/eff~     ~override~
+
+COMPILE ~underrep/dlg/u#conlan.d~       
+
+ACTION_IF GAME_IS ~tob bgt bg2ee eet~ THEN BEGIN
+  EXTEND_BOTTOM ~ar3000.bcs~ ~underrep/baf/ar3000.baf~ // spawn conlan at WK
+END
+EXTEND_BOTTOM ~ar0702.bcs~ ~underrep/baf/ar0702.baf~ // spawn conlan at AM
+
+COPY_EXISTING ~wmart1.cre~ ~override/u#conlan.cre~
+  SAY NAME1 @1
+  SAY NAME2 @1
+  WRITE_SHORT 0x28 24832             // animation: fighter_male_human
+  WRITE_ASCII 0x280   ~U#CONLAN~ #32 // DV
+  WRITE_ASCII 0x2cc   ~U#CONLAN~     // dialogue
+
+COPY ~underrep/sto/u#conlan.sto~ ~override/u#conlan.sto~
+  SAY 0xc @2
+
+COPY ~underrep/itm/U#AX2H85.itm~ ~override~
+  SAY NAME2 @3 
+  SAY DESC @4
+
+COPY ~underrep/itm/U#AX2H86.itm~ ~override~
+  SAY NAME2 @5 
+  SAY DESC @6
+
+COPY ~underrep/itm/U#AX2H87.itm~ ~override~
+  SAY NAME2 @7 
+  SAY DESC @8
+
+COPY ~underrep/itm/U#AX2H93.itm~ ~override~
+  SAY NAME2 @9 
+  SAY DESC @10
+
+COPY ~underrep/itm/U#AX2H94.itm~ ~override~
+  SAY NAME2 @11 
+  SAY DESC @12
+
+COPY ~underrep/itm/U#AX2H95.itm~ ~override~
+  SAY NAME2 @13 
+  SAY DESC @14
+
+COPY ~underrep/itm/U#AX2H98.itm~ ~override~
+  SAY NAME2 @15 
+  SAY DESC @16
+
+COPY ~underrep/itm/U#AX2H99.itm~ ~override~
+  SAY NAME2 @17 
+  SAY DESC @18 
+
+COPY ~underrep/itm/U#BELT05.itm~ ~override~
+  SAY NAME2 @19 
+  SAY DESC @20 
+
+COPY ~underrep/itm/U#CHAN07.itm~ ~override~
+  SAY NAME2 @21 
+  SAY DESC @22 
+
+COPY ~underrep/itm/U#DAGG90.itm~ ~override~
+  SAY NAME2 @23 
+  SAY DESC @24 
+
+COPY ~underrep/itm/U#DAGG96.itm~ ~override~
+  SAY NAME2 @25 
+  SAY DESC @26 
+
+COPY ~underrep/itm/U#DAGG98.itm~ ~override~
+  SAY NAME2 @27 
+  SAY DESC @28 
+
+COPY ~underrep/itm/U#DART83.itm~ ~override~
+  SAY NAME2 @29 
+  SAY DESC @30
+
+COPY ~underrep/itm/U#DART84.itm~ ~override~
+  SAY NAME2 @31 
+  SAY DESC @32
+
+COPY ~underrep/itm/U#HALB95.itm~ ~override~
+  SAY NAME2 @33 
+  SAY DESC @34
+
+COPY ~underrep/itm/U#HALB96.itm~ ~override~
+  SAY NAME2 @35 
+  SAY DESC @36
+
+COPY ~underrep/itm/U#HALB97.itm~ ~override~
+  SAY NAME2 @37 
+  SAY DESC @38
+
+COPY ~underrep/itm/U#HAMM94.itm~ ~override~
+  SAY NAME2 @39 
+  SAY DESC @40
+
+COPY ~underrep/itm/U#HFDTDD.itm~ ~override~
+  SAY NAME2 @41 
+  SAY DESC @42
+
+COPY ~underrep/itm/U#HFDTPD.itm~ ~override~
+  SAY NAME2 @43 
+  SAY DESC @44 
+
+COPY ~underrep/itm/U#HFHBHL.itm~ ~override~
+  SAY NAME2 @45 
+  SAY DESC @46
+
+COPY ~underrep/itm/U#HFSRIM.itm~ ~override~
+  SAY NAME2 @47 
+  SAY DESC @48
+
+COPY ~underrep/itm/U#HFSSLS.itm~ ~override~
+  SAY NAME2 @49 
+  SAY DESC @50
+
+COPY ~underrep/itm/U#MACE92.itm~ ~override~
+  SAY NAME2 @51 
+  SAY DESC @52
+
+COPY ~underrep/itm/U#MACE94.itm~ ~override~
+  SAY NAME2 @53 
+  SAY DESC @54
+
+COPY ~underrep/itm/U#MACE95.itm~ ~override~
+  SAY NAME2 @55 
+  SAY DESC @56
+
+COPY ~underrep/itm/U#SPER89.itm~ ~override~
+  SAY NAME2 @57 
+  SAY DESC @58
+
+COPY ~underrep/itm/U#STAF86.itm~ ~override~
+  SAY NAME2 @59 
+  SAY DESC @60
+
+COPY ~underrep/itm/U#STAF90.itm~ ~override~
+  SAY NAME2 @61 
+  SAY DESC @62
+
+COPY ~underrep/itm/U#SWDB94.itm~ ~override~
+  SAY NAME2 @63 
+  SAY DESC @64 
+
+COPY ~underrep/itm/U#SWDB95.itm~ ~override~
+  SAY NAME2 @65 
+  SAY DESC @66 
+
+COPY ~underrep/itm/U#SWDBRC.itm~ ~override~
+  SAY NAME2 @67 
+  SAY DESC @68 
+
+COPY ~underrep/itm/U#SWDS94.itm~ ~override~
+  SAY NAME2 @69 
+  SAY DESC @70
+
+COPY ~underrep/itm/U#HFHRCR.itm~ ~override~
+  SAY NAME2 @71 
+  SAY DESC @72
+
+COPY ~underrep/itm/U#HFSRNP.itm~ ~override~
+  SAY NAME2 @73 
+  SAY DESC @74
+
+COPY ~underrep/itm/U#HFSFWS.itm~ ~override~
+  SAY NAME2 @75 
+  SAY DESC @76
+
+COPY ~underrep/itm/U#CLUBBT.itm~ ~override~
+  SAY NAME2 @77 
+  SAY DESC @78
+
+COPY ~underrep/itm/U#HFHEAH.itm~ ~override~
+  SAY NAME2 @79 
+  SAY DESC @80
+
+COPY ~underrep/itm/U#HFHRVA.itm~ ~override~
+  SAY NAME2 @81 
+  SAY DESC @82
+
+COPY ~underrep/itm/U#HFDGSH.itm~ ~override~
+  SAY NAME2 @83 
+  SAY DESC @84 
+
+COPY ~underrep/itm/U#HFDGXF.itm~ ~override~
+  SAY NAME2 @85 
+  SAY DESC @86 
+
+COPY ~underrep/itm/U#CLUBMP.itm~ ~override~
+  SAY NAME2 @87 
+  SAY DESC @88
+
+COPY ~underrep/itm/U#HAMMBI.itm~ ~override~
+  SAY NAME2 @89 
+  SAY DESC @90
+
+COPY ~underrep/itm/U#HFHBPB.itm~ ~override~
+  SAY NAME2 @91 
+  SAY DESC @92
+
+COPY ~underrep/itm/U#ZZL6MA.ITM~ ~override~         
+  SAY NAME2 @93 
+  SAY DESC @94
+
+// add new armor to the protection stuff list  
+APPEND ~itemexcl.2da~ ~u#chan07 1~ // elven chain of the hand 
+APPEND ~itemexcl.2da~ ~u#hfheah 1~ // cornugon hide armor 
+
+// add tooltips for multi-ability items 
+APPEND ~tooltip.2da~ ~u#hfsfws @75 32427 -1~    // Caballus' Whispering Staff (mass invis)
+APPEND ~tooltip.2da~ ~u#hfsrnp @73 25914 16963~ // Twelve Paces (breach & lower resistance)
+
+ACTION_IF ee_game BEGIN
+
+  // make 2h axes available to shamans
+  COPY_EXISTING ~u#ax2h85.itm~ ~override~
+                ~u#ax2h86.itm~ ~override~
+                ~u#ax2h87.itm~ ~override~
+                ~u#ax2h93.itm~ ~override~
+                ~u#ax2h94.itm~ ~override~
+                ~u#ax2h95.itm~ ~override~
+                ~u#ax2h98.itm~ ~override~
+                ~u#ax2h99.itm~ ~override~ 
+    WRITE_BYTE 0x21 (THIS BAND `BIT6) // removes druid restriction, add back as 319 below
+    LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 319 target = 1 parameter1 = 11 parameter2 = 5 timing = 2 special = 1080 END
+    BUT_ONLY
+
+END    
+
+/*
+// temp
+
+// 2h axes
+COPY_EXISTING ~u#ax2h85.itm~ ~override~
+              ~u#ax2h86.itm~ ~override~
+              ~u#ax2h87.itm~ ~override~
+              ~u#ax2h93.itm~ ~override~
+              ~u#ax2h94.itm~ ~override~
+              ~u#ax2h95.itm~ ~override~
+              ~u#ax2h98.itm~ ~override~
+              ~u#ax2h99.itm~ ~override~ 
+  WRITE_LONG 0x08 6654              
+  WRITE_LONG 0x50 6656 
+  LPF ALTER_ITEM_HEADER INT_VAR header_type = 1 animation_overhand = 65 animation_backhand = 35 animation_thrust = 0 END 
+
+// belt
+COPY_EXISTING ~u#belt05.itm~ ~override~ 
+  WRITE_LONG 0x08 6465              
+  WRITE_LONG 0x50 6466            
+
+// elven chain
+COPY_EXISTING ~u#chan07.itm~ ~override~  
+  WRITE_LONG 0x08 6146              
+  WRITE_LONG 0x50 39560              
+ 
+// mace 
+COPY_EXISTING ~u#clubbt.itm~ ~override~           
+              ~u#clubmp.itm~ ~override~          
+              ~u#mace92.itm~ ~override~          
+              ~u#mace94.itm~ ~override~          
+              ~u#mace95.itm~ ~override~         
+              ~u#zzl6ma.itm~ ~override~
+  WRITE_LONG 0x08 6708              
+  WRITE_LONG 0x50 6709   
+  LPF ALTER_ITEM_HEADER INT_VAR header_type = 1 animation_overhand = 50 animation_backhand = 50 animation_thrust = 0 END           
+ 
+// dagger 
+COPY_EXISTING ~u#dagg90.itm~ ~override~           
+              ~u#dagg96.itm~ ~override~           
+              ~u#dagg98.itm~ ~override~         
+              ~u#hfdgsh.itm~ ~override~        
+              ~u#hfdgxf.itm~ ~override~
+  WRITE_LONG 0x08 6343              
+  WRITE_LONG 0x50 6720  
+  LPF ALTER_ITEM_HEADER INT_VAR header_type = 1 animation_overhand = 0 animation_backhand = 20 animation_thrust = 80 END            
+ 
+// dart 
+COPY_EXISTING ~u#dart83.itm~ ~override~           
+              ~u#dart84.itm~ ~override~           
+              ~u#hfdtdd.itm~ ~override~           
+              ~u#hfdtpd.itm~ ~override~  
+  WRITE_LONG 0x08 6919              
+  WRITE_LONG 0x50 6922   
+  LPF ALTER_ITEM_HEADER INT_VAR header_type = 2 animation_overhand = 100 animation_backhand = 0 animation_thrust = 0 END            
+
+// halberd
+COPY_EXISTING ~u#halb95.itm~ ~override~          
+              ~u#halb96.itm~ ~override~          
+              ~u#halb97.itm~ ~override~          
+              ~u#hfhbhl.itm~ ~override~          
+              ~u#hfhbpb.itm~ ~override~   
+  WRITE_LONG 0x08 6344              
+  WRITE_LONG 0x50 6712   
+  LPF ALTER_ITEM_HEADER INT_VAR header_type = 1 animation_overhand = 0 animation_backhand = 35 animation_thrust = 65 END           
+
+// hammer
+COPY_EXISTING ~u#hamm94.itm~ ~override~  
+              ~u#hammbi.itm~ ~override~  
+              ~u#hfhrcr.itm~ ~override~  
+              ~u#hfhrva.itm~ ~override~ 
+  WRITE_LONG 0x08 6345              
+  WRITE_LONG 0x50 6716  
+  LPF ALTER_ITEM_HEADER INT_VAR header_type = 1 animation_overhand = 65 animation_backhand = 35 animation_thrust = 0 END              
+
+// hide armor
+COPY_EXISTING ~u#hfheah.itm~ ~override~
+  WRITE_LONG 0x08 22714              
+  WRITE_LONG 0x50 22716                   
+
+// staff
+COPY_EXISTING ~u#hfsfws.itm~ ~override~  
+              ~u#staf86.itm~ ~override~  
+              ~u#staf90.itm~ ~override~   
+  WRITE_LONG 0x08 6351              
+  WRITE_LONG 0x50 6731 
+  LPF ALTER_ITEM_HEADER INT_VAR header_type = 1 animation_overhand = 10 animation_backhand = 70 animation_thrust = 20 END                
+
+// spear
+COPY_EXISTING ~u#hfsrim.itm~ ~override~ 
+              ~u#hfsrnp.itm~ ~override~  
+              ~u#sper89.itm~ ~override~   
+  WRITE_LONG 0x08 6350              
+  WRITE_LONG 0x50 6727     
+  LPF ALTER_ITEM_HEADER INT_VAR header_type = 1 animation_overhand = 10 animation_backhand = 20 animation_thrust = 70 END             
+
+// short sword
+COPY_EXISTING ~u#hfssls.itm~ ~override~ 
+              ~u#swds94.itm~ ~override~  
+  WRITE_LONG 0x08 6745              
+  WRITE_LONG 0x50 6747  
+  LPF ALTER_ITEM_HEADER INT_VAR header_type = 1 animation_overhand = 10 animation_backhand = 25 animation_thrust = 65 END                     
+
+// bastard sword
+COPY_EXISTING ~u#swdb94.itm~ ~override~  
+              ~u#swdb95.itm~ ~override~ 
+              ~u#swdbrc.itm~ ~override~ 
+  WRITE_LONG 0x08 6646              
+  WRITE_LONG 0x50 6738     
+  LPF ALTER_ITEM_HEADER INT_VAR header_type = 1 animation_overhand = 50 animation_backhand = 50 animation_thrust = 0 END
+*/  

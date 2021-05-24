@@ -1,0 +1,7 @@
+IF
+  Global("U#SpawnConlan","AR0702",0)
+THEN
+  RESPONSE #100
+    CreateCreature("u#conlan",[761.331],4)  
+    SetGlobal("U#SpawnConlan","AR0702",1)
+END

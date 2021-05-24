@@ -1,0 +1,835 @@
+@4    = ~This mighty weapon consists of a four  to five foot haft with a very heavy blade.  The axe may be double-bitted, with blades on both sides of the haft, or it may only have a single blade.  It is an unwieldy weapon, but a skilled warrior can strike blows of tremendous strength with it. Dwarven runes have been etched into the giant blade to further enhance the axe.
+
+STATISTICS:
+
+Combat abilities:
+– Creatures struck are under the effects of the spell Blindness (Save vs. Spell negates)
+
+THAC0: +5 
+Damage: 1d12+5, +2d6 magic damage vs. evil creatures
+Damage type: slashing
+Speed Factor: 4
+Proficiency Type: Axe
+Type: Two-handed
+Requires: 
+ 10 Strength
+ 
+Weight: 20~
+@6    = ~This mighty weapon consists of a four to five foot haft with a very heavy blade.  The axe may be double-bitted, with blades on both sides of the haft, or it may only have a single blade.  It is an unwieldy weapon, but a skilled warrior can strike blows of tremendous strength with it. Dwarven runes have been etched into the giant blade to further enhance the axe.
+
+STATISTICS:
+
+Equipped abilities:
+– Cold Resistance: +50%
+
+Combat abilities:
+– Frost Burst: 2d6 cold damage plus 10% chance of +2d10 extra cold damage
+
+THAC0: +5 
+Damage: 1d12+5 (slashing)
+Speed Factor: 4
+Proficiency Type: Axe
+Type: Two-handed
+Requires: 
+ 10 Strength
+ 
+Weight: 20~
+@8    = ~This mighty weapon consists of a four to five foot haft with a very heavy blade.  The axe may be double-bitted, with blades on both sides of the haft, or it may only have a single blade.  It is an unwieldy weapon, but a skilled warrior can strike blows of tremendous strength with it. Dwarven runes have been etched into the giant blade to further enhance the axe.
+
+STATISTICS:
+
+Equipped abilities:
+– Blur (+3 bonus to AC, +1 bonus to saving throws)
+
+Combat abilities:
+– Target must save vs. Poison or take 1 additional point of damage per round for 10 rounds
+
+THAC0: +5 
+Damage: 1d12+5 (slashing)
+Speed Factor: 4
+Proficiency Type: Axe
+Type: Two-handed
+Requires:
+ 10 Strength
+
+Weight: 20~
+@10   = ~This mighty weapon consists of a four to five foot haft with a very heavy blade.  The axe may be double-bitted, with blades on both sides of the haft, or it may only have a single blade.  It is an unwieldy weapon, but a skilled warrior can strike blows of tremendous strength with it. Dwarven runes have been etched into the giant blade to further enhance the axe.
+
+STATISTICS:
+
+Combat abilities:
+– Corrosive Burst: 2d6 acid damage plus 10% chance of +2d10 extra acid damage
+
+THAC0: +5 
+Damage: 1d12+5 (slashing)
+Speed Factor: 4  
+Proficiency Type: Axe
+Type: Two-handed
+Requires:
+ 10 Strength
+
+Weight: 20~
+@12   = ~This mighty weapon consists of a four to five foot haft with a very heavy blade.  The axe may be double-bitted, with blades on both sides of the haft, or it may only have a single blade.  It is an unwieldy weapon, but a skilled warrior can strike blows of tremendous strength with it. Dwarven runes have been etched into the giant blade to further enhance the axe.
+
+STATISTICS:
+
+Combat abilities:
+– Flaming Burst: 2d6 fire damage plus 10% chance of +1d10 extra fire damage
+
+THAC0: +5 
+Damage: 2d12+5 (slashing)
+Speed Factor: 4
+Proficiency Type: Axe
+Type: Two-handed
+Requires:
+ 18 Strength
+ 
+Weight: 30~
+@14   = ~This mighty weapon consists of a four to five foot haft with a very heavy blade.  The axe may be double-bitted, with blades on both sides of the haft, or it may only have a single blade.  It is an unwieldy weapon, but a skilled warrior can strike blows of tremendous strength with it. Dwarven runes have been etched into the giant blade to further enhance the axe.
+
+STATISTICS:
+
+Equipped abilities:
+– Strength: +1
+
+THAC0: +5
+Damage: 1d12+5 (slashing)
+Speed Factor: 4
+Proficiency Type: Axe
+Type: Two-handed
+Requires:
+ 10 Strength
+
+Weight: 20~
+@16   = ~This mighty weapon consists of a four to five foot haft with a very heavy blade.  The axe may be double-bitted, with blades on both sides of the haft, or it may only have a single blade.  It is an unwieldy weapon, but a skilled warrior can strike blows of tremendous strength with it. Dwarven runes have been etched into the giant blade to further enhance the axe.
+
+STATISTICS:
+
+Combat abilities:
+- Strikes as a +5 weapon
+– Flaming Burst: 1d6 fire damage plus 10% chance of +1d10 extra fire damage
+– Frost Burst: 1d6 cold damage plus 10% chance of +1d10 extra cold damage
+– Shocking Burst: 1d6 electrical damage plus 10% chance of +1d10 extra electrical damage
+
+Damage: 1d12 (slashing)
+Speed Factor: 4
+Proficiency Type: Axe
+Type: Two-handed
+Requires:
+ 18 Strength
+
+Weight: 20~
+@18   = ~This mighty weapon consists of a four to five foot haft with a very heavy blade.  The axe may be double-bitted, with blades on both sides of the haft, or it may only have a single blade.  It is an unwieldy weapon, but a skilled warrior can strike blows of tremendous strength with it.
+
+STATISTICS:
+
+Combat abilities:
+- Strikes as a +5 weapon
+– Flaming Burst: 1d6 fire damage plus 10% chance of +1d10 extra fire damage
+– Vampiric: +2 magic damage and adds +2 temporary hit points to wielder
+
+Damage: 1d12 (slashing)
+Speed Factor: 4
+Special:
+Proficiency Type: Axe
+Type: Two-handed
+Requires:
+ 18 Strength
+ 
+Weight: 20~
+@20   = ~Priests of Helm in Berdusk consecrated this belt and gave it to the warrior Thom Wainwright, who had performed a number of great services for the church, including the destruction of the Unseeing Eye and the cult that followed him, the Blinded Acolytes.  Thom wore the girdle proudly until he fell into severe debt in his later years.  To his undying regret, he auctioned it off to a well-known priest of Mask.
+
+STATISTICS:
+
+Equipped abilities:
+– Bless on wearer
+
+Weight: 2~
+@22   = ~During the Golden Age between the Elves of the Seldarine's Hand and the Dwarves of Dorn Deep, special version of the illustrious elven chainmail were made that added protection against the harsh weather conditions of the north.
+
+STATISTICS:
+
+Equipped abilities:
+– Cold Resistance: +50%
+– Open Locks: -5%
+– Find Traps: -5%
+– Pick Pockets: -20%
+– Move Silently: -10%
+– Hide In Shadows: -10%
+– Spellcasting is not disabled
+
+Armor Class: 2 (0 vs. slashing, 4 vs. crushing)
+Requires:
+ 8 Strength
+
+Weight: 15~
+@24   = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter than the dagger. 
+
+STATISTICS:
+
+Combat abilities:
+– Target must save vs. Poison or take 2 additional points of damage per second for 6 seconds
+
+THAC0: +2 
+Damage: 1d4+2 (piercing)
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Require:
+ 3 Strength
+
+Weight: 1~
+@26   = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter than the dagger. 
+
+STATISTICS:
+
+Equipped abilities:
+– Move Silently: +20%
+– Hide In Shadows: +20%
+
+THAC0: +3 
+Damage: 1d4+3 (piercing)
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Require:
+ 3 Strength
+
+Weight: 1~
+@28   = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter than the dagger. 
+
+STATISTICS:
+
+Combat abilities:
+– Vampiric: +2 magic damage and adds +2 temporary hit points to wielder
+
+THAC0: +1 
+Damage: 1d4+1 (piercing)
+Speed Factor: 1
+Proficiency Type: Dagger
+Type: One-handed
+Require:
+ 3 Strength
+
+Weight: 1~
+@30   = ~The dart is a small, easily concealable missile weapon that is thrown rather than fired from a bow or other launcher. Lines of power have been carefully scribed into the shaft of the weapon.
+
+STATISTICS:
+
+Combat abilities:
+– Returns to the wielder's hand when thrown
+– 25% chance target must save vs. Paralyzation or be stunned for 3 seconds
+
+THAC0: +1
+Damage: 1d4+1 (missile)
+Speed Factor: 1
+Proficiency Type: Dart
+Type: One-handed
+
+Weight: 0~
+@32   = ~The dart is a small, easily concealable missile weapon that is thrown rather than fired from a bow or other launcher. Lines of power have been carefully scribed into the shaft of the weapon.
+
+STATISTICS:
+
+Combat abilities:
+– Returns to the wielder's hand when thrown
+– Target must save vs. Poison or take 2 additional points of damage per second for 6 seconds
+
+Damage: 1d4 (missile)
+Speed Factor: 2
+Proficiency Type: Dart
+Type: One-handed
+ 
+Weight: 0~
+@34   = ~Like others of its type, this halberd consists of a cleaver-like axe blade mounted on a staff approximately six feet in length. It has also been bestowed with a small number of magical properties, however, thus making it more effective in combat. Its keen blade, for instance, will shear through your opponent's flesh to find the bone while its barbed tip will seek out gaps in their armor.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +1
+
+Combat abilities:
+- Strikes as a +5 weapon
+– Flaming Burst: 2d6 fire damage plus 10% chance of +1d10 extra fire damage
+
+Damage: 1d10 (piercing)
+Speed Factor: 4
+Proficiency Type: Halberd
+Type: Two-handed
+Requires:
+ 13 Strength
+ 
+Weight: 14~
+@36   = ~Like others of its type, this halberd consists of a cleaver-like axe blade mounted on a staff approximately six feet in length. It has also been bestowed with a small number of magical properties, however, thus making it more effective in combat. Its keen blade, for instance, will shear through your opponent's flesh to find the bone while its barbed tip will seek out gaps in their armor.
+
+STATISTICS:
+
+Combat abilities:
+– Vampiric: +2 magic damage and adds +2 temporary hit points to wielder
+
+THAC0: +4 
+Damage: 2d8+4, +2d6 magic damage vs. good creatures
+Damage type: piercing
+Speed Factor: 5
+Proficiency Type: Halberd
+Type: Two-handed
+Requires:
+ 18 Strength
+
+Weight: 28~
+@38   = ~Like others of its type, this halberd consists of a cleaver-like axe blade mounted on a staff approximately six feet in length. It has also been bestowed with a small number of magical properties, however, thus making it more effective in combat. Its keen blade, for instance, will shear through your opponent's flesh to find the bone while its barbed tip will seek out gaps in their armor.
+
+STATISTICS:
+
+Combat abilities:
+– 1 extra attack per round
+
+THAC0: +5 
+Damage: 1d10+5 (piercing)
+Speed Factor: 4
+Proficiency Type: Halberd
+Type: Two-handed
+Requires:
+ 13 Strength
+
+Weight: 14~
+@40   = ~Like others of its type, this warhammer is made entirely of steel, with a bone-crushing hammer mounted upon an 18" shaft.  It has also been bestowed with a small number of magical properties, however, thus making it more effective in combat.  
+
+STATISTICS:
+
+Combat abilities:
+– Corrosive Burst: 1d6 acid damage plus 10% chance of +1d10 extra acid damage
+
+THAC0: +5 
+Damage: 1d8+5, +2d6 magic damage vs. evil creatures
+Damage type: crushing
+Speed Factor: 0
+Proficiency Type: War Hammer
+Type: One-handed
+Requires:
+ 9 Strength
+
+Weight: 7~
+@42   = ~Delnar was a timid mage who never was one for adventure.  He spent most of his life in quiet study, living with his mother, trying to learn the art of crafting magical items.  For his first attempt, Delnar decided to create a dart that would be a mage's best friend.  The weapon would unerringly strike a target, dispel any magical protection, and then return to its user.
+
+Unfortunately, just as he was placing the final enchantments on the item, Delnar's mother entered into the room, saw the dart, and said "Careful, ye'll put an eye out with that."  Much to his dismay, his mother's words became a part of the enchantment.  The dart did seem to work as intended, but occasionally would strike the user blind upon its return.
+
+STATISTICS:
+
+Combat abilities:
+– Returns to the wielder's hand when thrown
+– 90% chance of casting Remove Magic on target 
+– 5% chance of blindness on wielder (save vs. death to negate)
+
+THAC0: +5 
+Damage: 1d4+5 (missile)
+Speed Factor: 0
+Proficiency Type: Dart
+Type: One-handed
+
+Weight: 1~
+@44   = ~Devised forty years ago by the ambitious Talonite necromancer-priestess Presio, these devices only started gaining popularity among the church of Talona in the past six or seven years.  Presio was well known in certain circles throughout the north, though her presence often went unnoticed by those who would dread it.  Around 1280, Presio became involved in a strange demonic plot in the Spine of the World mountains.  Only a few of her fellows followed her on her journey.  Though she and her allies were slain in the volcano of Dragon's Eye, the many recipes and formulae for her potions and magical weapons survived.
+
+STATISTICS:
+
+Combat abilities:
+– Casts Insect Plague upon striking a target
+ 
+THAC0: +3
+Damage: 1d4+3 (missile)
+Speed Factor: 0
+Proficiency Type: Dart
+Type: One-handed
+
+Weight: 0~
+@46   = ~This odd pole-arm appears to be a cross between a halberd and a warhammer, fitted with a four-pronged hammerhead and a long thrusting spike.
+
+Its creation was the result of a blunder made during the commission of an enchanted item for Lodur the Brave (alternately known as Lodur Iron-Bollocks, Lodur the Foolhardy, and Lodur the Dullard), a powerful but none-to-bright cleric.  Lodur had of heard rumors of a mighty long-hafted hammer, possibly wielded by a hero known as Lucerne, or perhaps that's where it was made, which may or may not have had to do with a land or king or deity called Swizaria, or Switzlund, or "something of that nature, I am most certain."
+
+"Oh," he had then added, "and pray thee bless it as well... thou dost know, that one where it explodes undead most explosively and what-not, so that I might get my most righteous smite on."
+
+Lodur's fierce demeanor, violent reputation, and sacks of gold begged quiet compliance, and so the dwarven arms-master simply nodded and sent the cleric on his way, promising the weapon in two months' time.  The arm-master consulted with his clan's lore-master and sure enough, there *was* word of such a weapon: it came from a trader in Sigil by way of an exceptionally well-traveled plane-walker.  The arms-master dutifully copied the weapon's function and form, working runes of power into its haft and head just as Lodur had asked for.
+
+When Lodur the Brave returned to the dwarven stronghold to pick up his new hammer, he found instead a spiked pole-arm whose use was forbidden by his religion.  The cleric ranted and gnashed his teeth and swore up and down the halls of the clan before stomping off in disgust, leaving his payment and the somewhat inappropriately named "Holy Swizarnian Hammer of Lucerne" behind.
+
+STATISTICS:
+
+Combat abilities:
+– Undead must save vs. Death at -4 or be utterly destroyed
+– 25% chance of casting Holy Smite on target with each successful hit
+
+THAC0: +3 
+Damage: 1d10+3 (piercing)
+Speed Factor: 6
+Proficiency Type: Halberd
+Type: Two-handed
+Requires:
+ 13 Strength
+
+Weight: 15~
+@48   = ~Life's Blood Drinker is a beautiful weapon to behold.  The spear sports an eighteen inch head with a serrated blade fashioned from adamantine steel.  Upon each face of the blade are small openings that appear to lead within the haft of the weapon.  The blade is also etched with glowing silver runes.  The haft of the weapon measures six feet in length.  It is constructed of highly polished oak reinforced with mithril bands along its length.  The haft is hollow.
+
+Life's Blood Drinker is vicious in combat.  The spear is a poison weapon (make a save vs. poison or suffer damage each round) and vampiric (deals magic damage to the target and heals the wielder).  The accuracy of the weapon has been enhanced as well.
+
+STATISTICS:
+
+Combat abilities:
+– Vampiric: +2 magic damage and adds +2 temporary hit points to wielder
+– Target must save vs. Poison or take 1 additional point of damage per round for 10 rounds
+
+THAC0: +5
+Damage: 1d8+5 (piercing)
+Speed Factor: 1
+Proficiency Type: Spear 
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 6~
+@50   = ~Blades such as this are often gifts to capable assassins in the service of Lolth.  The entire weapon is as black as pitch and reflects no light; its grip is textured with a delicate web pattern while hundreds of tiny spiders are engraved along the two-foot blade.  The short sword's dark magic not only protects the wielder from the effects of magical webs, but can entangle a target with webs of its own as well.
+
+An assassin typically uses the weapon to seal a target in a cocoon of silk, stepping away from their thrashing foe to complete the murder with a poisoned dart or wrist-crossbow bolt.  Such weapons have also helped many a would-be assassin flee from something that they've backstabbed but failed to kill with a single blow.
+
+STATISTICS:
+
+Equipped abilities:
+– Lolth's Blessing: The wearer is immune to everything, magical and otherwise, that affects mobility in any way. This includes Haste and Slow spells.
+
+Combat abilities:
+– Lolth's Curse: 33% chance target takes 2 additional points of poison damage per second for 7 seconds
+– Lolth's Curse: 33% chance to Web target for 7 seconds
+
+THAC0: +3 
+Damage: 1d6+3 (piercing)
+Speed Factor: 0
+Proficiency Type: Short Sword
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 3~
+@52   = ~The mace is a direct descendant of the basic club, being nothing more than a wooden shaft with an iron head mounted on the end.  In this case, the head is pyramidal and seems to glow with an inner blue light, as it sits atop a polished oak shaft.  
+
+STATISTICS:
+
+Combat abilities:
+- Strikes as a +5 weapon
+– Target must save vs. Paralyzation or be stunned for 3 seconds
+– Frost Burst: 1d6 cold damage plus 10% chance of +1d10 extra cold damage
+
+Damage: 1d8 (crushing)
+Speed Factor: 2
+Proficiency Type: Mace
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 12~
+@54   = ~The mace is a direct descendant of the basic club, being nothing more than a wooden shaft with an iron head mounted on the end.  In this case, the head is pyramidal and seems to glow with an inner blue light, as it sits atop a polished oak shaft.  
+
+STATISTICS:
+
+Combat abilities:
+- Strikes as a +5 weapon
+– 33% chance of casting Holy Smite on target with each successful hit
+
+Damage: 1d8, +2d6 magic damage vs. evil creatures
+Damage type: crushing
+Speed Factor: 2
+Proficiency Type: Mace
+Type: One-handed
+Requires:
+ 10 Strength
+ 
+Weight: 12~
+@56   = ~The mace is a direct descendant of the basic club, being nothing more than a wooden shaft with an iron head mounted on the end.  In this case, the head is pyramidal and seems to glow with an inner blue light, as it sits atop a polished oak shaft.  
+
+STATISTICS:
+
+Combat abilities:
+- Strikes as a +5 weapon
+– Undead must save vs. Death at -4 or be utterly destroyed
+– Flaming Burst: 1d6 fire damage plus 10% chance of +1d10 extra fire damage
+
+Damage: 1d8 (crushing)
+Speed Factor: 2
+Proficiency Type: Mace
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 12~
+@58   = ~One of man's earliest weapons, dating back to the most primitive of times, the first spears were simply wooden poles or sticks sharpened at one end.  When man mastered metals, spearheads were made from iron and steel.  Having reached this end, weaponers began experimenting with different types of spear heads, thus leading to the development of certain polearm types.  This spear is slightly different though, as it has been imbued with certain magical properties.
+
+STATISTICS:
+
+Combat abilities:
+– Target must save vs. Paralyzation or be stunned for 3 seconds
+
+THAC0: +2 
+Damage: 1d8+2 (piercing)
+Speed Factor: 4
+Proficiency Type: Spear 
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 5~
+@60   = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length.  Masterwork quarterstaffs are made of stout oak and are shod with metal at both ends.  This one is particularly special as it has been imbued with magical properties.  
+
+STATISTICS:
+
+Combat abilities:
+– Phantom: Projects a ghostly image of the weapon, allowing the wielder to strike opponents up to 15 lengths away. 
+
+THAC0: +5 
+Damage: 1d6+5 (crushing)
+Speed Factor: 0
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+@62   = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length.  Masterwork quarterstaffs are made of stout oak and are shod with metal at both ends.  This one is particularly special as it has been imbued with magical properties.  
+
+STATISTICS:
+
+Equipped abilities:
+– Magic Resistance: +15%
+
+Combat abilities:
+– Target must save vs. Poison or take 2 additional points of damage per second for 6 seconds
+
+THAC0: +5 
+Damage: 1d6+5 (crushing)
+Speed Factor: 0
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+@64   = ~Also known as the hand-and-a-half sword, the bastard sword derives its name from the fact that it is halfway between the greatsword and the longsword. The bastard sword has a double-edged blade and a long grip, which can accommodate both hands if preferred.  The overall length of the bastard sword ranges between four feet and four feet ten inches.   
+
+STATISTICS:
+
+Combat abilities:
+– 25% chance target must save vs. Paralyzation or be stunned for 3 seconds
+– Target must save vs. Poison or take 2 additional points of damage per second for 6 seconds
+– Corrosive Burst: 1d6 acid damage plus 10% chance of +1d10 extra acid damage
+
+Damage: 1d10 (slashing)
+Speed Factor: 3
+Proficiency Type: Bastard Sword
+Type: One-handed
+Requires:
+ 11 Strength
+ 
+Weight: 9~
+@66   = ~Also known as the hand-and-a-half sword, the bastard sword derives its name from the fact that it is halfway between the greatsword and the longsword. The bastard sword has a double-edged blade and a long grip, which can accommodate both hands if preferred.  The overall length of the bastard sword ranges between four feet and four feet ten inches.   
+
+STATISTICS:
+
+Equipped abilities:
+– Strength: +2
+
+Combat abilities:
+- Strikes as a +5 weapon
+– Flaming Burst: 2d6 fire damage plus 10% chance of +2d10 extra fire damage
+
+Damage: 1d10 (slashing)
+Speed Factor: 3
+Proficiency Type: Bastard Sword
+Type: One-handed
+Requires:
+ 11 Strength
+
+Weight: 9~
+@68   = ~This weapon is a sight to behold.  The blade is crafted of red-gold with a silver edge.  The guard is finely polished platinum, and the wire wound hilt is crafted of black adamantine.  When drawn, the blade radiates a rainbow of colors.
+
+This weapon has been considered both a curse and a blessing by those who wield it.  Against most creatures it does devastating damage and attacks are made with an uncanny accuracy.  Rage of Chaos has been known to turn the tide in many a battle.  Unfortunately, the victim often loses control of his or her faculties and flies into a state of confusion when struck by the weapon.  The chaotic powers of the blade also prevent the wielder from being controlled or confused in battle.
+
+The history of Rage of Chaos is unknown.  The weapon has appeared throughout the realms in various battles over the centuries only to be lost once again.
+
+STATISTICS:
+
+Equipped abilities:
+– Chaotic Commands on wearer
+
+Combat abilities:
+– Target must save vs. Spells at -4 or be under the effects of Chaos for 3 rounds
+
+THAC0: +3 
+Damage: 1d10+3, +2d6 magic damage vs. lawful creatures
+Damage type: slashing
+Speed Factor: 5
+Proficiency Type: Bastard Sword
+Type: One-handed
+Requires:
+ 11 Strength
+
+Weight: 8~
+@70   = ~The short sword is the first type of sword to come into existence.  In the simplest of terms, a short sword can be considered a dagger with a blade so long that it can no longer be called a dagger.  The term short sword does not exist in sword classifications.  However, it has come to be used to describe a double-edged blade about two feet in length.  The sword tip is usually pointed, ideal for thrusting.  
+
+STATISTICS:
+
+Combat abilities:
+- Shocking Burst: 2d6 electric damage plus 10% chance of +2d10 extra electric damage
+– Target must save vs. Poison or take 1 additional point of damage per round for 10 rounds
+
+THAC0: +5 
+Damage: 1d6+5 (piercing)
+Speed Factor: 0
+Proficiency Type: Short Sword
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 3~
+@72   = ~This heavy-headed hammer looks like it was used for construction on the Palisade, and it's possible that none of the workers were aware of its enchanted nature.  While this weapon is a little slower and heavier than a warhammer, its swing is true and does more damage when it hits.  A single tap from this hammer creates a clear, ringing note. 
+
+STATISTICS:
+
+Equipped abilities:
+– Strength: +3
+
+THAC0: +4 
+Damage: 1d8+4 (crushing)
+Speed Factor: 6
+Proficiency Type: War Hammer
+Type: One-handed
+Requires:
+ 9 Strength
+
+Weight: 9~
+@74   = ~This long spear is made of a thick shaft of oak, and it looks like it has been used extensively in hunting arctic boars.  It bears numerous sigils and runes along its haft to help it strike straight and true, and when held in a life or death situation, the spear can lash out at an opponent up to five lengths from the wielder, taking the victim down before they can even enter close combat.
+
+STATISTICS:
+
+Combat abilities:
+– Reach of 5 lengths, rather than a spear's normal 2
+
+Charge abilities:
+– Breach three times per day
+  Special: Dispels all specific and combat protections on target
+  Range: 40 ft.
+  Area of Effect: 1 creature
+
+– Lower Resistance three times per day
+  Special: Lowers the magic resistance of the target creature
+  Range: 40 ft.
+  Area of Effect: 1 creature
+
+THAC0: +4 
+Damage: 1d8+4 (piercing)
+Speed Factor: 1
+Proficiency Type: Spear 
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 7~
+@76   = ~This ironwood staff was once held by the goblin sorcerer Caballus, and it still bears the stink of his touch.  Trails of runes encircle the staff like snakes, and aside from a single minor rune of accuracy and another of wounding, the rest appear to be nonsense syllables and bunk.  The staff is surprisingly light and well-balanced for its size, and it can be held easily in one hand. 
+
+STATISTICS:
+
+Equipped abilities:
+– Move Silently: +15%
+
+Combat abilities:
+– Target must save vs. Spell or be silenced
+
+Charge abilities:
+– Mass Invisibility once per day
+  Special: Improved Invisibility on all friendly creatures in area of effect 
+  Range: Visual range of the caster
+  Area of Effect: 15-ft. radius
+
+THAC0: +3 
+Damage: 1d6+4 (crushing)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 3~
+@78   = ~Belib the Wary was arguably the best-equipped adventurer the realms had ever known - or would have been, had he ever actually left his home on one.  Just one item from his astounding list of enchanted dungeoneering equipment is his Everlasting Torch.  A magical lantern fashioned in the shape of an elaborate wooden torch, the item burns with a bright orange flame that cannot be extinguished - whether dunked in water, buried under several feet of rock, or smashed over the head of a soggy marsh-troll, Belib's Everlasting Torch simply will not be put out.
+
+When Belib finally finished the last of his items, he crammed them all into a giant pack - enchanted to hold far more than Belib could normally carry himself, of course - and heaved it onto his shoulders, prepared for the adventure of a lifetime.  As Belib crossed the threshold of his dwelling he tripped... and the tiny gnome was instantly crushed beneath his enormous backpack.  The bag burst open, its contents scattering across the Waterdeep street where Belib had lived and rapidly vanishing into the hands of various good-for-nothing passersby.
+
+Belib's corpse was eventually taken to a temple and raised by a kind-hearted priestess, but by then the last of Belib's enchanted items... and most of the contents of his home... were long gone.  Grateful but understandably upset, Belib fashioned a number of unique magical items for the priestess before returning to his family and homeland, forever vanishing from the surface world.
+
+STATISTICS:
+
+Combat abilities:
+– Flaming Burst: 2d6 fire damage plus 10% chance of +1d10 extra fire damage
+
+Damage: 1d6 (crushing)
+Speed Factor: 7
+Proficiency Type: Mace
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 5~
+@80   = ~There is great mystery surrounding this leather armor. No one knows how or where it came into existence.  What is known is that the leather was cut from the hide of a Cornugon. The armor is colored a deep black and riddled with very tough, barbed scales.  In addition, it has an unusual, very light, vinegary smell.
+
+Those that have worn the Cornugon Hide were bestowed with a rather high invulnerability to non-magical weapons and the ability to slowly regenerate from injuries. 
+
+STATISTICS:
+
+Equipped abilities: 
+– Immunity to normal weapons
+– Regenerate 1 Hit Point per turn
+
+Armor Class: 5 (7 vs. piercing and missile)
+Requires:
+ 6 Strength
+
+Weight: 15~
+@82   = ~The Dire-Hammer Valorfoe is a frightful weapon, one forged to break an enemy's spirit as well as their armor and bones.  It is ancient, its artisan's name long-lost even to the vast historical records of the gray dwarves.  Covered in runes of cruel power, The Dire-Hammer Valorfoe bears a single inscription in the tongue of ancient dwarves, now used only by the duergar:
+
+"'Tis Not Death That Is Worthy of Dread, But The Fear of Death"
+
+Every blow from The Dire-Hammer Valorfoe has the chance of striking terror into the target's heart, causing them to flee madly from the hammer's wielder.
+
+STATISTICS:
+
+Combat abilities:
+– Target must save vs. Spell or flee in terror for 21 seconds
+
+THAC0: +3 
+Damage: 1d10+3 (crushing)
+Speed Factor: 1
+Proficiency Type: War Hammer
+Type: One-handed
+Requires:
+ 9 Strength
+
+Weight: 7~
+@84   = ~No one knows where this enchanted parrying dagger first came from, though it gained its fame in the service of the notorious corsair captain "Baron" Sulo of Luskan.  When Sulo and crew made to steal the Leberm family jewels from a small transport ship off the coast of Port Llast, they found themselves confronted by a group of experienced adventurers hired on as guards.  One in particular fought like a devil, wielding a matched set of finely wrought dueling blades.  The unnamed adventurer slew many of Sulo's men and, coming to clash with the corsair captain himself, severed Sulo's left hand.  "Baron" Sulo would have died that day were it not for a stray ballista round from the Leberm ship - the enormous spear struck the unlucky swordsman squarely and carried him over the side of Sulo's ship in a flash.  All that remained of him was his elaborate parrying blade, left spinning on the deck as if he'd never been there.
+
+Sulo elected to graft the swordsman's parrying blade to the stump of his left wrist in the place of a common hook.  When Sulo was killed some nine years later, the blade was interned with him in a concealed tomb along with a substantial quantity of gems and coins.  Despite the "secret" nature of Sulo's final resting place, the site was quickly plundered and "Baron" Sulo's Hook passed into hands of other men.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +3
+– Saving Throws: +1
+– Resistance to Magic Damage: +15%
+
+THAC0: -1 penalty (strikes as a +1 weapon)
+Damage: 1d4+1 (piercing)
+Speed Factor: 1
+Proficiency Type: Dagger
+Require:
+ 3 Strength
+
+Weight: 1~
+@86   = ~As gratitude and a show of good faith towards Saablic Tan for joining with the Legion of the Chimera, Isair and Madae gave Saablic the Xvimian Fang of Despair dagger.
+
+Forged from the finest metals and enchanted with the darkest magics akin to Xvimian lore, the Xvimian Fang reflects no light from its blackened steel.  The blade is so black, in fact, that any details that usually stand out from a curved dagger blade are completely absent.  It is as if the blade actually absorbs light. 
+
+Saablic Tan always keeps the Xvimian Fang of Despair close, not just because the dagger has the awesome power to potentially turn individuals to stone, or cause eminent hopelessness, when attacked, but because the dagger actually increases the wielder's intellect - truly a powerful weapon befitting a powerful wizard.
+
+STATISTICS:
+
+Equipped abilities:
+– Intelligence: +4
+
+Combat abilities:
+– 5% chance of casting the spell Flesh to Stone on target per hit
+– 20% chance of casting the spell Emotion: Hopelessness on target per hit
+
+THAC0: +5 
+Damage: 1d4+5 (piercing)
+Speed Factor: 0
+Proficiency Type: Dagger
+Require:
+ 3 Strength
+  
+Weight: 1~
+@88   = ~The neo-orog captain, Sprawg, is the current instructor of general battle tactics for the new Legion of the Chimera recruits.  As such, he needed a tool to keep his new recruits submissive and in line.  Thus, the Monkey Paw of Discipline was created.
+
+The Monkey Paw of Discipline looks exactly like the name describes.  It consists mainly of a large, petrified monkey's arm severed at the shoulder.  At the shoulder joint, it looks like a one-handed grip was jammed into the bone and magically fused. At the opposite end, the paw is open and is the main dealer of pain.  Once someone is smacked with the paw, aside from the considerable damage, there is a chance that the recipient of the discipline will suffer from heightened fear and/or confusion.  Once these symptoms wear off, it is not likely that the recipient of the paw's discipline will ever be a problem in the future, especially while class is in session.
+
+STATISTICS:
+
+Combat abilities:
+– 1 extra attack per round
+
+Combat abilities:
+– 15% chance target must save vs. Spell or flee in terror for 35 seconds
+– 5% chance target must save vs. Spell or be confused for 63 seconds
+
+THAC0: +3
+Damage: 1d6+3 (crushing)
+Speed Factor: 4
+Proficiency Type: Mace
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 3~
+@90   = ~As one of the perks of being the Tyrannar (high cleric) of the Xvimian faith within the Legion of the Chimera, Brutai Mar received the deadly warhammer, Brutal Impact.
+
+This hammer sports a finely etched shaft with images of Iyachtu Xvim fending off legions of paladins.  Its exquisitely crafted mithral hammer is much larger than most warhammers, yet seems no heavier.  Like many weapons made with the unholy enchantments of Iyachtu Xvim, the metal of the hammer seems to absorb light into its unending blackness.
+
+On the few occasions that the Tyrannar Brutai Mar has used his weapon on his foes, Brutai has felt increased strength and improved accuracy.  In addition, some of the crushing blows were accompanied by bursts of Xvimian acid - the same acid that flows throw the waters within Severed Hand.
+
+STATISTICS:
+
+Equipped abilities:
+– Strength: +2
+
+Combat abilities:
+– Corrosive Burst: 33% chance of 2d6 acid damage plus 10% chance of +2d10 extra acid damage
+
+THAC0: +5 
+Damage: 1d8+3 (crushing)
+Speed Factor: 0
+Proficiency Type: War Hammer
+Type: One-handed
+Requires:
+ 9 Strength
+
+Weight: 7~
+@91   = ~Pudu's Fiery Blight~
+@92   = ~Captain Pudu, the Captain of the Guard of the Legion of the Chimera, is undoubtedly a master of overkill.  Typical of half-goblins, Pudu felt the need to wield the largest weapon physically possible for the vertically challenged half-breeds; the halberd.  
+
+Naturally, not satisfied with any ordinary halberd, Pudu commissioned for particularly nasty weapon enchantments on his weapon of choice.  In line with the position Pudu held within the Legion of the Chimera, his new halberd, which he affectionately called Pudu's Fiery Blight, caused excessive fire damage on those who were unfortunate enough to be on the receiving end of the red glowing blade.  In addition, the halberd has been known to stun the opponent, rendering the target unable to fend off Pudu's attack, and even lower the target's resistances.  An opponent that cannot fight back is indeed Pudu's favorite type of opponent - just don't tell that to Pudu.
+
+STATISTICS:
+
+Combat abilities:
+– 25% chance target must save vs. Paralyzation or be stunned for 3 seconds
+– Flaming Burst: 2d6 fire damage plus 10% chance of +2d10 extra fire damage
+– 5% chance of lowering the target's magic resistance by 25% for 140 seconds
+
+THAC0: +5 
+Damage: 1d10+5 (piercing)
+Speed Factor: 4
+Proficiency Type: Halberd
+Type: Two-handed
+Requires:
+ 13 Strength
+
+Weight: 14~
+@94   = ~The mace is a direct descendant of the basic club, being nothing more than a wooden shaft with an iron head mounted on the end.  In this case, the head is pyramidal and seems to glow with an inner blue light, as it sits atop a polished oak shaft.  
+
+STATISTICS:
+
+Combat abilities:
+– Slays gnolls, goblins, hobgoblins, kobolds, and orcs
+
+THAC0: +1 
+Damage: 1d8+1 (crushing)
+Speed Factor: 6
+Proficiency Type: Mace
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 12~
