@@ -201,6 +201,29 @@ APPEND ~itemexcl.2da~ ~u#hfheah 1~ // cornugon hide armor
 APPEND ~tooltip.2da~ ~u#hfsfws %name_hfsfws% 32427 -1~    // Caballus' Whispering Staff (mass invis)
 APPEND ~tooltip.2da~ ~u#hfsrnp %name_hfsrnp% 25914 16963~ // Twelve Paces (breach & lower resistance)
 
+// create remove magic spell w/o AoE or projectile for Delnar's Eye Gouger
+COPY_EXISTING ~spwi302.spl~ ~override/u#hfdtdd.spl~
+  LPF ALTER_SPELL_HEADER INT_VAR projectile = 1 END
+
+// create insect plague without traveling projectile
+COPY_EXISTING ~insec2.pro~ ~override/u#hfdtpd.pro~
+  WRITE_ASCII 0x104 ~~ #8 // remove traveling animation
+ADD_PROJECTILE ~override/u#hfdtpd.pro~
+COPY_EXISTING ~sppr517.spl~ ~override/u#hfdtpd.spl~
+  LPF ALTER_SPELL_HEADER INT_VAR projectile = ~u#hfdtpd~ END  
+
+// make creatures who were immune to orig insect plague also immune to clone
+COPY_EXISTING ~spellh01.itm~ ~override~
+  LPF CLONE_EFFECT STR_VAR match_resource = spwi302 resource = ~u#hfdtdd~ END     
+  BUT_ONLY IF_EXISTS
+
+// make creatures who were immune to orig insect plague also immune to clone
+COPY_EXISTING ~ohbetrai.itm~ ~override~
+              ~gorchr.itm~   ~override~
+              ~ohbdem01.cre~ ~override~
+  LPF CLONE_EFFECT STR_VAR match_resource = sppr517 resource = ~u#hfdtpd~ END     
+  BUT_ONLY IF_EXISTS           
+  
 ACTION_IF ee_game BEGIN
 
   // make 2h axes available to shamans
