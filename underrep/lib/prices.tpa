@@ -1,0 +1,70 @@
+// if you want to set custom prices, just edit the values in the following array
+// and un-comment the INCLUDE command in the tp2. 
+
+ACTION_DEFINE_ASSOCIATIVE_ARRAY cd_price_fixes BEGIN
+  // armor
+  ~U#BELT05~ =>  2900 // Girdle of Beatification (v6 price: 250)
+  ~U#CHAN07~ => 13000 // Elven Chainmail of the Hand +3 (v6 price: 13000)
+  ~U#HFHEAH~ => 12000 // Cornugon Hide Armor (v6 price: 10016)
+  // bastard swords
+  ~U#SWDB94~ => 21000 // Miasmic Bastard Sword (v6 price: 2600)
+  ~U#SWDB95~ => 27500 // Bastard Sword of Wrath (v6 price: 4700)
+  ~U#SWDBRC~ => 11000 // Rage of Chaos (v6 price: 8000)
+  // staves
+  ~U#HFSFWS~ => 12000 // Caballus' Whispering Staff (v6 price: 2700)
+  ~U#STAF86~ => 19000 // Phantom Staff +5 (v6 price: 4900)
+  ~U#STAF90~ => 15000 // Staff of Greater Spell Resistance +5 (v6 price: 5000)
+  // short swords
+  ~U#HFSSLS~ => 15000 // Lolth's Cruel Sting (v6 price: 9000)
+  ~U#SWDS94~ => 17000 // Charged Short Sword of Wounding +5 (v6 price: 17000)
+  // spears
+  ~U#HFSRIM~ => 15000 // Life's Blood Drinker (v6 price: 15000)
+  ~U#HFSRNP~ => 19000 // Twelve Paces (v6 price: 5000)
+  ~U#SPER89~ =>  4500 // Spear of Stunning +2 (v6 price: 3000)
+  //maces
+  ~U#CLUBBT~ =>  1800 // Belib's Everlasting Torch (v6 price: 1800)
+  ~U#CLUBMP~ =>  9500 // Monkey Paw of Discipline (v6 price: 4800)
+  ~U#MACE92~ =>  6000 // Mace of Stunning Frost Burst (v6 price: 3000)
+  ~U#MACE94~ =>  5500 // Mace of Holy Smite (v6 price: 2600)
+  ~U#MACE95~ =>  6000 // Flaming Burst Mace of Disruption (v6 price: 1800)
+  ~U#ZZL6MA~ =>  1800 // Mace of Goblin Slaying +1 (v6 price: 1800)
+  //daggers
+  ~U#DAGG90~ =>  3000 // Viper's Fang +2 (v6 price: 2500)
+  ~U#DAGG96~ =>  4000 // Cat's Paw Dagger +3 (v6 price: 2500)
+  ~U#DAGG98~ =>  1800 // Vampiric Dagger +1 (v6 price: 1800)
+  ~U#HFDGSH~ =>  9000 // "Baron" Sulo's Hook (v6 price: 9000)
+  ~U#HFDGXF~ => 14000 // Xvimian Fang of Despair (v6 price: 8000)
+  //darts
+  ~U#DART83~ =>  4700 // Returning Stun Dart +1 (v6 price: 2700)
+  ~U#DART84~ =>  2800 // Returning Poison Tipped Dart (v6 price: 2800)
+  ~U#HFDTDD~ =>  2500 // Delnar's Eye Gouger (v6 price: 1000)
+  ~U#HFDTPD~ =>   500 // Dire Plague Darts (v6 price: 400)
+  //halberds
+  ~U#HALB95~ =>  6000 // Infernal Halberd of the Defender (v6 price: 2500)
+  ~U#HALB96~ => 12000 // Massive Halberd of Hate +4 (v6 price: 15000)
+  ~U#HALB97~ => 16000 // Halberd of Speed +5 (v6 price: 16000)
+  ~U#HFHBHL~ =>  7500 // Holy Swizarnian Hammer of Lucerne (v6 price: 4700)
+  ~U#HFHBPB~ => 15000 // Pudu's Fiery Blight (v6 price: 15000)
+  //warhammers
+  ~U#HAMM94~ => 17000 // Holy Hammer of Corrosive Burst +5 (v6 price: 17000)
+  ~U#HAMMBI~ => 17000 // Brutal Impact (v6 price: 17000)
+  ~U#HFHRCR~ => 16000 // Slow and Steady (v6 price: 16000)
+  ~U#HFHRVA~ =>  6500 // The Dire-Hammer Valorfoe (v6 price: 2800)
+  // 2h axes
+  ~U#AX2H85~ => 16000 // Holy Greataxe of Justice +5 (v6 price: 16000)
+  ~U#AX2H86~ => 18000 // Greataxe of Ice +5 (v6 price: 18000)
+  ~U#AX2H87~ => 18000 // Greataxe of Blurred Visions +5 (v6 price: 18000)
+  ~U#AX2H93~ => 18000 // Greataxe of Digestion +5 (v6 price: 18000)
+  ~U#AX2H94~ => 20000 // Massive Greataxe of Flame +5 (v6 price: 20000)
+  ~U#AX2H95~ => 16000 // Greataxe of Might +5 (v6 price: 16000)
+  ~U#AX2H98~ => 16700 // Greataxe of Elemental Bursts (v6 price: 4700)
+  ~U#AX2H99~ => 15000 // Greataxe of Vampiric Flame (v6 price: 2600)
+
+END 
+
+ACTION_PHP_EACH cd_price_fixes AS item => price BEGIN
+
+  COPY_EXISTING ~%item%.itm~ ~override~
+    WRITE_LONG 0x34 price
+
+END
