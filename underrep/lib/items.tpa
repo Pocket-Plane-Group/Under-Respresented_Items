@@ -212,7 +212,7 @@ ADD_PROJECTILE ~override/u#hfdtpd.pro~
 COPY_EXISTING ~sppr517.spl~ ~override/u#hfdtpd.spl~
   LPF ALTER_SPELL_HEADER INT_VAR projectile = ~u#hfdtpd~ END  
 
-// make creatures who were immune to orig insect plague also immune to clone
+// make creatures who were immune to orig remove magic also immune to clone
 COPY_EXISTING ~spellh01.itm~ ~override~
   LPF CLONE_EFFECT STR_VAR match_resource = spwi302 resource = ~u#hfdtdd~ END     
   BUT_ONLY IF_EXISTS
@@ -222,21 +222,21 @@ COPY_EXISTING ~ohbetrai.itm~ ~override~
               ~gorchr.itm~   ~override~
               ~ohbdem01.cre~ ~override~
   LPF CLONE_EFFECT STR_VAR match_resource = sppr517 resource = ~u#hfdtpd~ END     
-  BUT_ONLY IF_EXISTS           
-  
-ACTION_IF ee_game BEGIN
+  BUT_ONLY IF_EXISTS
 
-  // make 2h axes available to shamans
-  COPY_EXISTING ~u#ax2h85.itm~ ~override~
-                ~u#ax2h86.itm~ ~override~
-                ~u#ax2h87.itm~ ~override~
-                ~u#ax2h93.itm~ ~override~
-                ~u#ax2h94.itm~ ~override~
-                ~u#ax2h95.itm~ ~override~
-                ~u#ax2h98.itm~ ~override~
-                ~u#ax2h99.itm~ ~override~ 
+// make 2h axes available to shamans, add generic name/descripts
+COPY_EXISTING ~u#ax2h85.itm~ ~override~
+              ~u#ax2h86.itm~ ~override~
+              ~u#ax2h87.itm~ ~override~
+              ~u#ax2h93.itm~ ~override~
+              ~u#ax2h94.itm~ ~override~
+              ~u#ax2h95.itm~ ~override~
+              ~u#ax2h98.itm~ ~override~
+              ~u#ax2h99.itm~ ~override~ 
+  SAY 0x08 @95
+  SAY 0x50 @96
+  PATCH_IF ee_game BEGIN            
     WRITE_BYTE 0x21 (THIS BAND `BIT6) // removes druid restriction, add back as 319 below
     LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 319 target = 1 parameter1 = 11 parameter2 = 5 timing = 2 special = 1080 END
-    BUT_ONLY
-
-END  
+  END  
+  BUT_ONLY

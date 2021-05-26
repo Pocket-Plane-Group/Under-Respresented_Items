@@ -989,3 +989,19 @@ Non utilizzabile da:
   Ladro
   Monaco
   Addestratore di Animali~
+
+// these strings were copied from IWDEE, not IWD, so adjust @96 for original BG2 as needed 
+@95 = ~Ascia a Due Mani~
+@96 = ~Questa possente arma consta di un manico lungo circa un metro e mezzo con una lama molto pesante. L'ascia può essere anche a doppio taglio, con lame su entrambi i lati dell'attaccatura, oppure ad una sola lama. È un'arma poco maneggevole, ma un guerriero esperto può vibrare colpi di enorme potenza con essa.
+
+STATISTICHE:
+
+Danno: 1d10 (tagliente)
+Fattore-velocità: 9
+Tipo di Competenza: Ascia
+Tipo: A due mani
+
+Richiede:
+Forza 10
+
+Peso: 10~

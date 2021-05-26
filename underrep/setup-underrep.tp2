@@ -32,12 +32,12 @@ LANGUAGE ~Traduction francaise (par Mathrim Cauthon, Mathrim.Cauthon@free.fr)~
 
 LANGUAGE ~Russian (SERKOS)~
          ~russian~
-         ~underrep/languages/russian/underrep.tra~
+         ~underrep/languages/russian/setup.tra~
          ~underrep/languages/russian/u#conlan.tra~
 
 LANGUAGE ~Italian (Stoneangel)~
          ~italian~
-         ~underrep/languages/italian/underrep.tra~
+         ~underrep/languages/italian/setup.tra~
          ~underrep/languages/italian/u#conlan.tra~
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
@@ -53,7 +53,7 @@ LANGUAGE ~Italian (Stoneangel)~
 /////                                                  \\\\\
 
 BEGIN @0 DESIGNATED 0 // wes' original version
-//SUBCOMPONENT @0 // just planning ahead
+//SUBCOMPONENT @0
 
 // shift items to library
 INCLUDE ~underrep/lib/items.tpa~ 
@@ -81,10 +81,9 @@ COPY ~underrep/sto/u#conlan.sto~ ~override/u#conlan.sto~
 /////                                                  \\\\\
 ///// Via placement                                    \\\\\
 /////                                                  \\\\\
-
 /*
-BEGIN @xxx DESIGNATED 10 // wes' original version
-SUBCOMPONENT @0 // just planning ahead
+BEGIN @0 DESIGNATED 10 // via placement
+SUBCOMPONENT @0
 
 // shift items to library
 INCLUDE ~underrep/lib/items.tpa~ 

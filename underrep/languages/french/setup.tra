@@ -1003,3 +1003,16 @@ Inutilisable par:
  Voleur
  Moine
  Belluaire~
+// these strings were copied from IWDEE, not IWD, so adjust @96 for original BG2 as needed 
+@95 = ~Hache à deux mains~
+@96 = ~Cette arme puissante consiste en un manche de 1,20 mètre à 1,50 mètre de long, au bout duquel a été fixée une lourde lame, laquelle peut être simple ou double (une lame de chaque côté du manche). C'est une arme difficile à manier, mais un combattant aguerri peut délivrer des coups terribles avec.
+
+PARAMÈTRES :
+
+Dégâts : 1d10 (tranchant)
+Facteur de vitesse : 9
+Type de compétence : hache
+Type : arme à deux mains
+Nécessite : 10 en force
+
+Poids : 10~ 

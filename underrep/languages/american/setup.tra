@@ -953,3 +953,20 @@ Not Usable By:
   Mage
   Thief
   Monk~
+// @95 and @96 are from the generic 2haxe.itm in IWD, strrefs 9785 and 8564  
+@95 = ~Two Handed Axe~
+@96 = ~This mighty weapon consists of a haft several feet long, topped with a heavy blade.  The axe may be double-bitted, with blades on both sides of the haft, or it may only have a single blade.  It is an unwieldy weapon, but a skilled warrior can strike blows of tremendous strength with it.
+
+STATISTICS:
+
+Damage:  1D10
+Damage type:  Slashing
+Weight:  10
+Speed Factor:  9
+Proficiency Type:  Axe
+Type:  2-handed
+Not Usable By:
+ Druid
+ Cleric
+ Mage 
+ Thief~
