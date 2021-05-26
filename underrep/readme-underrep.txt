@@ -15,7 +15,8 @@ IV.   Known Bugs
 V.    Thanks
 VI.   FAQ (No Spoilers)
 VII.  Pricing
-VIII. Changes
+VIII. Notes from CamDawg
+IX. Changes
 
 
     Section I. About ("simplified English") 
@@ -143,14 +144,14 @@ try:
     Section IV. Known Bugs
     ~~~~~~~~~~~~~~~~~~~~~~
 
-Weapons that claim to do "2d6 damage to X" actually seem to be doing
-"1d6+6 damage to X". I'm asking for 2d6 as firmly as I can. 
-
 I am currently soliciting "price change" suggestions for these items. Let
 me know how you think specific items should be adjusted.  Please quote
 percentile increases or decreases, since the absolute price depends on your
 reputation and charisma. Keep in mind that one goal is to make these items
 available somewhat early. 
+
+Note from CamDawg: v7 does make some pricing changes, and I'd like to continue 
+to solicit pricing feedback. 
 
 
     Section V. Thanks
@@ -344,7 +345,20 @@ Specific Commentary:
     strong (example use: confusing mages through their stoneskins) since
     it doesn't come from a spell. 
 
-    Section VIII. Changes
+    Section VIII. Notes from CamDawg
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    
+For the most part I've tried to leave the readme intact since this is 
+ultimately Wes' mod. In v7 I made a first pass over item prices after 
+discussing it with folks in Discord, though I've externalized a price table 
+so players can adjust this with some quick tp2 and tpa editing. Otherwise it 
+was just some modernization, tracking down and fixing the stuff listed in 
+'known issues', some additional routine bug testing, and packaging it up and 
+making OS X and Linux versions. 
+
+Thanks to Law, Auve, Thundax, and the rest of the Discord folks for feedback. 
+
+    Section IX. Changes
     ~~~~~~~~~~~~~~~~~~~~~
 Version 1: 
         * Initial public release. 
@@ -367,22 +381,45 @@ Version 5:
         * Cruel Sting free action bugfix, Rage chaotic commands bugfix.
 Version 6:
         * Added Italian translation by Stoneangel.
-Version 7 (CamDawg):
+Version 7 (CamDawg, May 26, 2021):
         * Updated for the Enhanced Editions 
         * Items which had an x% chance to do an effect were generally off by 1%
-        * Many weapons were too slow as weapon speed was not accounting for their enchantment bonuses
-        * Two-Handed axes now use a more axe-like mix of attacks rather than a halberd mix, e.g. more slashes and less thrusting attacks
-        * Some on-hit weapon effects, such as blindness from the Holy Greataxe of Justice, could incorrectly interact with spell protections due to incorrect power levels
-        * The poison damage of the Greataxe of Blurred Visions and the Life's Blood Drinker was doing 1 damage per second instead of the intended 1 damage per round
-        * Added thieving penalties, correct usabilities and strength minimum to the Elven Chainmail of the Hand
-        * Various items were not providing combat feedback/visuals/portrait icons for their on-hit effects, e.g. the stun effect of Returning Stun Dart +1, the panic and confusion effects of the Monkey Paw of Discipline, etc.
-        * The "undead destroyed" message for disruption items was never displayed because of effect misordering
-        * The Cornugon Hide Armor was not properly restricting arcane spellcasting
+        * Many weapons were too slow as weapon speed was not accounting for 
+          their enchantment bonuses
+        * Two-Handed axes now use a more axe-like mix of attacks rather than a 
+          halberd mix, e.g. more slashes and less thrusting attacks
+        * Some on-hit weapon effects, such as blindness from the Holy Greataxe 
+          of Justice, could incorrectly interact with spell protections due to 
+          incorrect power levels
+        * The poison damage of the Greataxe of Blurred Visions and the Life's 
+          Blood Drinker was doing 1 damage per second instead of the intended 
+          1 damage per round
+        * Added thieving penalties, correct usabilities and strength minimum to 
+          the Elven Chainmail of the Hand
+        * Various items were not providing combat feedback/visuals/portrait 
+          icons for their on-hit effects, e.g. the stun effect of Returning 
+          Stun Dart +1, the panic and confusion effects of the Monkey Paw of 
+          Discipline, etc.
+        * The "undead destroyed" message for disruption items was never 
+          displayed because of effect misordering
+        * The Cornugon Hide Armor was not properly restricting arcane 
+          spellcasting
         * The Charged Short Sword of Wounding +5 was missing its poison damage
-        * The Mace of Goblin Slaying +1 was erroneously providing a save chance to its slay effect
-        * The new magical armors will now count against wearing multiple protection items.
+        * The Mace of Goblin Slaying +1 was erroneously providing a save chance 
+          to its slay effect
+        * The new magical armors will now count against wearing multiple 
+          protection items.
         * Conlan will now spawn correctly in ToB games. 
-        * Items which provide an addition +2d6 damage against certain alignments now do the correct damage instead of the previous +1d6+6. 
-        * Weapon descriptions were cleaned up; specifically they now list weapon speed and conform better to the existing weapon descriptions
-        * Conlan's dialogue was translated, but was always being compiled in English due to an old dialogue file
+        * Items which provide an addition +2d6 damage against certain 
+          alignments now do the correct damage instead of the previous +1d6+6. 
+        * Weapon descriptions were cleaned up; specifically they now list 
+          weapon speed and conform better to the existing weapon descriptions
+        * Conlan's dialogue was translated, but was always being compiled in 
+          English due to an old dialogue file
+        * The two darts that cast spells on their targets were causing a 
+          second, unnecessary projectile to move from the wielder to the target
+        * After some Discord feedback, tried to take up Wes' to-do of price 
+          adjustment. This has been extrernalized to a separate library so 
+          players can tweak these values to their own specs by some slight 
+          modification to the tp2 and library. 
         
