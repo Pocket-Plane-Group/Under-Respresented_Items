@@ -381,7 +381,7 @@ Version 5:
         * Cruel Sting free action bugfix, Rage chaotic commands bugfix.
 Version 6:
         * Added Italian translation by Stoneangel.
-Version 7 (CamDawg, May 26, 2021):
+Version 7 (CamDawg, May 27, 2021):
         * Updated for the Enhanced Editions 
         * Items which had an x% chance to do an effect were generally off by 1%
         * Many weapons were too slow as weapon speed was not accounting for 
@@ -410,7 +410,7 @@ Version 7 (CamDawg, May 26, 2021):
         * The new magical armors will now count against wearing multiple 
           protection items.
         * Conlan will now spawn correctly in ToB games. 
-        * Items which provide an addition +2d6 damage against certain 
+        * Items which provide an additional +2d6 damage against certain 
           alignments now do the correct damage instead of the previous +1d6+6. 
         * Weapon descriptions were cleaned up; specifically they now list 
           weapon speed and conform better to the existing weapon descriptions
@@ -419,7 +419,6 @@ Version 7 (CamDawg, May 26, 2021):
         * The two darts that cast spells on their targets were causing a 
           second, unnecessary projectile to move from the wielder to the target
         * After some Discord feedback, tried to take up Wes' to-do of price 
-          adjustment. This has been extrernalized to a separate library so 
+          adjustment. This has been externalized to a separate library so 
           players can tweak these values to their own specs by some slight 
           modification to the tp2 and library. 
-        
