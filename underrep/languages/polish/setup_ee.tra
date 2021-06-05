@@ -1,0 +1,894 @@
+@4    = ~Ta potężna broń składa się z trzonka o długości od stu dwudziestu do stu pięćdziesięciu centymetrów i bardzo ciężkiego ostrza, które może znajdować się z jednej strony trzonka, lub dwóch takich ostrzy, po obu stronach. Jest to nieporęczna broń, ale doświadczony wojownik może nim zadawać straszliwe ciosy. Na olbrzymim ostrzu wyryto krasnoludzkie runy, dzięki czemu broń została silnie umagiczniona.
+
+PARAMETRY:
+
+Specjalne:
+– Ociemniałość, po trafieniu (rzut obronny przeciw czarom neguje) 
+
+Obrażenia: 1k12 +5, +2k6 obrażeń od magii stworzeniom o charakterze złym
+TraK0: +5
+Typ obrażeń: sieczne
+Opóźnienie: 4
+Rodzaj biegłości: topór
+Typ broni: 2-ręczna
+
+Wymagania: 
+– Siła: 10
+ 
+Waga: 20~
+@6    = ~Ta potężna broń składa się z trzonka o długości od stu dwudziestu do stu pięćdziesięciu centymetrów i bardzo ciężkiego ostrza, które może znajdować się z jednej strony trzonka, lub dwóch takich ostrzy, po obu stronach. Jest to nieporęczna broń, ale doświadczony wojownik może nim zadawać straszliwe ciosy. Na olbrzymim ostrzu wyryto krasnoludzkie runy, dzięki czemu broń została silnie umagiczniona.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na zimno: +50%
+– Mroźna eksplozja: dodatkowe 2k6 obrażeń od zimna i 10% szans na kolejne 2k10 obrażeń od zimna, po trafieniu
+ 
+Obrażenia: 1k12 +5
+TraK0: +5
+Typ obrażeń: sieczne
+Opóźnienie: 4
+Rodzaj biegłości: topór
+Typ broni: 2-ręczna
+
+Wymagania: 
+– Siła: 10
+ 
+Waga: 20~
+@8    = ~Ta potężna broń składa się z trzonka o długości od stu dwudziestu do stu pięćdziesięciu centymetrów i bardzo ciężkiego ostrza, które może znajdować się z jednej strony trzonka, lub dwóch takich ostrzy, po obu stronach. Jest to nieporęczna broń, ale doświadczony wojownik może nim zadawać straszliwe ciosy. Na olbrzymim ostrzu wyryto krasnoludzkie runy, dzięki czemu broń została silnie umagiczniona.
+
+PARAMETRY:
+
+Specjalne:
+– Rozmycie: +3 do Klasy Pancerza oraz +1 do rzutów obronnych
+ 
+Obrażenia: 1k12 +5, +1 obrażenie co rundę od trucizny, przez dziesięć sekund (rzut obronny przeciw truciznom neguje)
+TraK0: +5
+Typ obrażeń: sieczne
+Opóźnienie: 4
+Rodzaj biegłości: topór
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 20~
+@10   = ~Ta potężna broń składa się z trzonka o długości od stu dwudziestu do stu pięćdziesięciu centymetrów i bardzo ciężkiego ostrza, które może znajdować się z jednej strony trzonka, lub dwóch takich ostrzy, po obu stronach. Jest to nieporęczna broń, ale doświadczony wojownik może nim zadawać straszliwe ciosy. Na olbrzymim ostrzu wyryto krasnoludzkie runy, dzięki czemu broń została silnie umagiczniona.
+
+PARAMETRY:
+
+Specjalne:
+– Kwasowa eksplozja: dodatkowe 2k6 obrażeń od kwasu i 10% szans na kolejne 2k10 obrażeń od kwasu, po trafieniu
+ 
+Obrażenia: 1k12 +5
+TraK0: +5
+Typ obrażeń: sieczne
+Opóźnienie: 4  
+Rodzaj biegłości: topór
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 10
+
+Waga: 20~
+@12   = ~Ta potężna broń składa się z trzonka o długości od stu dwudziestu do stu pięćdziesięciu centymetrów i bardzo ciężkiego ostrza, które może znajdować się z jednej strony trzonka, lub dwóch takich ostrzy, po obu stronach. Jest to nieporęczna broń, ale doświadczony wojownik może nim zadawać straszliwe ciosy. Na olbrzymim ostrzu wyryto krasnoludzkie runy, dzięki czemu broń została silnie umagiczniona.
+
+PARAMETRY:
+
+Specjalne:
+– Płomienna eksplozja: dodatkowe 1k6 obrażeń od ognia i 10% szans na kolejne 1k10 obrażeń od ognia, po trafieniu
+ 
+Obrażenia: 2k12 +5
+TraK0: +5
+Typ obrażeń: sieczne
+Opóźnienie: 4
+Rodzaj biegłości: topór
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 18
+ 
+Waga: 30~
+@14   = ~Ta potężna broń składa się z trzonka o długości od stu dwudziestu do stu pięćdziesięciu centymetrów i bardzo ciężkiego ostrza, które może znajdować się z jednej strony trzonka, lub dwóch takich ostrzy, po obu stronach. Jest to nieporęczna broń, ale doświadczony wojownik może nim zadawać straszliwe ciosy. Na olbrzymim ostrzu wyryto krasnoludzkie runy, dzięki czemu broń została silnie umagiczniona.
+
+PARAMETRY:
+
+Specjalne:
+– Siła: +1
+
+Obrażenia: 1k12 +5
+TraK0: +5
+Typ obrażeń: sieczne
+Opóźnienie: 4
+Rodzaj biegłości: topór
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 10
+
+Waga: 20~
+@16   = ~Ta potężna broń składa się z trzonka o długości od stu dwudziestu do stu pięćdziesięciu centymetrów i bardzo ciężkiego ostrza, które może znajdować się z jednej strony trzonka, lub dwóch takich ostrzy, po obu stronach. Jest to nieporęczna broń, ale doświadczony wojownik może nim zadawać straszliwe ciosy. Na olbrzymim ostrzu wyryto krasnoludzkie runy, dzięki czemu broń została silnie umagiczniona.
+
+PARAMETRY:
+
+Specjalne:
+- Uderza jak broń +5
+– Płomienna eksplozja: dodatkowe 1k6 obrażeń od ognia i 10% szans na kolejne 1k10 obrażeń od ognia, po trafieniu
+– Mroźna eksplozja: dodatkowe 2k6 obrażeń od zimna i 10% szans na kolejne 2k10 obrażeń od zimna, po trafieniu
+– Elektryczna eksplozja: dodatkowe 1k6 obrażeń od elektryczności i 10% szans na kolejne 1k10 obrażeń od elektryczności, po trafieniu
+
+Obrażenia: 1k12
+Typ obrażeń: sieczne
+Opóźnienie: 4
+Rodzaj biegłości: topór
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 18
+
+Waga: 20~
+@18   = ~Ta potężna broń składa się z trzonka o długości od stu dwudziestu do stu pięćdziesięciu centymetrów i bardzo ciężkiego ostrza, które może znajdować się z jednej strony trzonka, lub dwóch takich ostrzy, po obu stronach. Jest to nieporęczna broń, ale doświadczony wojownik może nim zadawać straszliwe ciosy. Na olbrzymim ostrzu wyryto krasnoludzkie runy, dzięki czemu broń została silnie umagiczniona.
+
+PARAMETRY:
+
+Specjalne:
+- Uderza jak broń +5
+– Płomienna eksplozja: dodatkowe 1k6 obrażeń od ognia i 10% szans na kolejne 1k10 obrażeń od ognia, po trafieniu
+– Wampiryczna: zadaje 2 obrażenia od magii i dodaje 2 tymczasowe punkty życia właścicielowi, po trafieniu
+
+Obrażenia: 1k12
+Typ obrażeń: sieczne
+Opóźnienie: 4
+Rodzaj biegłości: topór
+Typ broni: 2-ręczna
+Wymagania:
+– Siła: 18
+ 
+Waga: 20~
+@20   = ~Berduskańscy kapłani Helma poświęcili ten pas i ofiarowali go wojownikowi Thomowi Wainwrightowi, który z jego pomocą wyświadczył wiele usług dla kościoła, włączając w to zniszczenie Niewidomego Oka i kultu, który się w związku z nim rozwinął, a także jego wyznawców zwanych Oślepionymi Akolitami. Thom nosił pas z dumą, aż popadł w poważne długi pod koniec życia i, ku swej nieutulonej rozpaczy, zmuszony był go sprzedać na aukcji pewnemu sławnemu kapłanowi Maski.
+
+PARAMETRY:
+
+Specjalne:
+– Użytkownik znajduje się pod wpływem czaru Błogosławieństwo
+
+Waga: 2~
+@22   = ~W czasach złotego wieku elfów z Dłoni Seldarine i krasnoludów z Głębi Dorna został skonstruowany specjalny rodzaj znakomitej elfiej kolczugi, który zapewniał ochronę przed złą pogodą panującą na północy.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na zimno: +50%
+– Otwieranie zamków: -5%
+– Znajdowanie pułapek: -5%
+– Kradzież kieszonkowa: -20%
+– Ciche chodzenie: -10%
+– Ukrywanie się w cieniu: -10%
+– Nie ogranicza rzucania zaklęć
+
+Klasa Pancerza: 2 (0 przeciw broniom siecznym, 4 przeciw broniom obuchowym)
+
+Wymagania:
+– Siła: 8
+
+Waga: 15~
+@24   = ~Typowe sztylety posiadają ostro zakończone, dwusieczne ostrza, w odróżnieniu od zwykłych noży, które są jednosieczne i nieco krótsze.
+
+PARAMETRY:
+
+Obrażenia: 1k4 +2, +2 obrażenia od trucizny co sekundę, przez sześć sekund (rzut obronny przeciw truciznom neguje)
+TraK0: +2
+Typ obrażeń: kłute
+Opóźnienie: 0
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 1~
+@26   = ~Typowe sztylety posiadają ostro zakończone, dwusieczne ostrza, w odróżnieniu od zwykłych noży, które są jednosieczne i nieco krótsze.
+
+PARAMETRY:
+
+Specjalne:
+– Ciche chodzenie: +20%
+– Krycie się w cieniu: +20%
+ 
+Obrażenia: 1k4 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 0
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 1~
+@28   = ~Typowe sztylety posiadają ostro zakończone, dwusieczne ostrza, w odróżnieniu od zwykłych noży, które są jednosieczne i nieco krótsze.
+
+PARAMETRY:
+
+Specjalne:
+– Wampiryczna: zadaje 2 obrażenia od magii i dodaje 2 tymczasowe punkty życia właścicielowi, po trafieniu
+ 
+Obrażenia: 1k4 +1
+TraK0: +1
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 1~
+@30   = ~Strzałka to mały, łatwy do ukrycia pocisk, który służy do rzucania, a nie wystrzeliwania z łuku, kuszy czy procy. Jej trzonek został naznaczony wersami mocy.
+
+PARAMETRY:
+
+Specjalne:
+– Wraca do użytkownika
+– 25% szans na ogłuszenie celu na trzy sekundy, po trafieniu (rzut obronny przeciw paraliżowi neguje)
+
+Obrażenia: 1k4 +1
+TraK0: +1
+Typ obrażeń: pocisk (kłute)
+Opóźnienie: 1
+Rodzaj biegłości: strzałka
+Typ broni: 1-ręczna
+
+Waga: 0~
+@32   = ~Strzałka to mały, łatwy do ukrycia pocisk, który służy do rzucania, a nie wystrzeliwania z łuku, kuszy czy procy. Jej trzonek został naznaczony wersami mocy.
+
+PARAMETRY:
+
+Specjalne:
+– Wraca do użytkownika
+
+Obrażenia: 1k4, +2 obrażenia od trucizny co sekundę, przez sześć sekund (rzut obronny przeciw truciznom neguje)
+Typ obrażeń: pocisk (kłute)
+Opóźnienie: 2
+Rodzaj biegłości: strzałka
+Typ broni: 1-ręczna
+ 
+Waga: 0~
+@34   = ~Halabarda ta, podobnie jak i inne bronie tego typu, składa się z przypominającego kształtem tasak ostrza, zamocowanego na stylisku o długości około dwóch metrów. Obdarzono ją także pewnymi właściwościami magicznymi, dzięki czemu jest skuteczniejsza w walce. Jej ostrze jest w stanie przeciąć ciało przeciwnika aż do kości, a haczykowaty szpic odnajdzie szczeliny w jego zbroi.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +1
+- Uderza jak broń +5
+– Płomienna eksplozja: dodatkowe 2k6 obrażeń od ognia i 10% szans na kolejne 1k10 obrażeń od ognia, po trafieniu
+
+Obrażenia: 1k10
+Typ obrażeń: kłute
+Opóźnienie: 4
+Rodzaj biegłości: halabarda
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 13
+ 
+Waga: 14~
+@36   = ~Halabarda ta, podobnie jak i inne bronie tego typu, składa się z przypominającego kształtem tasak ostrza, zamocowanego na stylisku o długości około dwóch metrów. Obdarzono ją także pewnymi właściwościami magicznymi, dzięki czemu jest skuteczniejsza w walce. Jej ostrze jest w stanie przeciąć ciało przeciwnika aż do kości, a haczykowaty szpic odnajdzie szczeliny w jego zbroi.
+
+PARAMETRY:
+
+Specjalne:
+– Wampiryczna: zadaje 2 obrażenia od magii i dodaje 2 tymczasowe punkty życia właścicielowi, po trafieniu
+ 
+Obrażenia: 2k8 +4, +2k6 obrażeń od magii stworzeniom o charakterze dobrym
+TraK0: +4
+Typ obrażeń: kłute
+Opóźnienie: 5
+Rodzaj biegłości: halabarda
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 18
+
+Waga: 28~
+@38   = ~Halabarda ta, podobnie jak i inne bronie tego typu, składa się z przypominającego kształtem tasak ostrza, zamocowanego na stylisku o długości około dwóch metrów. Obdarzono ją także pewnymi właściwościami magicznymi, dzięki czemu jest skuteczniejsza w walce. Jej ostrze jest w stanie przeciąć ciało przeciwnika aż do kości, a haczykowaty szpic odnajdzie szczeliny w jego zbroi.
+
+PARAMETRY:
+
+Specjalne:
+– Jeden dodatkowy atak na rundę
+ 
+Obrażenia: 1k10 +5
+TraK0: +5
+Typ obrażeń: kłute
+Opóźnienie: 4
+Rodzaj biegłości: halabarda
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 13
+
+Waga: 14~
+@40   = ~Ten młot bojowy, podobnie jak inne rodzaje młotów, został wykonany w całości ze stali, a na jego niemal półmetrowym trzonku osadzono miażdżący kości obuch. Został on również obdarzony pewnymi właściwościami magicznymi, co czyni go skuteczniejszym w walce. 
+
+PARAMETRY:
+
+Specjalne:
+– Kwasowa eksplozja: dodatkowe 1k6 obrażeń od kwasu i 10% szans na kolejne 1k10 obrażeń od kwasu, po trafieniu
+ 
+Obrażenia: 1k8 +5, +2k6 obrażeń od magii stworzeniom o charakterze złym
+TraK0: +5
+Typ obrażeń: obuchowe
+Opóźnienie: 0
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 9
+
+Waga: 7~
+@42   = ~Delnar był nieśmiałym magiem, który nigdy nie interesował się poszukiwaniem przygód. Przez większość swojego życia mieszkał z matką i zajmował się głównie studiami nad tworzeniem magicznych przedmiotów. Jego pierwszym dziełem miała być strzałka, która byłaby najlepszym przyjacielem maga. Broń ta miała zawsze bezbłędnie trafiać do celu, rozpraszając wszelką ochronę magiczną, a następnie powrócić do właściciela.
+
+Niestety w chwili, gdy Delnar dokonywał ostatnich zabiegów magicznych na swojej strzałce, do pokoju weszła jego matka i widząc strzałkę, powiedziała „Ostrożnie, bo wybijesz sobie tym oko”. Ku jego zdziwieniu, słowa mamy stały się częścią zaklęcia. Strzałka wprawdzie spełniała swoje zadanie, lecz niekiedy wracając do swego właściciela, wybijała mu oko.
+
+PARAMETRY:
+
+Specjalne:
+– Wraca do właściciela
+– 90% szans na rzucenie Rozproszenia magii, po trafieniu
+– 5% szans na oślepienie właściciela, po trafieniu (rzut obronny przeciw śmierci neguje)
+ 
+Obrażenia: 1k4 +5
+TraK0: +5
+Typ obrażeń: pocisk
+Opóźnienie: 0
+Rodzaj biegłości: strzałka
+Typ broni: 1-ręczna
+
+Waga: 1~
+@44   = ~Urządzenia te wynalazła czterdzieści lat temu ambitna talońska kapłanka i nekromantka Presio, lecz zyskały one popularność w kręgach świątyni Talony dopiero w ostatnich sześciu lub siedmiu latach. Presio była dobrze znana w pewnych kręgach na ziemiach północnych, lecz jej obecność często była pomijana przez tych, którzy się jej bali. Około 1280 RD, Presio wplątała się w dziwny demoniczny projekt w Górach Grzbiet Świata, gdzie towarzyszyło jej tylko kilkoro najbliższych sprzymierzeńców. Wprawdzie Presio i jej towarzysze zostali zamordowani w wulkanie Oka Smoka, lecz wiele jej przepisów i formuł na mikstury i magiczne bronie ocalało.
+
+PARAMETRY:
+
+Specjalne:
+– Rzuca zaklęcie Plaga owadów, po trafieniu
+ 
+Obrażenia: 1k4 +3
+TraK0: +3
+Typ obrażeń: pocisk
+Opóźnienie: 0
+Rodzaj biegłości: strzałka
+Typ broni: 1-ręczna
+
+Waga: 0~
+@46   = ~Ten dziwny rodzaj broni drzewcowej jest czymś pomiędzy halabardą i wojennym młotem. Składa się z czterozębnego żeleźca oraz długiego szpica służącego do ataku.
+
+Broń ta powstała na skutek błędu popełnionego w trakcie wytwarzania magicznego przedmiotu dla Dzielnego Lodura, potężnego, lecz niezbyt bystrego kapłana. Lodur usłyszał kiedyś o potężnym młocie z bardzo długim trzonkiem, który był własnością bohatera znanego jako Lucerne. Chociaż może była to nazwa miejsca, gdzie młot ten wykonano, kraju o nazwie Swizaria, Switzlund lub „coś w tym rodzaju, jestem prawie pewien”.
+
+A następnie odezwał się tymi słowy: „I nie zapomnij o właściwym zaklęciu, sam wiesz, tym, które zabije nieumarłych i wszystkie inne istoty. Abym mógł zniszczyć co tylko na drodze mi stanie”.
+
+Agresywne zachowanie Lodura, połączone z jego nie najlepszą reputacją, nie pozwoliły krasnoludzkiemu rzemieślnikowi na wyrażenie sprzeciwu – zwłaszcza że otrzymał kilka worków złota. Zgodził się zatem wykonać broń i obiecał, że będzie gotowa w ciągu dwóch miesięcy. Następnie zasięgnął informacji u mędrca klanu i dowiedział się, że taka broń rzeczywiście istnieje. Mówił o tym handlarz z Sigil za pośrednictwem podróżnika, który całe życie przemierzał sfery. Rzemieślnik krasnoludzki dokładnie skopiował kształt i wszystkie cechy broni, a trzonek i żeleźce pokrył runami, tak jak życzył sobie Lodur.
+
+Kiedy Dzielny Lodur powrócił do twierdzy krasnoludów, aby odebrać swój młot, zamiast niego zobaczył nabijaną kolcami broń drzewcową, której używania zabraniała jego religia. Kapłan wściekał się, zgrzytał ze złości zębami i klął na czym świat stoi, aż wreszcie odszedł, zostawiając zapłatę i dosyć niezręcznie nazwany „Święty Młot z Lucerne”.
+
+PARAMETRY:
+
+Specjalne:
+– Nieumarli ulegają zniszczeniu, po trafieniu (rzut obronny przeciw śmierci z modyfikatorem -4 neguje)
+– 25% szans na rzucenie zaklęcia Święte uderzenie, po trafieniu
+ 
+Obrażenia: 1k10 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 6
+Rodzaj biegłości: halabarda
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 13
+
+Waga: 15~
+@48   = ~Włócznia ta jest piękną i niezwykłą bronią. Zbudowana jest z półmetrowego żeleźca zakończonego ząbkowanym grotem, który wykonany został z najtwardszego gatunku stali. Po obu stronach grotu znajdują się małe otwory, które prowadzą do wewnątrz drzewca. Na grocie znajdują się również srebrne napisy runiczne. Drzewce włóczni ma około dwóch metrów długości i wykonane jest z drewna dębu wzmocnionego opaskami z mithrilu umieszczonymi na całej długości.
+
+Włócznia ta jest zabójcza w czasie walki. Jest to broń zadająca obrażenia od trucizny (w każdej rundzie wykonuje się rzut przeciw truciznom lub ponosi dodatkowe obrażenia) oraz wampiryczna (wysysa dodatkowe 2 obrażenia, które są przenoszone na właściciela). Ponadto, możliwe jest dokładniejsze zadawanie ciosów.
+
+PARAMETRY:
+
+Specjalne:
+– Wampiryczna: zadaje 2 obrażenia od magii i dodaje 2 tymczasowe punkty życia właścicielowi, po trafieniu
+
+Obrażenia: 1k8 +5, +1 obrażenie co rundę od trucizny, przez dziesięć rund (rzut obronny przeciw truciznom neguje)
+TraK0: +5
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: włócznia 
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 6~
+@50   = ~Miecze tego typu często wręczane są zdolnym zabójcom pełniącym służbę u Lloth. Cała broń jest czarna jak smoła i w ogóle nie odbija światła. Jej rękojeść pokryta jest wzorem sieci pajęczej, a na przeszło pół metrowym ostrzu wyrytych jest mnóstwo małych pająków. Czarna magia tego krótkiego miecza nie tylko chroni posiadacza od efektów sieci pajęczej, lecz może również zaplątać nieprzyjaciela w jego własną sieć.
+
+Zabójcy zwykle używają tej broni, aby złapać cel w jedwabny kokon, a następnie dokończyć dzieła zatrutą strzałką lub przy pomocy kuszy. Broń ta pomogła niejednokrotnie niedoszłym zabójcom zbiec przed kimś, kogo zaatakowali, lecz nie zdołali zabić pierwszym ciosem.
+
+PARAMETRY:
+
+Specjalne:
+– Błogosławieństwo Lloth: Swoboda działania
+– Przekleństwo Lloth: 33% szans na zadanie 2 obrażeń od trucizny na sekundę przez siedem sekund, po trafieniu (bez rzutu obronnego)
+– Przekleństwo Lloth: 33% szans na rzucenie na cel zaklęcia Pajęczyna na siedem sekund, po trafieniu (bez rzutu obronnego)
+ 
+Obrażenia: 1k6 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 0
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@52   = ~Wekiera jest w prostej linii spadkobierczynią zwykłej maczugi, będąc po prostu drewnianym trzonem, na którym została osadzona kamienna lub metalowa głowica. W tym wypadku głowica w kształcie ostrosłupa, którą osadzono na eleganckim, dębowym trzonku, zdaje się emitować błękitnym światłem.
+
+PARAMETRY:
+
+Specjalne:
+- Uderza jak broń +5
+– Cel zostaje ogłuszony na trzy sekundy, po trafieniu (rzut obronny przeciw paraliżowi neguje)
+– Mroźna eksplozja: dodatkowe 1k6 obrażeń od zimna i 10% szans na kolejne 1k10 obrażeń od zimna
+
+Obrażenia: 1k8
+Typ obrażeń: obuchowe
+Opóźnienie: 2
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 12~
+@54   = ~Wekiera jest w prostej linii spadkobierczynią zwykłej maczugi, będąc po prostu drewnianym trzonem, na którym została osadzona kamienna lub metalowa głowica. W tym wypadku głowica w kształcie ostrosłupa, którą osadzono na eleganckim, dębowym trzonku, zdaje się emitować błękitnym światłem. 
+
+PARAMETRY:
+
+Specjalne:
+- Uderza jak broń +5
+– 33% szans na rzucenie na cel zaklęcia Święte uderzenie, po trafieniu
+
+Obrażenia: 1k8, +2k6 obrażeń od magii stworzeniom o charakterze złym
+Typ obrażeń: obuchowe
+Opóźnienie: 2
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+ 
+Waga: 12~
+@56   = ~Wekiera jest w prostej linii spadkobierczynią zwykłej maczugi, będąc po prostu drewnianym trzonem, na którym została osadzona kamienna lub metalowa głowica. W tym wypadku głowica w kształcie ostrosłupa, którą osadzono na eleganckim, dębowym trzonku, zdaje się emitować błękitnym światłem.
+
+PARAMETRY:
+
+Specjalne:
+- Uderza jak broń +5
+– Nieumarli ulegają zniszczeniu, po trafieniu (rzut obronny przeciw śmierci z modyfikatorem -4 neguje)
+– Płomienna eksplozja: dodatkowe 1k6 obrażeń od ognia i 10% szans na kolejne 1k10 obrażeń od ognia, po trafieniu
+
+Obrażenia: 1k8
+Typ obrażeń: obuchowe
+Opóźnienie: 2
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 12~
+@58   = ~Włócznia to jeden z najwcześniejszych rodzajów broni, którymi zaczął posługiwać się człowiek. Pierwsze egzemplarze były wykonane z drewna i zaostrzone na końcu. Kiedy człowiek nauczył się wytapiać metale, groty włóczni zaczęto wytwarzać z żelaza i stali. W pewnym momencie zaczęto eksperymentować z różnymi typami grotów i w ten sposób powstały różne typy broni drzewcowej. Ten egzemplarz jest nieco inny, gdyż został obdarzony kilkoma magicznymi właściwościami.
+
+PARAMETRY:
+
+Specjalne:
+– Ogłusza ofiarę na trzy sekundy, po trafieniu (rzut obronny przeciw paraliżowi neguje)
+ 
+Obrażenia: 1k8 +2
+TraK0: +2
+Typ obrażeń: kłute
+Opóźnienie: 4
+Rodzaj biegłości: włócznia 
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 5~
+@60   = ~Kij to najprostsza i najzwyklejsza z broni drzewcowych. Długość żerdzi wynosi od metra osiemdziesięciu do prawie trzech metrów. Wysokiej jakości kije wykonane są z twardego dębu i obijane metalem na obu końcach. Ten egzemplarz jest szczególny, gdyż został obdarzony magicznymi właściwościami.
+
+PARAMETRY:
+
+Specjalne:
+– Tworzy widmową projekcję broni, pozwalając użytkownikowi trafić przeciwnika oddalonego nawet o piętnaście długości. 
+ 
+Obrażenia: 1k6 +5
+TraK0: +5
+Typ obrażeń: obuchowe
+Opóźnienie: 0
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+@62   = ~Kij to najprostsza i najzwyklejsza z broni drzewcowych. Długość żerdzi wynosi od metra osiemdziesięciu do prawie trzech metrów. Wysokiej jakości kije wykonane są z twardego dębu i obijane metalem na obu końcach. Ten egzemplarz jest szczególny, gdyż został obdarzony magicznymi właściwościami. 
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magię: +15%
+ 
+Obrażenia: 1k6 +5, +2 obrażenia od trucizny co sekundę, przez sześć sekund (rzut obronny przeciw truciznom neguje)
+TraK0: +5
+Typ obrażeń: obuchowe
+Opóźnienie: 0
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+@64   = ~Miecz półtoraręczny zwany jest również „bękartem”, gdyż stanowi niejako skrzyżowanie miecza długiego i oburęcznego. Ma obusieczne ostrze i długą rękojeść, dzięki czemu można go używać jedną ręką lub oburącz. Jego długość waha się od stu dwudziestu do stu czterdziestu pięciu centymetrów.
+
+PARAMETRY:
+
+Specjalne:
+- Uderza jak broń +5
+– 25% szans na ogłuszenie celu na trzy sekundy, po trafieniu (rzut obronny przeciw truciznom neguje)
+– Kwasowa eksplozja: dodatkowe 1k6 obrażeń od kwasu i 10% szans na kolejne 1k10 obrażeń od kwasu, po trafieniu
+
+Obrażenia: 1k10, +2 obrażenia od trucizny co sekundę, przez sześć sekund (rzut obronny przeciw truciznom neguje)
+Typ obrażeń: sieczne
+Opóźnienie: 3
+Rodzaj biegłości: miecz półtoraręczny
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 11
+ 
+Waga: 9~
+@66   = ~Miecz półtoraręczny zwany jest również „bękartem”, gdyż stanowi niejako skrzyżowanie miecza długiego i oburęcznego. Ma obusieczne ostrze i długą rękojeść, dzięki czemu można go używać jedną ręką lub oburącz. Jego długość waha się od stu dwudziestu do stu czterdziestu pięciu centymetrów.
+
+PARAMETRY:
+
+Specjalne:
+– Siła: +2
+- Uderza jak broń +5
+– Płomienna eksplozja: dodatkowe 2k6 obrażeń od ognia i 10% szans na kolejne 2k10 obrażeń od ognia, po trafieniu
+
+Obrażenia: 1k10
+Typ obrażeń: sieczne
+Opóźnienie: 3
+Rodzaj biegłości: miecz półtoraręczny
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 11
+
+Waga: 9~
+@68   = ~Aż ciężko oderwać wzrok od tej broni. Ostrze wykute zostało z czerwonego złota, a jego brzeg połyskuje srebrem. Jelec wykonano z doskonale wypolerowanej platyny, a rękojeść z czarnego adamantytu. Wyciągnięty z pochwy, miecz zdaje się mienić wszystkimi kolorami tęczy.
+
+Broń ta była jednak zarówno błogosławieństwem, jak i klątwą tych, którzy jej dobywali. Użyta przeciw praworządnym stworzeniom czyniła olbrzymie spustoszenie, a precyzja jej uderzeń nie miała sobie równych. Szał Chaosu znany był z tego, iż nie raz zmienił losy bitwy. Po trafieniu tą bronią ofiara często traci zdolność jasnego myślenia i popada w stan chaosu. Chaotyczne moce zawarte w tym ostrzu chronią za to jego właściciela przed urokami czy zamętem.
+
+Historia Szału Chaosu nie jest znana. Ostrze to pojawiało się w wielu bitwach na przestrzeni wieków, tylko po to, aby potem znów zaginąć.
+
+PARAMETRY:
+
+Specjalne:
+– Użytkownik znajduje się pod wpływem zaklęcia Chaotyczne rozkazy
+– Chaos, po trafieniu (rzut obronny przeciw czarom z modyfikatorem -4 neguje)
+ 
+Obrażenia: 1k10 +3, +2k6 obrażeń od magii stworzeniom o charakterze praworządnym
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 5
+Rodzaj biegłości: miecz półtoraręczny
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 11
+
+Waga: 8~
+@70   = ~Miecze krótkie pojawiły się jako pierwsze w tej grupie broni. W najprostszych słowach jest to sztylet o ostrzu tak długim, że nie może być dłużej traktowany jak sztylet. Termin „miecz krótki” nie istnieje w żadnych klasyfikacjach mieczy. Jednakże jest tu używany do opisania dwusiecznego ostrza o długości około sześćdziesięciu centymetrów. Czubki tych mieczy są zazwyczaj ostre, co czyni je doskonałymi do zadawania ran kłutych.
+
+PARAMETRY:
+
+Specjalne:
+- Elektryczna eksplozja: dodatkowe 2k6 obrażeń od elektryczności i 10% szans na kolejne 2k10 obrażeń od elektryczności, po trafieniu
+ 
+Obrażenia: 1k6 +5, +1 obrażenie co rundę od trucizny, przez dziesięć rund (rzut obronny przeciw truciznom neguje)
+TraK0: +5
+Typ obrażeń: kłute
+Opóźnienie: 0
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@72   = ~Ten potężny młot był prawdopodobnie wykorzystywany przy pracach na palisadzie i bardzo możliwe, że żaden z robotników nic nie wiedział o jego magicznych właściwościach. Wprawdzie bronią tą operuje się nieco wolniej niż młotem wojennym, i jest też od niego cięższa, lecz wyrządza ona większe szkody. Pojedyncze uderzenie młotem wywołuje również czysto brzmiący dźwięk.
+
+PARAMETRY:
+
+Specjalne:
+– Siła: +3
+ 
+Obrażenia: 1k8 +4
+TraK0: +4
+Typ obrażeń: obuchowe
+Opóźnienie: 6
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 9
+
+Waga: 9~
+@74   = ~Ta długa włócznia została wykonana z grubego dębowego drzewca i wygląda na to, że była często wykorzystywana w czasie polowań na dziki polarne. Na trzonku znajduje się wiele pieczęci oraz znaków runicznych, które mają poprawić celność ataku. Ponadto, w sytuacji bezpośredniego zagrożenia życia, włócznia potrafi zaatakować nieprzyjaciela znajdującego się nawet o pięć jej długości od jej właściciela, dzięki czemu przeciwnik może zostać zabity, zanim jeszcze zbliży się na niebezpieczną odległość.
+
+PARAMETRY:
+
+Specjalne:
+– Zasięg pięciu długości zamiast dwóch
+
+Właściwości ładunków:
+– Wyłom, trzy razy dziennie
+Właściwości: Rozprasza wszystkie czary ochronne celu
+Zasięg: 12 metrów
+Obszar działania: 1 istota
+
+– Obniżenie odporności, trzy razy dziennie
+Właściwości: Obniża odporność na magię celu
+Zasięg: 12 metrów
+Obszar działania: 1 istota
+ 
+Obrażenia: 1k8 +4
+TraK0: +4
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: włócznia 
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 7~
+@76   = ~Ta laska z żelazodrzewa należała niegdyś do goblińskiego czarownika Caballusa i ciągle czuć od niej jego smród. Runiczne szlaki otaczają laskę niczym węże, lecz z wyjątkiem pomniejszej runy celności oraz runy zranień, większość z nich wygląda na pozbawione znaczenia. Laska jest zdumiewająco lekka i dobrze wyważona jak na swój rozmiar, przez co bez wysiłku można trzymać ją w jednej ręce.
+
+PARAMETRY:
+
+Specjalne:
+– Ciche chodzenie: +15%
+– Uciszenie, po trafieniu (rzut obronny przeciw czarom neguje)
+
+Właściwości ładunków:
+– Grupowa niewidzialność, raz dziennie 
+Właściwości: Ulepszona niewidzialność na wszystkie przyjazne istoty w obszarze działania 
+Zasięg: pole widzenia
+Obszar działania: w promieniu 5 metrów
+ 
+Obrażenia: 1k6 +4
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@78   = ~Belib Nieufny był bez wątpienia najlepiej wyposażonym poszukiwaczem przygód w historii – lub mógłby być, gdyby kiedykolwiek wyruszył z domu, by jakąkolwiek znaleźć. Jego Wieczna Pochodnia to jeden z wielu przedmiotów z pokaźnej listy umagicznionych narzędzi przeszukiwacza lochów i podziemi. Jest to magiczny lampion o wyglądzie wyszukanej, drewnianej pochodni. Świeci wewnętrznym płomieniem o jaskrawej, pomarańczowej barwie, którego nic nie jest w stanie zgasić – zanurzona w wodzie, zakopana pod paroma metrami skały, czy uderzona o głowę rozmokłego trolla bagiennego, Wieczna Pochodnia Beliba nadal będzie świecić.
+
+Gdy Belib ukończył ostatni ze swych przedmiotów, zapakował je wszystkie do ogromnego plecaka – zaczarowanego oczywiście tak, by mógł pomieścić znacznie więcej, niż Belib byłby normalnie w stanie unieść – i zarzucił go na ramiona, gotowy na przygodę życia. Gnom przekroczył próg swego domu... i został natychmiast przygnieciony przez swój olbrzymi plecak. Torba otworzyła się, a jej zawartość rozsypała po całej ulicy w Waterdeep, na której Belib mieszkał, znikając w mgnieniu oka w kieszeniach przechodniów.
+
+Ciało Beliba zostało wreszcie zabrane do świątyni i wskrzeszone przez dobroduszną kapłankę, lecz wtedy ostatni z magicznych przedmiotów gnoma... i większa część jego domu... były już dawno daleko stąd. Wdzięczny, lecz naturalnie zmartwiony, Belib wykonał dla kapłanki kilka unikalnych i niezwykłych przedmiotów, a następnie powrócił do swej ojczystej ziemi i rodziny, na zawsze odchodząc z powierzchni ziemi.
+
+PARAMETRY:
+
+Specjalne:
+– Płomienna eksplozja: dodatkowe 2k6 obrażeń od ognia i 10% szans na kolejne 1k10 obrażeń od ognia, po trafieniu
+
+Obrażenia: 1k6
+Typ obrażeń: obuchowe
+Opóźnienie: 7
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 5~
+@80   = ~Ta skórzana zbroja owiana jest wielką tajemnicą. Nikt nie wie gdzie i w jaki sposób została wykonana. Wiadomo jedynie, że skóra pochodzi z kornugona. Zbroja została zafarbowana na bardzo ciemny, niemal czarny odcień, znajdują się na niej również ostro zakończone łuski. Ponadto, czuć od niej delikatny zapach octu.
+
+Noszenie skóry kornugona daje wysoki poziom niewrażliwości na broń niemagiczną oraz zdolność do powolnej regeneracji po poniesionych obrażeniach. 
+
+PARAMETRY:
+
+Specjalne: 
+– Niewrażliwość na zwykłe bronie
+– Regeneracja punktów życia: 1/rundę
+
+Klasa Pancerza: 5 (7 przeciw broniom kłutym i pociskom)
+
+Wymagania:
+– Siła: 6
+
+Waga: 15~
+@82   = ~Młot Męstwa jest potworną bronią wykutą w celu złamania u nieprzyjaciela ducha walki oraz oczywiście zgruchotania jego kości i zbroi. Jest to broń pochodząca z czasów starożytnych, a imię jej wykonawcy dawno zaginęło i darmo go szukać nawet w księgach szarych krasnoludów. Na młocie tym wyryto tylko jeden napis w języku starożytnych krasnoludów, który teraz używany jest jedynie przez plemiona duergarskie:
+
+„Nie śmierć jest najstraszniejsza, lecz strach przed śmiercią”.
+
+Każdy cios zadany Młotem Męstwa niesie ze sobą szansę na pozbawienie nieprzyjaciela ducha walki i wprowadzenie go w stan przerażenia. Jeśli się to powiedzie, przeciwnik natychmiast ucieknie w panice przed właścicielem Młota.
+
+PARAMETRY:
+
+Specjalne:
+– Strach na dwadzieścia jeden sekund, po trafieniu (rzut obronny przeciw czarom neguje)
+ 
+Obrażenia: 1k10 +3
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 9
+
+Waga: 7~
+@84   = ~Miejsce powstania tego sztyletu nie jest znane. Wiadomo tylko, że stał się słynny, gdy w jego posiadanie wszedł cieszący się złą sławą korsarz, kapitan „Baron” Sulo z Luskan. Pewnego razu Sulo wraz ze swoją załogą wykradli klejnoty rodziny Leberm z niewielkiego statku transportowego przy brzegu Port Llast. Drogę ucieczki zagrodzili im jednak doświadczeni poszukiwacze przygód, którzy zostali wynajęci do ochrony klejnotów. Jeden z nich walczył niezwykle zaciekle, czyniąc dobry użytek ze swoich świetnie wykonanych noży. Bezimienny awanturnik zabił wielu ludzi Sulo i stając naprzeciw samego kapitana, od razu odciął mu lewą rękę. „Baron” Sulo pewnie zginąłby tamtego dnia, gdyby nie przypadkowy pocisk wystrzelony z katapulty, który trafił prosto w nieszczęsnego poszukiwacza przygód i natychmiast wyrzucił go poza pokład statku. Pozostał po nim jedynie ten misternie wykonany sztylet leżący na pokładzie, tak jakby jego właściciela nigdy tu nie było.
+
+Sulo kazał przymocować sobie sztylet na miejsce odciętej dłoni, w miejscu, gdzie zwykle w takich sytuacjach znajduje się hak. Po śmierci Sulo, jakieś dziewięć lat później, sztylet pochowano razem z nim w ukrytym grobowcu, razem ze sporą ilością klejnotów i złotych monet. Mimo iż pogrzeb odbył się w zupełnej tajemnicy, grób Sulo został szybko splądrowany, a jego „hak” trafił w obce ręce.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +3
+– Rzuty obronne: +1
+– Odporność na magiczne obrażenia: +15%
+– Uderza jak broń +1
+
+Obrażenia: 1k4 +1
+TraK0: -1
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: sztylet
+
+Wymagania:
+– Siła: 3
+
+Waga: 1~
+@86   = ~Jako znak wdzięczności i zaufania do Saablika Tana za przyłączenie się do Legionu Chimery, Isair i Madae wręczyli mu sztylet „Kieł Rozpaczy Xvimiana”.
+
+Sztylet ten wykuty został z najlepszych metali i zaczarowany najciemniejszą magią powiązaną z wiedzą Xvimiana. „Kieł Rozpaczy Xvimiana” nie odbija światła ze względu na czarną stal, z jakiej jest wykonany. W rzeczywistości ostrze jest tak czarne, że wszelkie szczegóły sztyletu, zwykle widoczne, tutaj są całkowicie niezauważalne. Wygląda to tak, jakby ostrze pochłaniało światło.
+
+Saablik Tan zawsze trzyma „Kieł Rozpaczy Xvimiana” blisko przy sobie, nie tylko dla tego, że ma on niezwykłą moc zmieniania nieprzyjaciół w kamień, lecz ponieważ sztylet zwiększa intelekt swego właściciela. Jest to naprawdę potężna broń przeznaczona dla równie potężnego czarodzieja.
+
+PARAMETRY:
+
+Specjalne:
+– Inteligencja: +4
+– 5% szans na rzucenie zaklęcia Zamiana ciała w kamień, po trafieniu
+– 20% szans na rzucenie zaklęcia Emocje: beznadziejność, po trafieniu
+ 
+Obrażenia: 1k4 +5
+TraK0: +5
+Typ obrażeń: kłute
+Opóźnienie: 0
+Rodzaj biegłości: sztylet
+
+Wymagania:
+– Siła: 3
+  
+Waga: 1~
+@88   = ~Sprawg, kapitan neo orogów, jest aktualnie instruktorem ogólnych taktyk bitewnych dla nowych rekrutów Legionu Chimery. W związku, z tym potrzebował odpowiedniego narzędzia, by utrzymać ich w ryzach. W tym celu stworzono Małpią Łapę Dyscypliny.
+
+Małpia Łapa Dyscypliny wygląda dokładnie tak, jak się nazywa. Składa się przede wszystkim z wielkiej, skamieniałej małpiej łapy, uciętej przy barku. W stawie ramieniowym zamocowano jednoręczny uchwyt, wciskając go w kość i magicznie wtapiając. Na przeciwnym końcu łapa jest rozwarta i stanowi główne narzędzie zadawania bólu. Gdy ktoś zostanie nią uderzony, może ulec podwyższonemu strachowi i / lub zamętowi, oczywiście poza odniesieniem znacznych obrażeń. Gdy te objawy przeminą, jest mało prawdopodobne, aby potraktowana łapą osoba ponownie sprawiła jakieś kłopoty, zwłaszcza podczas ćwiczeń.
+
+PARAMETRY:
+
+Specjalne:
+– Jeden dodatkowy atak na rundę
+– 15% szans na rzucenie na cel zaklęcia Emocje: strach na pięć rund, po trafieniu (rzut obronny przeciw czarom neguje)
+– 5% szans na rzucenie na cel zaklęcia Zamęt na dziewięć rund, po trafieniu (rzut obronny przeciw czarom neguje)
+
+Obrażenia: 1k6 +3
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 4
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 3~
+@90   = ~Jednym z przywilejów Brutai Mara, kapłana Xvima wysokiego szczebla w Legionie Chimery, było posiadanie tego zabójczego wojennego młota.
+
+Na trzonku młota znajdują się obrazy przedstawiające walkę Iyachtu Xvima z legionami paladynów. Jest on wspaniale wykończony i dużo większy niż większość młotów, lecz mimo to nie jest od nich cięższy. Podobnie jak w przypadku wielu innych rodzajów broni wykonanych przy pomocy mrocznych zaklęć Iyachtu Xvima, czarna stal tego młota wydaje się pochłaniać promienie światła.
+
+Za każdym razem, gdy Brutai Mar korzystał z młota w czasie walki, odczuwał zwiększoną siłę i zadawał celniejsze ciosy. Ponadto, niektórym ciosom zadanym młotem towarzyszyły wybuchy kwasu Xvima, tego samego, który płynie w Odciętej Dłoni.
+
+PARAMETRY:
+
+Specjalne:
+– Siła: +2
+– Kwasowa eksplozja: 33% szans na dodatkowe 2k6 obrażeń od kwasu i 10% szans na kolejne 2k10 obrażeń od kwasu, po trafieniu
+ 
+Obrażenia: 1k8 +3
+TraK0: +5
+Typ obrażeń: obuchowe
+Opóźnienie: 0
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 9
+
+Waga: 7~
+@91   = ~Ognista Plaga Pudu~
+@92   = ~Pudu, kapitan Gwardii Legionu Chimery, jest z pewnością mistrzem przesady. Podobnie do innych półgoblinów odczuwał on potrzebę posiadania największej broni, jaką taki niezbyt rosły mieszaniec rasowy może udźwignąć, czyli halabardy.
+
+Oczywiście, Pudu nie mógł zadowolić się zwykłą halabardą, więc zlecił zaszczepienie najbardziej okrutnych zaklęć magicznych na broni, którą sam wybrał. Stosownie do pozycji, jaką Pudu zajmował w Legionie Chimery, jego nowa halabarda, którą nazwał czule „Ognistą Plagą Pudu”, powodowała ogromne zniszczenia od ognia. Nie mieli szczęścia ci, którzy z jakiegoś powodu znaleźli się po niewłaściwej stronie tego płonącego ostrza. Ponadto, halabarda potrafiła ogłuszyć przeciwnika, przez co nie mógł bronić się przed atakiem Pudu. Pudu najbardziej lubi walczyć z tymi, którzy nie mogą się bronić, ale lepiej nie mówcie mu tego w twarz.
+
+PARAMETRY:
+
+Specjalne:
+– 25% szans na ogłuszenie celu na trzy sekundy, po trafieniu (rzut obronny przeciw paraliżowi neguje)
+– Płomienna eksplozja: dodatkowe 2k6 obrażeń od ognia i 10% szans na kolejne 2k10 obrażeń od ognia, po trafieniu
+– 5% szans na obniżenie odporności na magię celu o 25% na sto czterdzieści sekund, po trafieniu
+ 
+Obrażenia: 1k10 +5
+TraK0: +5
+Typ obrażeń: kłute
+Opóźnienie: 4
+Rodzaj biegłości: halabarda
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 13
+
+Waga: 14~
+@94   = ~Wekiera jest w prostej linii spadkobierczynią zwykłej maczugi, będąc po prostu drewnianym trzonem, na którym została osadzona kamienna lub metalowa głowica. W tym wypadku głowica w kształcie ostrosłupa, którą osadzono na eleganckim, dębowym trzonku, zdaje się emitować błękitnym światłem.  
+
+PARAMETRY:
+
+Specjalne:
+– Zabija gnolle, gobliny, hobgobliny, koboldy i orki, po trafieniu
+ 
+Obrażenia: 1k8 +1
+TraK0: +1 
+Typ obrażeń: obuchowe
+Opóźnienie: 6
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 12~
+// @96 is strref 8564 from IWDEE
+@96 = ~Ta potężna broń składa się z trzonka o długości od stu dwudziestu do stu pięćdziesięciu centymetrów i bardzo ciężkiego ostrza. Topór ten może mieć jedno żeleźce z jednej strony trzonka lub dwa, po obu stronach. Jest to nieporęczna broń, ale doświadczony wojownik może nim zadawać straszliwe ciosy.
+
+PARAMETRY:
+
+Obrażenia: 1k10
+Typ obrażeń: sieczne
+Opóźnienie: 9
+Rodzaj biegłości: topór
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 10~

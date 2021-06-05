@@ -2,7 +2,7 @@
                         Under-Represented Items Mod
                           Author: Westley Weimer
                        Current Maintainer: CamDawg
-                             \/ Release 7 \/
+                             \/ Release 8 \/
 
                            http://www.weidu.org/
 
@@ -16,7 +16,7 @@ V.    Thanks
 VI.   FAQ (No Spoilers)
 VII.  Pricing
 VIII. Notes from CamDawg
-IX. Changes
+IX.   Changes
 
 
     Section I. About ("simplified English") 
@@ -382,7 +382,7 @@ Version 5:
 Version 6:
         * Added Italian translation by Stoneangel.
 Version 7 (CamDawg, May 27, 2021):
-        * Updated for the Enhanced Editions 
+        * Updated for the Enhanced Editions and EET 
         * Items which had an x% chance to do an effect were generally off by 1%
         * Many weapons were too slow as weapon speed was not accounting for 
           their enchantment bonuses
@@ -422,3 +422,8 @@ Version 7 (CamDawg, May 27, 2021):
           adjustment. This has been externalized to a separate library so 
           players can tweak these values to their own specs by some slight 
           modification to the tp2 and library. 
+Version 8 (CamDawg, June 5, 2021):
+        * Added Polish translation, courtesy of Aristo from the Stars of Mystra
+          translation team 
+        * Added metadata for Project Infinity  
+          

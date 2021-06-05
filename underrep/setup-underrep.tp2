@@ -16,9 +16,11 @@ ALWAYS
   
 END
 
-VERSION ~v7~
+VERSION ~v8~
 
-README ~underrep/readme-underrep.txt~
+README ~underrep/readme-underrep.%LANGUAGE%.html~ 
+       ~underrep/readme-underrep.%LANGUAGE%.txt~ 
+       ~underrep/readme-underrep.txt~
 
 LANGUAGE ~American English~ 
          ~american~
@@ -40,6 +42,11 @@ LANGUAGE ~Italian (Stoneangel)~
          ~underrep/languages/italian/setup.tra~
          ~underrep/languages/italian/u#conlan.tra~
 
+LANGUAGE ~Polski (Aristo - The Stars of Mystra)~
+         ~polish~
+         ~underrep/languages/polish/setup.tra~
+         ~underrep/languages/polish/u#conlan.tra~
+
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////                                                  \\\\\
@@ -53,6 +60,7 @@ LANGUAGE ~Italian (Stoneangel)~
 /////                                                  \\\\\
 
 BEGIN @0 DESIGNATED 0 // wes' original version
+LABEL "u#_under-represented_items"
 //SUBCOMPONENT @0
 
 // shift items to library

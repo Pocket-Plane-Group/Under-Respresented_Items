@@ -1,0 +1,1079 @@
+@0  = ~Underrepresented Items From Icewind Dale 2 mod do Baldur's Gate II~ 
+@1  = ~Conlan~
+@2  = ~KuŸnia Conlana~ 
+@3  = ~Œwiêty Topór Sprawiedliwoœci +5~
+@4  = ~Ta potê¿na broñ sk³ada siê z d³ugiego trzonka oraz niezwykle ciê¿kiego ostrza. Wystêpuje zazwyczaj w dwóch odmianach: jako obosieczna, z ostrzami po obu stronach trzonka, lub z pojedynczym ostrzem. Jest to bardzo nieporêczny rodzaj broni, ale wykwalifikowany wojownik mo¿e za jej pomoc¹ zadawaæ ciosy z olbrzymi¹ si³¹. Aby topór by³ jeszcze skuteczniejszy, na jego ostrzu wytrawione zosta³y krasnoludzkie runy.
+
+PARAMETRY:
+
+Obra¿enia: 1K12 +5
+TraK0: +5
+Typ obra¿eñ: sieczne
+Specjalne:
+ Cel po trafieniu znajduje siê pod wp³ywem czaru Ociemnia³oœæ (udany rzut obronny przeciw czarom neguje)
+ +2K6 pkt obra¿eñ z³ym stworzeniom
+Waga: 20
+OpóŸnienie: 9
+Rodzaj bieg³oœci: topór
+Typ broni: 2-rêczna
+Wymagana si³a: 10
+Nie mo¿e u¿ywaæ:
+ Postaæ o z³ym charakterze
+ Druid
+ Kap³an
+ Mag 
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~ 
+@5  = ~Topór Lodu +5~
+@6  = ~Ta potê¿na broñ sk³ada siê z d³ugiego trzonka oraz niezwykle ciê¿kiego ostrza. Wystêpuje zazwyczaj w dwóch odmianach: jako obosieczna, z ostrzami po obu stronach trzonka, lub z pojedynczym ostrzem. Jest to bardzo nieporêczny rodzaj broni, ale wykwalifikowany wojownik mo¿e za jej pomoc¹ zadawaæ ciosy z olbrzymi¹ si³¹. Aby topór by³ jeszcze skuteczniejszy, na jego ostrzu wytrawione zosta³y krasnoludzkie runy.
+
+PARAMETRY:
+
+Obra¿enia: 1K12 +5
+TraK0: +5
+Typ obra¿eñ: sieczne
+Specjalne:
+ +50% do odpornoœci na zimno
+ +2K6 obra¿eñ od zimna i 10% szansa na dodatkowe 2K10 obra¿eñ od zimna
+Waga: 20
+OpóŸnienie: 9
+Rodzaj bieg³oœci: topór
+Typ broni: 2-rêczna
+Wymagana si³a: 10
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mag 
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@7  = ~Topór Rozmazanych Wizji +5~ 
+@8  = ~Ta potê¿na broñ sk³ada siê z d³ugiego trzonka oraz niezwykle ciê¿kiego ostrza. Wystêpuje zazwyczaj w dwóch odmianach: jako obosieczna, z ostrzami po obu stronach trzonka, lub z pojedynczym ostrzem. Jest to bardzo nieporêczny rodzaj broni, ale wykwalifikowany wojownik mo¿e za jej pomoc¹ zadawaæ ciosy z olbrzymi¹ si³¹. Aby topór by³ jeszcze skuteczniejszy, na jego ostrzu wytrawione zosta³y krasnoludzkie runy.
+
+PARAMETRY:
+
+Obra¿enia: 1K12 +5
+TraK0: +5
+Typ obra¿eñ: sieczne
+Specjalne:
+ W³aœciciel znajduje siê pod wp³ywem czaru Rozmycie (+3 do Klasy Pancerza, +1 do rzutów obronnych)
+ Zadaje 1 dodatkowy punkt obra¿eñ od trucizny na rundê przez 10 rund (udany rzut obronny przeciw truciznom neguje)
+Waga: 20
+OpóŸnienie: 9
+Rodzaj bieg³oœci: topór
+Typ broni: 2-rêczna
+Wymagana si³a: 10
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mag 
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@9  = ~Topór Trawienia +5~ 
+@10 = ~Ta potê¿na broñ sk³ada siê ze styliska o d³ugoœci od 120 do 150 cm i osadzonego na nim ciê¿kiego ostrza. Topór ten mo¿e mieæ jednostronne lub dwustronne ostrze. Jest to nieporêczna broñ, ale w rêkach doœwiadczonego wojownika potrafi siaæ prawdziwe spustoszenie. Aby topór by³ jeszcze skuteczniejszy, na jego ostrzu wytrawione zosta³y krasnoludzkie runy.
+
+PARAMETRY:
+
+Obra¿enia: 1K12 +5
+TraK0: +5
+Typ obra¿eñ: sieczne
+Specjalne:
+ +2K6 obra¿eñ od kwasu i 10% szansa na dodatkowe +2K10 obra¿eñ od kwasu
+Waga: 20
+OpóŸnienie: 9
+Rodzaj bieg³oœci: topór
+Typ broni: 2-rêczna
+Wymagana si³a: 10
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mag 
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@11 = ~Olbrzymi Topór P³omieni +5~
+@12 = ~Ta potê¿na broñ sk³ada siê ze styliska o d³ugoœci od 120 do 150 cm i osadzonego na nim ciê¿kiego ostrza. Topór ten mo¿e mieæ jednostronne lub dwustronne ostrze. Jest to nieporêczna broñ, ale w rêkach doœwiadczonego wojownika potrafi siaæ prawdziwe spustoszenie. Aby topór by³ jeszcze skuteczniejszy, na jego ostrzu wytrawione zosta³y krasnoludzkie runy.
+
+PARAMETRY:
+
+Obra¿enia: 2K12 +5
+TraK0: +5
+Typ obra¿eñ: sieczne
+Specjalne:
+ +1K6 obra¿eñ od ognia i 10% szansa na dodatkowe +1K10 obra¿eñ od ognia
+Waga: 30
+OpóŸnienie: 9
+Rodzaj bieg³oœci: topór
+Typ broni: 2-rêczna
+Wymagana si³a: 18
+
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mag 
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~ 
+@13 = ~Topór Mocy +5~
+@14 = ~Ta potê¿na broñ sk³ada siê ze styliska o d³ugoœci od 120 do 150 cm i osadzonego na nim ciê¿kiego ostrza. Topór ten mo¿e mieæ jednostronne lub dwustronne ostrze. Jest to nieporêczna broñ, ale w rêkach doœwiadczonego wojownika potrafi siaæ prawdziwe spustoszenie. Aby topór by³ jeszcze skuteczniejszy, na jego ostrzu wytrawione zosta³y krasnoludzkie runy.
+
+PARAMETRY:
+
+Obra¿enia: 1K12 +5
+TraK0: +5
+Typ obra¿eñ: sieczne
+Specjalne:
+ +1 do Si³y
+Waga: 20
+OpóŸnienie: 9
+Rodzaj bieg³oœci: topór
+Typ broni: 2-rêczna
+Wymagana si³a: 10
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mag 
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~ 
+@15 = ~Wielki Topór Eksplozji ¯ywio³ów~
+@16 = ~Ta potê¿na broñ sk³ada siê ze styliska o d³ugoœci od 120 do 150 cm i osadzonego na nim ciê¿kiego ostrza. Topór ten mo¿e mieæ jednostronne lub dwustronne ostrze. Jest to nieporêczna broñ, ale w rêkach doœwiadczonego wojownika potrafi siaæ prawdziwe spustoszenie. Aby topór by³ jeszcze skuteczniejszy, na jego ostrzu wytrawione zosta³y krasnoludzkie runy.
+
+PARAMETRY:
+
+Obra¿enia: 1K12
+Typ obra¿eñ: sieczne
+Specjalne:
+ +1K6 obra¿eñ od ognia i 10% szansa na dodatkowe +1K10 obra¿eñ od ognia
+ +1K6 obra¿eñ od zimna i 10% szansa na dodatkowe +1K10 obra¿eñ od zimna
+ +1K6 obra¿eñ od elektrycznoœci i 10% szansa na dodatkowe +1K10 obra¿eñ od elektrycznoœci
+ Broñ traktuje siê jako +5, by mog³a raniæ stworzenia wra¿liwe jedynie na broñ magiczn¹
+Waga: 20
+OpóŸnienie: 9
+Rodzaj bieg³oœci: topór
+Typ broni: 2-rêczna
+Wymagana si³a: 18
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mag 
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@17 = ~Wielki Topór Wampirycznego P³omienia~
+@18 = ~Ta potê¿na broñ sk³ada siê ze styliska o d³ugoœci od 120 do 150 cm i osadzonego na nim ciê¿kiego ostrza. Topór ten mo¿e mieæ jednostronne lub dwustronne ostrze. Jest to nieporêczna broñ, ale w rêkach doœwiadczonego wojownika potrafi siaæ prawdziwe spustoszenie. Aby topór by³ jeszcze skuteczniejszy, na jego ostrzu wytrawione zosta³y krasnoludzkie runy.
+
+PARAMETRY:
+
+Obra¿enia: 1K12
+Typ obra¿eñ: sieczne
+Specjalne:
+ +2K6 obra¿eñ od ognia i 10% szansa na dodatkowe +1K10 obra¿eñ od ognia
+ Ka¿de trafienie wysysa z ofiary 2 punkty ¿ycia i przekazuje je posiadaczowi
+ Broñ traktuje siê jako +5, by mog³a raniæ stworzenia wra¿liwe jedynie na broñ magiczn¹
+Waga: 20
+OpóŸnienie: 9
+Rodzaj bieg³oœci: topór
+Typ broni: 2-rêczna
+Wymagana si³a: 18
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mag 
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~ 
+@19 = ~Pas Beatyfikacji~
+@20 = ~Berduskañscy kap³ani Helma poœwiêcili ten pas i ofiarowali go wojownikowi Thomowi Wainwrightowi, który z jego pomoc¹ wyœwiadczy³ wiele us³ug dla koœcio³a, w³¹czaj¹c w to zniszczenie Niewidomego Oka i kultu, który siê w zwi¹zku z nim rozwin¹³, jak równie¿ jego wyznawców zwanych Oœlepionymi Akolitami. Thom nosi³ pas z dum¹, a¿ popad³ w powa¿ne d³ugi pod koniec ¿ycia i, czego do koñca ¿ycia ¿a³owa³, zmuszony by³ go sprzedaæ na aukcji pewnemu s³awnemu kap³anowi Maski.
+
+PARAMETRY:
+
+Posiadacz pasa, za³o¿ywszy go, korzysta z efektów czaru B³ogos³awieñstwo
+
+Waga: 2
+
+Nie mo¿e u¿ywaæ:
+ Zabójca magów
+~ 
+@21 = ~Elfia Kolczuga z D³oni +3~ 
+@22 = ~W czasach Z³otego Wieku Elfów z D³oni Seldarine i Krasnoludów z G³êbi Dorna powsta³ specjalny rodzaj znakomitej elfiej kolczugi, który zapewnia³ ochronê przed z³¹ pogod¹ panuj¹c¹ na pó³nocy.
+
+PARAMETRY:
+
+Klasa Pancerza: 2
+Specjalne:
+ +50% do odpornoœci na zimno
+Waga: 15
+Nie mo¿e u¿ywaæ:
+ Druid
+ Mag
+ Kensai
+ Mnich
+ W³adca zwierz¹t
+ Tropiciel
+~
+@23 = ~Kie³ ¯mii +2~ 
+@24 = ~Typowy sztylet zawiera ostro zakoñczone, dwusieczne ostrze - w odró¿nieniu od no¿a, który jest jednosieczny i nieco krótszy ni¿ sztylet.
+
+PARAMETRY:
+
+Obra¿enia: 1K4+2
+TraK0: +2
+Typ obra¿eñ: k³ute
+Specjalne:
+ +2 pkt obra¿eñ od trucizny co sekundê przez 6 sekund (udany rzut obronny przeciw œmierci neguje)
+Waga: 1
+OpóŸnienie: 1
+Rodzaj bieg³oœci: sztylet
+Typ broni: 1-rêczna
+Wymagana si³a: 3
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ W³adca zwierz¹t
+~
+@25 = ~Koci Pazur +3~
+@26 = ~Typowy sztylet zawiera ostro zakoñczone, dwusieczne ostrze - w odró¿nieniu od no¿a, który jest jednosieczny i nieco krótszy ni¿ sztylet.
+
+PARAMETRY:
+
+Obra¿enia: 1K4+3
+TraK0: +3
+Typ obra¿eñ: k³ute
+Specjalne:
+ +20% do Krycia siê w cieniu
+ +20% do Cichego chodzenia
+Waga: 1
+OpóŸnienie: 1
+Rodzaj bieg³oœci: sztylet
+Typ broni: 1-rêczna
+Wymagana si³a: 3
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ W³adca zwierz¹t
+~
+@27 = ~Sztylet Wampiryczny +1~
+@28 = ~Typowy sztylet zawiera ostro zakoñczone, dwusieczne ostrze - w odró¿nieniu od no¿a, który jest jednosieczny i nieco krótszy ni¿ sztylet.
+
+PARAMETRY:
+
+Obra¿enia: 1K4+1
+TraK0: +1
+Typ obra¿eñ: k³ute
+Specjalne:
+ Ka¿de trafienie wysysa z ofiary 2 punkty ¿ycia i przekazuje je posiadaczowi
+Waga: 1
+OpóŸnienie: 1
+Rodzaj bieg³oœci: sztylet
+Typ broni: 1-rêczna
+Wymagana si³a: 3
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ W³adca zwierz¹t
+~
+@29 = ~Powracaj¹ca strza³ka og³uszenia +1~
+@30 = ~Strza³ka jest ma³¹, ³atw¹ do ukrycia broni¹ strzeleck¹, któr¹ rzuca siê, zamiast wystrzeliwaæ z ³uku lub innego typu broni. Jej trzonek zosta³ naznaczony wersami mocy.
+
+PARAMETRY:
+
+Obra¿enia: 1K4 +1
+TraK0: +1
+Typ obra¿eñ: pocisk (k³ute)
+Specjalne:
+ 25% szansa na og³uszenie ofiary na 3 sekundy (udany rzut obronny przeciwko parali¿owi neguje)
+ Wraca do u¿ytkownika
+Waga: 0
+OpóŸnienie: 1
+Rodzaj bieg³oœci: strza³ka
+Typ broni: 1-rêczna
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ Kensai
+ Kawaler
+~
+@31 = ~Powracaj¹ca zatruta strza³ka~
+@32 = ~Strza³ka jest ma³¹, ³atw¹ do ukrycia broni¹ strzeleck¹, któr¹ rzuca siê, zamiast wystrzeliwaæ z ³uku lub innego typu broni. Jej trzonek zosta³ naznaczony wersami mocy.
+
+PARAMETRY:
+
+Obra¿enia: 1K4
+Typ obra¿eñ: pociski
+Specjalne:
+ +2 pkt obra¿eñ od trucizny co sekundê przez 6 sekund (udany rzut przeciw truciznom neguje)
+ Wraca do u¿ytkownika
+Waga: 1
+OpóŸnienie: 1
+Rodzaj bieg³oœci: strza³ka
+Typ broni: 1-rêczna
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ Kensai
+ Kawaler~
+@33 = ~Piekielna Halabarda Obroñcy~
+@34 = ~Jak inne egzemplarze tego typu broni, ta halabarda sk³ada siê z zakrzywionego, przypominaj¹cego tasak ostrza osadzonego na drzewcu o d³ugoœci ok. 1,8 metra. Nadano jej jednak pewne w³aœciwoœci magiczne, dziêki czemu jest skuteczniejsza w walce. Jej ostrze, dla przyk³adu, rozcina cia³o nieprzyjaciela, siêgaj¹c samej koœci, a szpic znajduj¹cy siê na koñcu jej drzewca przedziera siê przez szczeliny w zbroi.
+
+PARAMETRY:
+
+Obra¿enia: 1K10
+Typ obra¿eñ: k³ute
+Specjalne:
+ +1 do Klasy Pancerza
+ +2K6 obra¿eñ od ognia i 10% szansa na dodatkowe 2K10 obra¿eñ od ognia
+ Broñ traktuje siê jako +5, by mog³a raniæ stworzenia wra¿liwe jedynie na broñ magiczn¹
+Waga: 14
+OpóŸnienie: 8
+Rodzaj bieg³oœci: halabarda
+Typ broni: 2-rêczna
+Wymagana si³a: 13
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mag 
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@35 = ~Olbrzymia Halabarda Nienawiœci +4~
+@36 = ~Jak inne egzemplarze tego typu broni, ta halabarda sk³ada siê z zakrzywionego, przypominaj¹cego tasak ostrza osadzonego na drzewcu o d³ugoœci ok. 1,8 metra. Nadano jej jednak pewne w³aœciwoœci magiczne, dziêki czemu jest skuteczniejsza w walce. Jej ostrze, dla przyk³adu, rozcina cia³o nieprzyjaciela, siêgaj¹c samej koœci, a szpic znajduj¹cy siê na koñcu jej drzewca przedziera siê przez szczeliny w zbroi.
+
+PARAMETRY:
+
+Obra¿enia: 2K8+4
+TraK0: +4
+Typ obra¿eñ: k³ute
+Specjalne:
+ +2K6 pkt obra¿eñ zadanych dobrym stworzeniom
+ Ka¿de trafienie wysysa z ofiary 2 punkty ¿ycia i przekazuje je posiadaczowi
+Waga: 28
+OpóŸnienie: 10
+Rodzaj bieg³oœci: halabarda
+Typ broni: 2-rêczna
+Wymagana si³a: 18
+Nie mo¿e u¿ywaæ:
+ Postaæ o dobrym charakterze
+ Druid
+ Kap³an
+ Mnich
+ Z³odziej
+ Mag
+ W³adca zwierz¹t
+~
+@37 = ~Halabarda Szybkoœci +5~
+@38 = ~Jak inne egzemplarze tego typu broni, ta halabarda sk³ada siê z zakrzywionego, przypominaj¹cego tasak ostrza osadzonego na drzewcu o d³ugoœci ok. 1,8 metra. Nadano jej jednak pewne w³aœciwoœci magiczne, dziêki czemu jest skuteczniejsza w walce. Jej ostrze, dla przyk³adu, rozcina cia³o nieprzyjaciela, siêgaj¹c samej koœci, a szpic znajduj¹cy siê na koñcu jej drzewca przedziera siê przez szczeliny w zbroi.
+
+PARAMETRY:
+
+Obra¿enia: 1K10 +5
+TraK0: +5
+Typ obra¿eñ: K³ute
+Specjalne:
+ 1 dodatkowy atak na rundê
+Waga: 14
+OpóŸnienie: 8
+Rodzaj bieg³oœci: halabarda
+Typ broni: 2-rêczna
+Wymagana si³a: 13
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mnich
+ Z³odziej
+ Mag
+ W³adca zwierz¹t
+~
+@39 = ~Œwiêty M³ot Korozyjnego Wybuchu +5~
+@40 = ~Tak jak inne m³oty bojowe zosta³ on w ca³oœci wykonany ze stali. Sk³ada siê z mia¿d¿¹cego koœci m³ota osadzonego na pó³metrowym drzewcu. Zosta³ te¿ obdarzony pewnymi w³aœciwoœciami magicznymi, dziêki którym lepiej sprawdza siê w walce.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 + 5
+TraK0: +5
+Typ obra¿eñ: obuchowe
+Specjalne:
+ +2K6 obra¿eñ przeciwko z³ym stworzeniom
+ +1K6 obra¿eñ od kwasu i 10% szansa na dodatkowe 1K10 obra¿eñ od kwasu
+Waga: 7
+OpóŸnienie: 4
+Rodzaj bieg³oœci: m³ot
+Typ broni: 1-rêczna
+Wymagana si³a: 9
+Nie mo¿e u¿ywaæ:
+ Postaæ o z³ym charakterze
+ Druid
+ Mnich
+ Z³odziej
+ Mag
+ W³adca zwierz¹t
+~
+@41 = ~Jedno Oko Delnara~
+@42 = ~Delnar by³ nieœmia³ym magiem, który nigdy nie interesowa³ siê poszukiwaniem przygód. Przez wiêkszoœæ swojego ¿ycia mieszka³ z matk¹ i zajmowa³ siê g³ównie studiami nad tworzeniem magicznych przedmiotów. Jego pierwszym dzie³em mia³a byæ strza³ka, która by³aby najlepszym przyjacielem maga. Broñ ta mia³a zawsze bezb³êdnie trafiaæ do celu, rozpraszaj¹c wszelk¹ ochronê magiczn¹, a nastêpnie powróciæ do w³aœciciela.
+
+Niestety w chwili, gdy Delnar dokonywa³ ostatnich zabiegów magicznych na swojej strza³ce, do pokoju wesz³a jego matka i widz¹c strza³kê powiedzia³a "Ostro¿nie, bo wybijesz sobie tym oko". Ku jego zdziwieniu, s³owa mamy sta³y siê czêœci¹ zaklêcia. Strza³ka wprawdzie spe³nia³a swoje zadanie, lecz niekiedy wracaj¹c do swego w³aœciciela, wybija³a mu oko.
+
+PARAMETRY:
+
+Obra¿enia: 1K4+5
+TraK0: +5
+Typ obra¿eñ: pociski
+Specjalne:
+ 90% szansa na rzucenie Rozproszenia magii przy ataku na cel
+ 5% szansa na oœlepienie w³aœciciela, jeœli nie powiedzie mu siê rzut obronny przeciw œmierci
+ Wraca do w³aœciciela
+Waga: 1
+OpóŸnienie: 2
+Rodzaj bieg³oœci: strza³ka
+Typ broni: 1-rêczna
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ Kensai
+ Kawaler
+~
+@43 = ~Z³owieszcze strza³ki zarazy~
+@44 = ~Urz¹dzenia te wynalaz³a czterdzieœci lat temu ambitna taloñska kap³anka i nekromantka Presio, lecz zyska³y one popularnoœæ w krêgach œwi¹tyni Talony dopiero w ostatnich szeœciu lub siedmiu latach. Presio by³a dobrze znana w pewnych krêgach na ziemiach pó³nocnych, lecz jej obecnoœæ czêsto by³a pomijana przez tych, którzy siê jej bali. Oko³o 1280 roku, Presio wpl¹ta³a siê w dziwny demoniczny projekt w Górach Grzbiet Œwiata, gdzie towarzyszy³o jej tylko kilkoro najbli¿szych sprzymierzeñców. Wprawdzie Presio i jej towarzysze zostali zamordowani w wulkanie Oka Smoka, lecz wiele jej przepisów i formu³ na mikstury i magiczne bronie ocala³o.
+
+PARAMETRY:
+
+Obra¿enia: 1K4+3
+TraK0: +3
+Typ obra¿eñ: pociski
+Specjalne:
+ Przy trafieniu w cel rzuca zaklêcie Plaga owadów
+Waga: 0
+OpóŸnienie: 1
+Rodzaj bieg³oœci: strza³ka
+Typ broni: 1-rêczna
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ Kensai
+ Kawaler
+~
+@45 = ~Œwiêty Swizarniañski M³ot z Lucerne~
+@46 = ~Ten dziwny rodzaj broni drzewcowej jest czymœ pomiêdzy halabard¹ i wojennym m³otem. Sk³ada siê z czterozêbnego ¿eleŸca oraz d³ugiego szpica s³u¿¹cego do ataku.
+
+Broñ ta powsta³a na skutek b³êdu pope³nionego w trakcie wytwarzania magicznego przedmiotu dla Dzielnego Lodura, potê¿nego, lecz niezbyt bystrego kap³ana. Lodur us³ysza³ kiedyœ o potê¿nym m³ocie z bardzo d³ugim trzonkiem, który by³ w³asnoœci¹ bohatera znanego jako Lucerne. Chocia¿ mo¿e by³a to nazwa miejsca, gdzie m³ot ten wykonano, kraju o nazwie Swizaria, Switzlund lub "coœ w tym rodzaju, jestem prawie pewien".
+
+A nastêpnie odezwa³ siê tymi s³owy: "I nie zapomnij o w³aœciwym zaklêciu, sam wiesz, tym, które zabije nieumar³ych i wszystkie inne istoty. Abym móg³ zniszczyæ co tylko na drodze mi stanie".
+
+Agresywne zachowanie Lodura, po³¹czone z jego nie najlepsz¹ reputacj¹, nie pozwoli³y krasnoludzkiemu rzemieœlnikowi na wyra¿enie sprzeciwu - zw³aszcza ¿e otrzyma³ kilka worków z³ota. Zgodzi³ siê zatem wykonaæ broñ i obieca³, ¿e bêdzie gotowa w ci¹gu dwóch miesiêcy. Nastêpnie zasiêgn¹³ informacji u mêdrca klanu i dowiedzia³ siê, ¿e taka broñ rzeczywiœcie istnieje. Mówi³ o tym handlarz z Sigil za poœrednictwem podró¿nika, który ca³e ¿ycie przemierza³ sfery. Rzemieœlnik krasnoludzki dok³adnie skopiowa³ kszta³t i wszystkie cechy broni, a trzonek i ¿eleŸce pokry³ runami, tak jak ¿yczy³ sobie Lodur.
+
+Kiedy Dzielny Lodur powróci³ do twierdzy krasnoludów, aby odebraæ swój m³ot, zamiast niego zobaczy³ nabijan¹ kolcami broñ drzewcow¹, której u¿ywania zabrania³a jego religia. Kap³an wœcieka³ siê, zgrzyta³ ze z³oœci zêbami i kl¹³ na czym œwiat stoi, a¿ wreszcie odszed³, zostawiaj¹c zap³atê i dosyæ niezrêcznie nazwany "Œwiêty M³ot z Lucerne".
+
+PARAMETRY:
+
+Obra¿enia: 1K10+3
+TraK0: +3
+Typ obra¿eñ: k³ute
+Specjalne:
+ Trafieni nieumarli musz¹ wykonaæ rzut przeciw œmierci (z modyfikatorem -4) lub zostan¹ zniszczeni
+ 25% szansa na rzucenie zaklêcia Œwiête uderzenie przy ka¿dym trafieniu
+Waga: 15
+OpóŸnienie: 6
+Rodzaj bieg³oœci: halabarda
+Typ broni: 2-rêczna
+Wymagana si³a: 13
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mnich
+ Z³odziej
+ Mag
+ W³adca zwierz¹t
+~
+@47 = ~Nabijacz~
+@48 = ~W³ócznia ta jest piêkn¹ i niezwyk³¹ broni¹. Zbudowana jest z pó³metrowego ¿eleŸca zakoñczonego z¹bkowanym grotem, który wykonany zosta³ z najtwardszego gatunku stali. Po obu stronach grotu znajduj¹ siê ma³e otwory, które prowadz¹ do wewn¹trz drzewca. Na grocie znajduj¹ siê równie¿ srebrne napisy runiczne. Drzewce w³óczni ma oko³o dwóch metrów d³ugoœci i wykonane jest z drewna dêbu wzmocnionego opaskami z mithrilu umieszczonymi na ca³ej d³ugoœci.
+
+W³ócznia ta jest zabójcza w czasie walki. Jest to broñ zadaj¹ca obra¿enia od trucizny (w ka¿dej rundzie wykonuje siê rzut przeciw truciznom lub ponosi dodatkowe obra¿enia) oraz wampiryczna (wysysa dodatkowe 2 pkt obra¿eñ, które s¹ przenoszone na w³aœciciela). Ponadto, mo¿liwe jest dok³adniejsze zadawanie ciosów.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +5
+TraK0: +5
+Typ obra¿eñ: k³ute
+Specjalne:
+ Zadaje dodatkowy 1 punkt obra¿eñ od trucizny w ka¿dej rundzie przez 10 rund (udany rzut przeciw truciznom neguje)
+ Ka¿de trafienie wysysa z ofiary 2 punkty ¿ycia i przekazuje go posiadaczowi
+Waga: 6
+OpóŸnienie: 6
+Rodzaj bieg³oœci: w³ócznia
+Typ broni: 2-rêczna
+Wymagana si³a: 5
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ Mag
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@49 = ~Okrutne ¯¹d³o Lloth~
+@50 = ~Miecze tego typu czêsto wrêczane s¹ zdolnym zabójcom pe³ni¹cym s³u¿bê u Lolth. Ca³a broñ jest czarna jak smo³a i w ogóle nie odbija œwiat³a. Jej rêkojeœæ pokryta jest wzorem sieci pajêczej, a na przesz³o pó³ metrowym ostrzu wyrytych jest mnóstwo ma³ych paj¹ków. Czarna magia tego krótkiego miecza nie tylko chroni posiadacza od efektów sieci pajêczej, lecz mo¿e równie¿ zapl¹taæ nieprzyjaciela w jego w³asn¹ sieæ.
+
+Zabójcy zwykle u¿ywaj¹ tej broni, aby z³apaæ cel w jedwabny kokon, a nastêpnie dokoñczyæ dzie³a zatrut¹ strza³k¹ lub przy pomocy kuszy. Broñ ta pomog³a niejednokrotnie niedosz³ym zabójcom zbiec przed kimœ, kogo zaatakowali, lecz nie zdo³ali zabiæ pierwszym ciosem.
+
+PARAMETRY:
+
+Obra¿enia: 1K6 +3
+TraK0: +3
+Typ obra¿eñ: k³ute
+Specjalne:
+ Swoboda dzia³ania
+ 33% szansa na zadanie 2 pkt obra¿eñ od trucizny na sekundê przez 7 sekund (bez rzutu obronnego)
+ 33% szansa na rzucenie zaklêcia Pajêczyna na cel na 7 sekund (bez rzutu obronnego)
+Waga: 3
+OpóŸnienie: 1
+Rodzaj bieg³oœci: krótki miecz
+Typ broni: 1-rêczna
+Wymagana si³a: 5
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an 
+ Mag
+ W³adca zwierz¹t
+~
+@51 = ~Lodowa Bu³awa Og³uszenia~
+@52 = ~Wekiera jest bezpoœredni¹ spadkobierczyni¹ zwyczajnej maczugi. Sk³ada siê z drewnianego trzonka z ¿elazn¹ g³owni¹ na koñcu. W tym przypadku g³ownia osadzona na czubku wypolerowanego, dêbowego drzewca ma kszta³t piramidy i wydaje siê œwieciæ wewnêtrznym, b³êkitnym œwiat³em.
+
+PARAMETRY:
+
+Obra¿enia: 1K8
+Typ obra¿eñ: obuchowe
+Specjalne:
+ Cel zostaje og³uszony na 3 sekundy, jeœli nie powiedzie mu siê rzut obronny przeciw parali¿owi
+ +1K6 obra¿eñ od zimna i 10% szansa na dodatkowe +1K10 obra¿eñ od zimna
+ Broñ traktuje siê jako +5, by mog³a raniæ stworzenia wra¿liwe jedynie na broñ magiczn¹
+Waga: 12
+OpóŸnienie: 6
+Rodzaj bieg³oœci: wekiera
+Typ broni: 1-rêczna
+Wymagana si³a: 10
+Nie mo¿e u¿ywaæ:
+ Druid
+ Mag
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@53 = ~Bu³awa Œwiêtego Uderzenia~
+@54 = ~Bu³awa jest bezpoœredni¹ spadkobierczyni¹ zwyczajnej maczugi. Sk³ada siê z drewnianego trzonka z ¿elazn¹ g³owni¹ na koñcu. W tym przypadku g³ownia osadzona na czubku wypolerowanego, dêbowego drzewca ma kszta³t piramidy i wydaje siê œwieciæ wewnêtrznym, b³êkitnym œwiat³em.
+
+PARAMETRY:
+
+Obra¿enia: 1K8
+Typ obra¿eñ: obuchowe
+Specjalne:
+ +2K6 obra¿eñ przeciwko z³ym stworzeniom
+ 33% szansa, ¿e cel zostanie pora¿ony zaklêciem Œwiête uderzenie
+ Broñ traktuje siê jako +5, by mog³a raniæ stworzenia wra¿liwe jedynie na broñ magiczn¹
+Waga: 12
+OpóŸnienie: 6
+Rodzaj bieg³oœci: wekiera
+Typ broni: 1-rêczna
+Wymagana si³a: 10
+Nie mo¿e u¿ywaæ:
+ Postaæ o z³ym charakterze
+ Druid
+ Mag
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@55 = ~Ognista Bu³awa Zm¹cenia~
+@56 = ~Bu³awa jest bezpoœredni¹ spadkobierczyni¹ zwyczajnej maczugi. Sk³ada siê z drewnianego trzonka z ¿elazn¹ g³owni¹ na koñcu. W tym przypadku g³ownia osadzona na czubku wypolerowanego, dêbowego drzewca ma kszta³t piramidy i wydaje siê œwieciæ wewnêtrznym, b³êkitnym œwiat³em.
+
+PARAMETRY:
+
+Obra¿enia: 1K8
+Typ obra¿eñ: obuchowe
+Specjalne:
+ +2K6 obra¿eñ od ognia i 10% szansa na dodatkowe +1K10 obra¿eñ od ognia
+ Nieumarli uderzeni przez broñ musz¹ wykonaæ rzut obronny przeciw œmierci z modyfikatorem -4 albo ulegn¹ zniszczeniu
+ Broñ traktuje siê jako +5, by mog³a raniæ stworzenia wra¿liwe jedynie na broñ magiczn¹
+Waga: 12
+OpóŸnienie: 6
+Rodzaj bieg³oœci: wekiera
+Typ broni: 1-rêczna
+Wymagana si³a: 10
+Nie mo¿e u¿ywaæ:
+ Druid
+ Mag
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@57 = ~W³ócznia og³uszenia +2~
+@58 = ~Jedna z pierwszych broni, jak¹ zacz¹³ pos³ugiwaæ siê cz³owiek. Wczesne w³ócznie by³y zwyczajnymi, drewnianymi ko³kami zaostrzonymi na jednym z koñców. Gdy cz³owiek opanowa³ znajomoœæ metalurgii, zacz¹³ wytwarzaæ groty w³óczni z ¿elaza i stali. W koñcu p³atnerze zaczêli eksperymentowaæ z ró¿nymi rodzajami grotów, co doprowadzi³o do stworzenia kilku typów broni drzewcowych. Ta w³ócznia ró¿ni siê jednak od zwyczajnej, poniewa¿ posiada kilka magicznych w³aœciwoœci.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +2
+TraK0: +2
+Typ obra¿eñ: k³ute
+Specjalne:
+ Og³usza ofiarê na 3 sekundy (udany rzut obronny przeciw parali¿owi neguje)
+Waga: 5
+OpóŸnienie: 7
+Rodzaj bieg³oœci: w³ócznia
+Typ broni: 2-rêczna
+Wymagana si³a: 5
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ Mag
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@59 = ~Laska Zjawy +5~
+@60 = ~Kij jest najprostsz¹ i najskromniejsz¹ z lasek, mierz¹ca od 1,8 do 2,7 metra. Najlepsze kije wykonuje siê z dêbu i obija metalem na obu koñcach. Ten kij jest szczególny, gdy¿ zosta³ nas¹czony magicznymi w³aœciwoœciami.
+
+PARAMETRY:
+
+Obra¿enia: 1K6 +5
+TraK0: +5
+Typ obra¿eñ: obuchowe
+Specjalne:
+ Tworzy widmow¹ projekcjê broni, pozwalaj¹c u¿ytkownikowi trafiæ przeciwnika oddalonego nawet o 15 d³ugoœci.
+Waga: 4
+OpóŸnienie: 3
+Rodzaj bieg³oœci: kij
+Typ broni: 2-rêczna
+Wymagana si³a: 5
+Nie mo¿e u¿ywaæ:
+ Mnich
+~
+@61 = ~Laska Wiêkszej Odpornoœci na Zaklêcia +5~
+@62 = ~Kij jest najprostsz¹ i najskromniejsz¹ z broni drzewcowych, mierz¹c¹ od 1,8 do 2,7 metra. Najlepsze kije wykonuje siê z dêbu i obija metalem na obu koñcach. Ten kij jest szczególny, gdy¿ zosta³ nas¹czony magicznymi w³aœciwoœciami.
+
+PARAMETRY:
+
+Obra¿enia: 1K6 +5
+TraK0: +5
+Typ obra¿eñ: obuchowe
+Specjalne:
+ +15% do Odpornoœci na magiê
+ +2 punkty obra¿eñ od trucizny co sekundê przez 6 sekund (udany rzut obronny przeciw truciznom neguje)
+Waga: 4
+OpóŸnienie: 3
+Rodzaj bieg³oœci: kij
+Typ broni: 2-rêczna
+Wymagana si³a: 5
+Nie mo¿e u¿ywaæ:
+ Mnich
+~
+@63 = ~Pó³torarêczny Miecz Wyziewów~
+@64 = ~Miecz pó³torarêczny zwany jest równie¿ "bêkartem" - nazwa pochodzi st¹d, ¿e powsta³ ze skrzy¿owania miecza d³ugiego i oburêcznego. Ma obosieczne ostrze i d³ug¹ rêkojeœæ, dziêki czemu mo¿na u¿ywaæ go jedn¹ rêk¹ lub obur¹cz. Jego d³ugoœæ waha siê od 120 do 145 centymetrów.
+
+PARAMETRY:
+
+Obra¿enia: 1K10
+Typ obra¿eñ: sieczne
+Specjalne:
+ +1K6 obra¿eñ od kwasu i 10% szansa na dodatkowe 1K10 obra¿eñ od kwasu
+ +2 punkty obra¿eñ od trucizny co sekundê przez 6 sekund (udany rzut obronny przeciw truciznom neguje)
+ 25% szansa na og³uszenie celu na 3 sekundy (rzut obronny przeciw truciznom neguje)
+ Broñ traktuje siê jako +5, by mog³a raniæ stworzenia wra¿liwe jedynie na broñ magiczn¹
+Waga: 9
+OpóŸnienie: 7
+Rodzaj bieg³oœci: miecz pó³torarêczny
+Typ broni: 1-rêczna
+Wymagana si³a: 11
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mag
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@65 = ~Pó³torarêczny Miecz Gniewu~
+@66 = ~Miecz pó³torarêczny zwany jest równie¿ "bêkartem" - nazwa pochodzi st¹d, ¿e powsta³ ze skrzy¿owania miecza d³ugiego i oburêcznego. Ma obosieczne ostrze i d³ug¹ rêkojeœæ, dziêki czemu mo¿na u¿ywaæ go jedn¹ rêk¹ lub obur¹cz. Jego d³ugoœæ waha siê od 120 do 145 centymetrów.
+
+PARAMETRY:
+
+Obra¿enia: 1K10
+Typ obra¿eñ: sieczne
+Specjalne:
+ +2 do Si³y 
+ +2K6 obra¿eñ od ognia i 10% szansa na dodatkowe 2K10 obra¿eñ od ognia
+ Broñ traktuje siê jako +5, by mog³a raniæ stworzenia wra¿liwe jedynie na broñ magiczn¹
+Waga: 9
+OpóŸnienie: 7
+Rodzaj bieg³oœci: miecz pó³torarêczny
+Typ broni: jednorêczna
+Wymagana si³a: 11
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mag
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@67 = ~Sza³ Chaosu~
+@68 = ~A¿ ciê¿ko oderwaæ wzrok od tej broni. Ostrze wykute zosta³o z czerwonego z³ota, a jego brzeg po³yskuje srebrem. Jelec wykonano z doskonale wypolerowanej platyny, a rêkojeœæ z czarnego adamantytu. Wyci¹gniêty z pochwy, miecz zdaje siê mieniæ wszystkimi kolorami têczy.
+
+Broñ ta by³a jednak zarówno b³ogos³awieñstwem, jak i kl¹tw¹ tych, którzy jej dobywali. U¿yta przeciw praworz¹dnym stworzeniom czyni³a olbrzymie spustoszenie, a precyzja jej uderzeñ nie mia³a sobie równych. Sza³ Chaosu znany by³ z tego, i¿ nie raz zmieni³ losy bitwy. Po trafieniu t¹ broni¹ ofiara czêsto traci zdolnoœæ jasnego myœlenia i popada w stan chaosu. Chaotyczne moce zawarte w tym ostrzu chroni¹ za to jego w³aœciciela przed urokami czy zamêtem.
+
+Historia Sza³u Chaosu nie jest znana. Ostrze to pojawia³o siê w wielu bitwach na przestrzeni wieków, tylko po to, aby potem znów zagin¹æ.
+
+PARAMETRY:
+
+Obra¿enia: 1K10 +3
+TraK0: +3
+Typ obra¿eñ: sieczne
+Specjalne:
+ +2K6 obra¿eñ przeciw praworz¹dnym stworzeniom
+ U¿ytkownik znajduje siê pod wp³ywem zaklêcia Chaotyczne rozkazy
+ Rzuca na cel zaklêcie Chaos po trafieniu (rzut obronny przeciw czarom z modyfikatorem -4 neguje)
+Waga: 8
+OpóŸnienie: 6
+Rodzaj bieg³oœci: miecz pó³torarêczny
+Typ broni: 1-rêczna
+Wymagana si³a: 11
+Nie mo¿e u¿ywaæ:
+ Postaæ o charakterze praworz¹dnym
+ Druid
+ Kap³an
+ Mag
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@69 = ~Na³adowany Krótki Miecz Zranieñ +5~
+@70 = ~Krótkie miecze to najstarszy rodzaj tego typu broni. W najprostszych s³owach jest to sztylet o ostrzu zbyt d³ugim, by mo¿na go by³o nazywaæ sztyletem. Pojêcie "miecz krótki" nie istnieje w ¿adnych klasyfikacjach mieczy, ale w tym przypadku jest u¿ywany do okreœlenia dwusiecznego ostrza o d³ugoœci oko³o 60 centymetrów. Czubki tych mieczy s¹ zazwyczaj ostre, doskonale przystosowane do pchniêæ.
+
+PARAMETRY:
+
+Obra¿enia: 1K6 +5
+TraK0: +5
+Typ obra¿eñ: k³ute
+Specjalne:
+ +2K6 obra¿eñ od elektrycznoœci i 10% szansa na dodatkowe 2K10 obra¿eñ od elektrycznoœci
+ Zadaje 1 dodatkowy punkt obra¿eñ od trucizny na rundê przez 10 rund (udany rzut obronny przeciw truciznom neguje efekt)
+Waga: 3
+OpóŸnienie: 2
+Rodzaj bieg³oœci: krótki miecz
+Typ broni: 1-rêczna
+Wymagana si³a: 5
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an 
+ Mag
+ W³adca zwierz¹t
+~
+@71 = ~Wolno i dok³adnie~
+@72 = ~Ten potê¿ny m³ot by³ prawdopodobnie wykorzystywany przy pracach na palisadzie i bardzo mo¿liwe, ¿e ¿aden z robotników nic nie wiedzia³ o jego magicznych w³aœciwoœciach. Wprawdzie broni¹ t¹ operuje siê nieco wolniej ni¿ m³otem wojennym, i jest te¿ od niego ciê¿sza, lecz wyrz¹dza ona wiêksze szkody. Pojedyncze uderzenie m³otem wywo³uje równie¿ czysto brzmi¹cy dŸwiêk.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +4
+TraK0: +4
+Typ obra¿eñ: obuchowe
+Specjalne:
+ +3 do Si³y
+Waga: 9
+OpóŸnienie: 6
+Rodzaj bieg³oœci: m³ot bojowy
+Typ broni: 1-rêczna
+Wymagana si³a: 9
+Nie mo¿e u¿ywaæ:
+ Druid
+ Mnich
+ Z³odziej
+ Mag
+ W³adca zwierz¹t
+~
+@73 = ~Dwanaœcie Kroków~
+@74 = ~Ta d³uga w³ócznia zosta³a wykonana z grubego dêbowego drzewca i wygl¹da na to, ¿e by³a czêsto wykorzystywana w czasie polowañ na dziki polarne. Na trzonku znajduje siê wiele pieczêci oraz znaków runicznych, które maj¹ poprawiæ celnoœæ ataku. Ponadto, w sytuacji bezpoœredniego zagro¿enia ¿ycia, w³ócznia potrafi zaatakowaæ nieprzyjaciela znajduj¹cego siê nawet o piêæ jej d³ugoœci od jej w³aœciciela, dziêki czemu przeciwnik mo¿e zostaæ zabity, zanim jeszcze zbli¿y siê na niebezpieczn¹ odleg³oœæ.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +4
+TraK0: +4
+Typ obra¿eñ: k³ute
+Specjalne:
+ Zasiêg piêciu d³ugoœci zamiast dwóch
+ Pozwala rzucaæ zaklêcie Wy³om 3 razy dziennie
+ Pozwala rzucaæ zaklêcie Obni¿enie odpornoœci 3 razy dziennie
+Waga: 7
+OpóŸnienie: 5
+Rodzaj bieg³oœci: w³ócznia
+Typ broni: 2-rêczna
+Wymagana si³a: 5
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ Mnich
+ Z³odziej
+ Mag
+ W³adca zwierz¹t
+~
+@75 = ~Szepcz¹ca Laska Caballusa~
+@76 = ~Ta laska z ¿elazodrzewa nale¿a³a niegdyœ do gobliñskiego czarownika Caballusa i ci¹gle czuæ od niej jego smród. Runiczne szlaki otaczaj¹ laskê niczym wê¿e, lecz z wyj¹tkiem pomniejszej runy celnoœci oraz runy zranieñ, wiêkszoœæ z nich wygl¹da na pozbawione znaczenia. Laska jest zdumiewaj¹co lekka i dobrze wywa¿ona jak na swój rozmiar, przez co bez wysi³ku mo¿na trzymaæ j¹ w jednej rêce.
+
+PARAMETRY:
+
+Obra¿enia: 1K6 +4
+TraK0: +3
+Typ obra¿eñ: obuchowe
+Specjalne:
+ +15% do Cichego chodzenia
+ Cel zostaje uciszony po udanym trafieniu (rzut przeciw czarom neguje)
+ Pozwala raz dziennie rzucaæ zaklêcie Grupowa niewidzialnoœæ
+Waga: 4
+OpóŸnienie: 3
+Rodzaj bieg³oœci: kij
+Typ broni: 2-rêczna
+Wymagana si³a: 5
+Nie mo¿e u¿ywaæ:
+ Mnich
+~
+@77 = ~Niegasn¹ca pochodnia Beliba~
+@78 = ~Belib Nieufny by³ bez w¹tpienia najlepiej wyposa¿onym poszukiwaczem przygód w historii - lub móg³by byæ, gdyby kiedykolwiek wyruszy³ z domu, by jak¹kolwiek znaleŸæ. Jego Wieczna Pochodnia to jeden z wielu przedmiotów z pokaŸnej listy umagicznionych narzêdzi przeszukiwacza lochów i podziemi. Jest to magiczny lampion o wygl¹dzie wyszukanej, drewnianej pochodni. Œwieci wewnêtrznym p³omieniem o jaskrawej, pomarañczowej barwie, którego nic nie jest w stanie zgasiæ - zanurzona w wodzie, zakopana pod paroma metrami ska³y, czy uderzona o g³owê rozmok³ego trolla bagiennego, Wieczna Pochodnia Beliba nadal bêdzie œwieciæ.
+
+Gdy Belib ukoñczy³ ostatni ze swych przedmiotów, zapakowa³ je wszystkie do ogromnego plecaka - zaczarowanego oczywiœcie tak, by móg³ pomieœciæ znacznie wiêcej, ni¿ Belib by³by normalnie w stanie unieœæ - i zarzuci³ go na ramiona, gotowy na przygodê ¿ycia. Gnom przekroczy³ próg swego domu... i zosta³ natychmiast przygnieciony przez swój olbrzymi plecak. Torba otworzy³a siê, a jej zawartoœæ rozsypa³a po ca³ej ulicy w Waterdeep, na której Belib mieszka³, znikaj¹c w mgnieniu oka w kieszeniach przechodniów.
+
+Cia³o Beliba zosta³o wreszcie zabrane do œwi¹tyni i wskrzeszone przez dobroduszn¹ kap³ankê, lecz wtedy ostatni z magicznych przedmiotów gnoma... i wiêksza czêœæ jego domu... by³y ju¿ dawno daleko st¹d. Wdziêczny, lecz naturalnie zmartwiony, Belib wykona³ dla kap³anki kilka unikalnych i niezwyk³ych przedmiotów, a nastêpnie powróci³ do swej ojczystej ziemi i rodziny, na zawsze odchodz¹c z powierzchni ziemi.
+
+PARAMETRY:
+
+Obra¿enia: 1K6
+Typ obra¿eñ: obuchowe
+Specjalne:
+ +2K6 obra¿eñ od ognia i 10% szansa na dodatkowe 1K10 obra¿eñ od ognia
+Waga: 5
+OpóŸnienie: 4
+Rodzaj bieg³oœci: wekiera
+Typ broni: 1-rêczna
+Wymagana si³a: 10
+Ni mo¿e u¿ywaæ:
+ Druid
+ Mag
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@79 = ~Zbroja ze skóry kornugona~
+@80 = ~Ta skórzana zbroja owiana jest wielk¹ tajemnic¹. Nikt nie wie gdzie i w jaki sposób zosta³a wykonana. Wiadomo jedynie, ¿e skóra pochodzi z kornugona. Zbroja zosta³a zafarbowana na bardzo ciemny, niemal czarny odcieñ, znajduj¹ siê na niej równie¿ ostro zakoñczone ³uski. Ponadto, czuæ od niej delikatny zapach octu.
+
+Noszenie skóry kornugona daje wysoki poziom niewra¿liwoœci na broñ niemagiczn¹ oraz zdolnoœæ do powolnej regeneracji po poniesionych obra¿eniach.
+
+PARAMETRY:
+
+Klasa Pancerza: 5
+Specjalne:
+  Regeneruje 1 punkt ¿ycia na 10 rund
+  Nosz¹cy jest odporny na zwyk³e bronie
+Waga: 15
+Wymagana si³a: 6
+Nie mo¿e u¿ywaæ:
+ Mag
+ Kensai
+ Mnich
+ Zmiennokszta³tny
+~
+@81 = ~M³ot Mêstwa~
+@82 = ~M³ot Mêstwa jest potworn¹ broni¹ wykut¹ w celu z³amania u nieprzyjaciela ducha walki oraz oczywiœcie zgruchotania jego koœci i zbroi. Jest to broñ pochodz¹ca z czasów staro¿ytnych, a imiê jej wykonawcy dawno zaginê³o i darmo go szukaæ nawet w ksiêgach szarych krasnoludów. Na m³ocie tym wyryto tylko jeden napis w jêzyku staro¿ytnych krasnoludów, który teraz u¿ywany jest jedynie przez plemiona duergarskie:
+
+"Nie œmieræ jest najstraszniejsza, lecz strach przed œmierci¹".
+
+Ka¿dy cios zadany M³otem Mêstwa niesie ze sob¹ szansê na pozbawienie nieprzyjaciela ducha walki i wprowadzenie go w stan przera¿enia. Jeœli siê to powiedzie, przeciwnik natychmiast ucieknie w panice przed w³aœcicielem M³ota.
+
+PARAMETRY:
+
+Obra¿enia: 1K10 +3
+TraK0: +3
+Typ obra¿eñ: obuchowe
+Specjalne:
+ 33% szansa, ¿e trafiony cel ucieknie z pola bitwy (rzut obronny przeciw czarom neguje)
+Waga: 7
+OpóŸnienie: 4
+Rodzaj bieg³oœci: m³ot
+Typ broni: 1-rêczna
+Wymagana si³a: 9
+Nie mo¿e u¿ywaæ:
+ Druid
+ Mag 
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@83 = ~Hak Sulo~
+@84 = ~Miejsce powstania tego sztyletu nie jest znane. Wiadomo tylko, ¿e sta³ siê s³ynny, gdy w jego posiadanie wszed³ ciesz¹cy siê z³¹ s³aw¹ korsarz, kapitan "Baron" Sulo z Luskan. Pewnego razu Sulo wraz ze swoj¹ za³og¹ wykradli klejnoty rodziny Leberm z niewielkiego statku transportowego przy brzegu Port Llast. Drogê ucieczki zagrodzili im jednak doœwiadczeni poszukiwacze przygód, którzy zostali wynajêci do ochrony klejnotów. Jeden z nich walczy³ niezwykle zaciekle, czyni¹c dobry u¿ytek ze swoich œwietnie wykonanych no¿y. Bezimienny awanturnik zabi³ wielu ludzi Sulo i staj¹c naprzeciw samego kapitana, od razu odci¹³ mu lew¹ rêkê. "Baron" Sulo pewnie zgin¹³by tamtego dnia, gdyby nie przypadkowy pocisk wystrzelony z katapulty, który trafi³ prosto w nieszczêsnego poszukiwacza przygód i natychmiast wyrzuci³ go poza pok³ad statku. Pozosta³ po nim jedynie ten misternie wykonany sztylet le¿¹cy na pok³adzie, tak jakby jego w³aœciciela nigdy tu nie by³o.
+
+Sulo kaza³ przymocowaæ sobie sztylet na miejsce odciêtej d³oni, w miejscu, gdzie zwykle w takich sytuacjach znajduje siê hak. Po œmierci Sulo, jakieœ dziewiêæ lat póŸniej, sztylet pochowano razem z nim w ukrytym grobowcu, razem ze spor¹ iloœci¹ klejnotów i z³otych monet. Mimo i¿ pogrzeb odby³ siê w zupe³nej tajemnicy, grób Sulo zosta³ szybko spl¹drowany, a jego "hak" trafi³ w obce rêce.
+
+PARAMETRY:
+
+Obra¿enia: 1K4 +1
+TraK0: -1
+Typ obra¿eñ: k³ute
+Specjalne:
+ +3 do Klasy Pancerza
+ +1 do rzutów obronnych
+ +15% do odpornoœci na obra¿enia magiczne
+ Broñ traktuje siê jako +1, by mog³a raniæ stworzenia wra¿liwe jedynie na broñ magiczn¹
+Waga: 1
+OpóŸnienie: 3
+Rodzaj bieg³oœci: sztylet
+Typ broni: 1-rêczna
+Wymagana si³a: 3
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ W³adca zwierz¹t
+~
+@85 = ~Kie³ ¯a³oœci Xvimiana~
+@86 = ~Jako znak wdziêcznoœci i zaufania do Saablika Tana za przy³¹czenie siê do Legionu Chimery, Isair i Madae wrêczyli mu sztylet "Kie³ Rozpaczy Xvimiana".
+
+Sztylet ten wykuty zosta³ z najlepszych metali i zaczarowany najciemniejsz¹ magi¹ powi¹zan¹ z wiedz¹ Xvimiana. "Kie³ Rozpaczy Xvimiana" nie odbija œwiat³a ze wzglêdu na czarn¹ stal, z jakiej jest wykonany. W rzeczywistoœci ostrze jest tak czarne, ¿e wszelkie szczegó³y sztyletu, zwykle widoczne, tutaj s¹ ca³kowicie niezauwa¿alne. Wygl¹da to tak, jakby ostrze poch³ania³o œwiat³o.
+
+Saablik Tan zawsze trzyma "Kie³ Rozpaczy Xvimiana" blisko przy sobie, nie tylko dla tego, ¿e ma on niezwyk³¹ moc zmieniania nieprzyjació³ w kamieñ, lecz poniewa¿ sztylet zwiêksza intelekt swego w³aœciciela. Jest to naprawdê potê¿na broñ przeznaczona dla równie potê¿nego czarodzieja.
+
+PARAMETRY:
+
+Obra¿enia: 1K4 +5
+TraK0: +5
+Typ obra¿eñ: k³ute
+Specjalne:
+ +4 do Inteligencji
+ 5% szansa na rzucenie zaklêcia Zamiana cia³a w kamieñ przy trafieniu w cel
+ 20% szansa na rzucenie zaklêcia Emocje: Rozpacz przy trafieniu w cel
+Waga: 1
+OpóŸnienie: 2
+Rodzaj bieg³oœci: sztylet
+Typ broni: 1-rêczna
+Wymagana si³a: 3
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ W³adca zwierz¹t
+~
+@87 = ~Ma³pia £apa Dyscypliny~
+@88 = ~Sprawg, kapitan neo orogów, jest aktualnie instruktorem ogólnych taktyk bitewnych dla nowych rekrutów Legionu Chimery. W zwi¹zku, z tym potrzebowa³ odpowiedniego narzêdzia, by utrzymaæ ich w ryzach. W tym celu stworzono Ma³pi¹ £apê Dyscypliny.
+
+Ma³pia £apa Dyscypliny wygl¹da dok³adnie tak, jak siê nazywa. Sk³ada siê przede wszystkim z wielkiej, skamienia³ej ma³piej ³apy, uciêtej przy barku. W stawie ramieniowym zamocowano jednorêczny uchwyt, wciskaj¹c go w koœæ i magicznie wtapiaj¹c. Na przeciwnym koñcu ³apa jest rozwarta i stanowi g³ówne narzêdzie zadawania bólu. Gdy ktoœ zostanie ni¹ uderzony, mo¿e ulec podwy¿szonemu strachowi i / lub zamêtowi, oczywiœcie poza odniesieniem znacznych obra¿eñ. Gdy te objawy przemin¹, jest ma³o prawdopodobne, aby potraktowana ³ap¹ osoba ponownie sprawi³a jakieœ k³opoty, zw³aszcza podczas æwiczeñ.
+
+PARAMETRY:
+
+Obra¿enia: 1K6 +3
+TraK0: +3
+Typ obra¿eñ: obuchowe
+Specjalne:
+ Jeden dodatkowy atak na rundê
+ 15% szansa na rzucenie na cel zaklêcia Emocje: Strach na 5 rund (rzut obronny przeciw czarom neguje)
+ 5% szansa na rzucenie na cel zaklêcia Zamêt na 9 rund (rzut obronny przeciw czarom neguje)
+Waga: 3
+OpóŸnienie: 4
+Rodzaj bieg³oœci: wekiera
+Typ broni: 1-rêczna
+Wymagana si³a: 10
+Nie mo¿e u¿ywaæ:
+ Druid
+ Mag
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@89 = ~Brutalny Wp³yw~
+@90 = ~Jednym z przywilejów Brutai Mara, kap³ana Xvima wysokiego szczebla w Legionie Chimery, by³o posiadanie tego zabójczego wojennego m³ota.
+
+Na trzonku m³ota znajduj¹ siê obrazy przedstawiaj¹ce walkê Iyachtu Xvima z legionami paladynów. Jest on wspaniale wykoñczony i du¿o wiêkszy ni¿ wiêkszoœæ m³otów, lecz mimo to nie jest od nich ciê¿szy. Podobnie jak w przypadku wielu innych rodzajów broni wykonanych przy pomocy mrocznych zaklêæ Iyachtu Xvima, czarna stal tego m³ota wydaje siê poch³aniaæ promienie œwiat³a.
+
+Za ka¿dym razem, gdy Brutai Mar korzysta³ z m³ota w czasie walki, odczuwa³ zwiêkszon¹ si³ê i zadawa³ celniejsze ciosy. Ponadto, niektórym ciosom zadanym m³otem towarzyszy³y wybuchy kwasu Xvima, tego samego, który p³ynie w Odciêtej D³oni.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +3
+TraK0: +3
+Typ obra¿eñ: obuchowe
+Specjalne:
+ +2 do Si³y
+ 33% szansa na +2K6 obra¿eñ od kwasu i 10% szansa na dodatkowe 2K10 obra¿eñ od kwasu
+Waga: 7
+OpóŸnienie: 4
+Rodzaj bieg³oœci: m³ot bojowy
+Typ broni: 1-rêczna
+Wymagana si³a: 9
+Nie mo¿e u¿ywaæ:
+ Druid
+ Mag 
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@91 = ~Ognista Plaga Pudu~
+@92 = ~Pudu, kapitan Gwardii Legionu Chimery, jest z pewnoœci¹ mistrzem przesady. Podobnie do innych pó³goblinów odczuwa³ on potrzebê posiadania najwiêkszej broni, jak¹ taki niezbyt ros³y mieszaniec rasowy mo¿e udŸwign¹æ, czyli halabardy.
+
+Oczywiœcie, Pudu nie móg³ zadowoliæ siê zwyk³¹ halabard¹, wiêc zleci³ zaszczepienie najbardziej okrutnych zaklêæ magicznych na broni, któr¹ sam wybra³. Stosownie do pozycji, jak¹ Pudu zajmowa³ w Legionie Chimery, jego nowa halabarda, któr¹ nazwa³ czule "Ognist¹ Plag¹ Pudu", powodowa³a ogromne zniszczenia od ognia. Nie mieli szczêœcia ci, którzy z jakiegoœ powodu znaleŸli siê po niew³aœciwej stronie tego p³on¹cego ostrza. Ponadto, halabarda potrafi³a og³uszyæ przeciwnika, przez co nie móg³ broniæ siê przed atakiem Pudu. Pudu najbardziej lubi walczyæ z tymi, którzy nie mog¹ siê broniæ - ale lepiej nie mówcie mu tego w twarz.
+
+
+PARAMETRY:
+
+Obra¿enia: 1K10 + 5
+TraK0: +5
+Typ obra¿eñ: k³ute
+Specjalne:
+ +2K6 dodatkowych obra¿eñ od ognia i prawdopodobieñstwo 10% na dodatkowe +2k10 obra¿eñ
+ 25% szansa na og³uszenie celu na 3 sekundy (rzut obronny przeciw parali¿owi neguje)
+ 5% szansa na obni¿enie odpornoœci na magiê celu o 25% na 2 tury
+Waga: 14
+OpóŸnienie: 8
+Rodzaj bieg³oœci: halabarda
+Typ broni: 2-rêczna
+Wymagana si³a: 13
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mag
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@93 = ~Wekiera zag³ady goblinów +1~
+@94 = ~Wekiera jest bezpoœredni¹ spadkobierczyni¹ zwyczajnej maczugi. Sk³ada siê z drewnianego trzonka z ¿elazn¹ g³owni¹ na koñcu. W tym przypadku g³ownia osadzona na czubku wypolerowanego, dêbowego drzewca ma kszta³t piramidy i wydaje siê œwieciæ wewnêtrznym, b³êkitnym œwiat³em.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +1
+TraK0: +1 
+Typ obra¿eñ: obuchowe
+Specjalne:
+  Zabija gnolle, gobliny, hobgobliny, koboldy i orki
+Waga: 12
+OpóŸnienie: 6
+Rodzaj bieg³oœci: wekiera
+Typ broni: 1-rêczna
+Wymagana si³a: 10
+Nie mo¿e u¿ywaæ:
+ Druid
+ Mag
+ Z³odziej
+ Mnich
+ W³adca zwierz¹t
+~
+@95  = ~Topór oburêczny~
+@96  = ~Ta potê¿na broñ sk³ada siê z trzonka o d³ugoœci od stu dwudziestu do stu piêædziesiêciu centymetrów i bardzo ciê¿kiego ostrza. Topór ten mo¿e mieæ jedno ¿eleŸce z jednej strony trzonka lub dwa, po obu stronach. Jest to nieporêczna broñ, ale doœwiadczony wojownik mo¿e nim zadawaæ straszliwe ciosy.
+
+PARAMETRY:
+
+Obra¿enia: 1K10
+Typ obra¿eñ: sieczne
+Waga: 10
+OpóŸnienie: 9
+Rodzaj bieg³oœci: topór
+Typ broni: 2-rêczna
+Wymagana si³a: 10
+Nie mo¿e u¿ywaæ:
+ Druid
+ Mnich
+ Kap³an 
+ Z³odziej
+ Czarownik
+ Mag
+ W³adca zwierz¹t
+~
