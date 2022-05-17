@@ -201,10 +201,6 @@ APPEND ~itemexcl.2da~ ~u#hfheah 1~ // cornugon hide armor
 APPEND ~tooltip.2da~ ~u#hfsfws %name_hfsfws% 32427 -1~    // Caballus' Whispering Staff (mass invis)
 APPEND ~tooltip.2da~ ~u#hfsrnp %name_hfsrnp% 25914 16963~ // Twelve Paces (breach & lower resistance)
 
-// create remove magic spell w/o AoE or projectile for Delnar's Eye Gouger
-COPY_EXISTING ~spwi302.spl~ ~override/u#hfdtdd.spl~
-  LPF ALTER_SPELL_HEADER INT_VAR projectile = 1 END
-
 // create insect plague without traveling projectile
 COPY_EXISTING ~insec2.pro~ ~override/u#hfdtpd.pro~
   WRITE_ASCII 0x104 ~~ #8 // remove traveling animation
