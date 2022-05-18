@@ -2,7 +2,7 @@
                         Under-Represented Items Mod
                           Author: Westley Weimer
                        Current Maintainer: CamDawg
-                             \/ Release 8 \/
+                             \/ Release 9 \/
 
                            http://www.weidu.org/
 
@@ -426,4 +426,17 @@ Version 8 (CamDawg, June 5, 2021):
         * Added Polish translation, courtesy of Aristo from the Stars of Mystra
           translation team 
         * Added metadata for Project Infinity  
-          
+Version 9 (CamDawg, May 18, 2022):
+        * Fixed bug with Delnar's Eye Gouger where its dispel-on-hit ability 
+          rarely worked. It now uses the same parameters as the dispel-on-hit
+          abilities of Carsomyr or Staff of the Magi. (Credit to riklaunim
+          for the bug report.)
+        * Certain item abilities now take advantage of EE-specific engine
+          features, e.g. items which drain life will now use the new EE flags
+          to do so in a more consistent and bug-free manner
+        * Rage of Chaos, which provides Chaotic Commands as an equipped effect,
+          will now copy the effects of Chaotic Commands at install time, in 
+          case another mod has altered the spell
+        * In anticipation of the EE Fixpack, the items will use the various
+          IMMUNITY spellstates to prevent effects that should be blocked, e.g.
+          a creature immune to web may still get some effects (like sounds)

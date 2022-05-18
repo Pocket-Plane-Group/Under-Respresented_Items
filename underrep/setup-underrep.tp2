@@ -1,4 +1,4 @@
-BACKUP ~underrep/backup~
+BACKUP ~weidu_external/underrep/backup~
 AUTHOR ~http://forums.pocketplane.net/index.php/board,43.0.html~
 
 ALWAYS
@@ -16,7 +16,7 @@ ALWAYS
   
 END
 
-VERSION ~v8~
+VERSION ~v9~
 
 README ~underrep/readme-underrep.%LANGUAGE%.html~ 
        ~underrep/readme-underrep.%LANGUAGE%.txt~ 
@@ -29,21 +29,29 @@ LANGUAGE ~American English~
 
 LANGUAGE ~Traduction francaise (par Mathrim Cauthon, Mathrim.Cauthon@free.fr)~ 
          ~french~
+         ~underrep/languages/american/setup.tra~
+         ~underrep/languages/american/u#conlan.tra~
 	       ~underrep/languages/french/setup.tra~
          ~underrep/languages/french/u#conlan.tra~
 
 LANGUAGE ~Russian (SERKOS)~
          ~russian~
+         ~underrep/languages/american/setup.tra~
+         ~underrep/languages/american/u#conlan.tra~
          ~underrep/languages/russian/setup.tra~
          ~underrep/languages/russian/u#conlan.tra~
 
 LANGUAGE ~Italian (Stoneangel)~
          ~italian~
+         ~underrep/languages/american/setup.tra~
+         ~underrep/languages/american/u#conlan.tra~
          ~underrep/languages/italian/setup.tra~
          ~underrep/languages/italian/u#conlan.tra~
 
 LANGUAGE ~Polski (Aristo - The Stars of Mystra)~
          ~polish~
+         ~underrep/languages/american/setup.tra~
+         ~underrep/languages/american/u#conlan.tra~
          ~underrep/languages/polish/setup.tra~
          ~underrep/languages/polish/u#conlan.tra~
 
