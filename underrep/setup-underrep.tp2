@@ -3,14 +3,14 @@ AUTHOR ~http://forums.pocketplane.net/index.php/board,43.0.html~
 
 ALWAYS
 
-  OUTER_SET ee_game = 0
+  OUTER_SET enhanced_edition = 0
   
   ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
 
     ACTION_DEFINE_ARRAY cdreload BEGIN ~setup~ ~u#conlan~ END
     LAF HANDLE_CHARSETS INT_VAR infer_charset = 1 STR_VAR default_language = american tra_path = EVAL ~%MOD_FOLDER%/languages~ convert_array = cdreload reload_array = cdreload END
 
-    OUTER_SET ee_game = 1 // ee game
+    OUTER_SET enhanced_edition = 1 // ee game
 
   END
   

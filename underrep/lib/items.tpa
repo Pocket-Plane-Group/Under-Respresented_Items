@@ -1,4 +1,6 @@
-ACTION_IF ((ee_game) AND (FILE_EXISTS ~underrep/languages/%LANGUAGE%/setup_ee.tra~)) BEGIN
+INCLUDE ~underrep/lib/functions.tpa~ // load cd_items_casting_spells
+
+ACTION_IF ((enhanced_edition) AND (FILE_EXISTS ~underrep/languages/%LANGUAGE%/setup_ee.tra~)) BEGIN
 
   LOAD_TRA ~underrep/languages/%LANGUAGE%/setup_ee.tra~ // override normal item descriptions with EE-formatted ones
  
@@ -139,6 +141,15 @@ COPY ~underrep/itm/U#SWDBRC.itm~ ~override~
   SAY NAME2 @67 
   SAY DESC @68 
 
+// dynamically add effects of chaotic commands as equipping effects
+LAF cd_items_casting_spells INT_VAR cast_at_level = 1 item_header = 0 duration = 0 STR_VAR item = ~u#swdbrc~ spell = sppr508 END
+COPY_EXISTING ~u#swdbrc.itm~ ~override~ // make these equipping effects, not time-limited
+  LPF DELETE_EFFECT INT_VAR check_headers = 0 match_opcode =  61 END
+  LPF DELETE_EFFECT INT_VAR check_headers = 0 match_opcode = 174 END
+  LPF DELETE_EFFECT INT_VAR check_headers = 0 match_opcode = 215 END
+  LPF ALTER_EFFECT INT_VAR check_headers = 0 power = 0 timing = 2 resist_dispel = 0 END
+  BUT_ONLY
+  
 COPY ~underrep/itm/U#SWDS94.itm~ ~override~
   SAY NAME2 @69 
   SAY DESC @70
@@ -220,7 +231,7 @@ COPY_EXISTING ~ohbetrai.itm~ ~override~
   LPF CLONE_EFFECT STR_VAR match_resource = sppr517 resource = ~u#hfdtpd~ END     
   BUT_ONLY IF_EXISTS
 
-// make 2h axes available to shamans, add generic name/descripts
+// add generic name/descripts to 2h axes
 COPY_EXISTING ~u#ax2h85.itm~ ~override~
               ~u#ax2h86.itm~ ~override~
               ~u#ax2h87.itm~ ~override~
@@ -231,8 +242,116 @@ COPY_EXISTING ~u#ax2h85.itm~ ~override~
               ~u#ax2h99.itm~ ~override~ 
   SAY 0x08 @95
   SAY 0x50 @96
-  PATCH_IF ee_game BEGIN            
+  BUT_ONLY
+  
+ACTION_IF enhanced_edition BEGIN
+
+  // make 2h axes available to shamans, add generic name/descripts
+  COPY_EXISTING ~u#ax2h85.itm~ ~override~
+                ~u#ax2h86.itm~ ~override~
+                ~u#ax2h87.itm~ ~override~
+                ~u#ax2h93.itm~ ~override~
+                ~u#ax2h94.itm~ ~override~
+                ~u#ax2h95.itm~ ~override~
+                ~u#ax2h98.itm~ ~override~
+                ~u#ax2h99.itm~ ~override~ 
     WRITE_BYTE 0x21 (THIS BAND `BIT6) // removes druid restriction, add back as 319 below
     LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 319 target = 1 parameter1 = 11 parameter2 = 5 timing = 2 special = 1080 END
+    BUT_ONLY
+    
+  // skip poison effects for immune creatures or poison immunity >= 100
+  COPY_EXISTING ~u#ax2h87.itm~ ~override~ // Greataxe of Blurred Visions +5
+                ~u#dagg90.itm~ ~override~ // Viper's Fang +2
+                ~u#dart84.itm~ ~override~ // Returning Poison Tipped Dart
+                ~u#hfsrim.itm~ ~override~ // Life's Blood Drinker
+                ~u#hfssls.itm~ ~override~ // Lolth's Cruel Sting
+                ~u#staf90.itm~ ~override~ // Staff of Greater Spell Resistance +5
+                ~u#swdb94.itm~ ~override~ // Miasmic Bastard Sword
+                ~u#swds94.itm~ ~override~ // Charged Short Sword of Wounding +5
+    LPF CLONE_EFFECT INT_VAR match_opcode = 25 opcode = 324 power = 0 parameter2 = 55 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = above resource = EVAL ~%SOURCE_RES%~ END // golems/undead
+    LPF CLONE_EFFECT INT_VAR match_opcode = 25 opcode = 324 power = 0 parameter2 = 77 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = above resource = EVAL ~%SOURCE_RES%~ END // poison resist >= 100
+    BUT_ONLY
+
+  // use ee's HP draining flags instead of damage/hp gain
+  COPY_EXISTING ~u#ax2h99.itm~ ~override~ // Greataxe of Vampiric Flame
+                ~u#dagg98.itm~ ~override~ // Vampiric Dagger +1
+                ~u#halb96.itm~ ~override~ // Massive Halberd of Hate +4
+                ~u#hfsrim.itm~ ~override~ // Life's Blood Drinker
+    LPF DELETE_EFFECT INT_VAR match_opcode = 18 END // delete max HP gain
+    LPF ALTER_EFFECT  INT_VAR match_opcode = 12 match_parameter1 = 2 duration = 60 special = (BIT3 + BIT6) END // add hp draining flags to vampiric damage
+    BUT_ONLY
+    
+  /////                                                  \\\\\
+  ///// EE fixpack stuff                                 \\\\\
+  /////                                                  \\\\\
+    
+  // use immunity spellstates, if available (e.g. EE Fixpack)
+  OUTER_SET confusion_immunity = IDS_OF_SYMBOL (~splstate~ ~CONFUSION_IMMUNITY~)  
+  OUTER_SET death_immunity     = IDS_OF_SYMBOL (~splstate~ ~DEATH_IMMUNITY~)   
+  OUTER_SET entangle_immunity  = IDS_OF_SYMBOL (~splstate~ ~ENTANGLE_IMMUNITY~)  
+  OUTER_SET haste_immunity     = IDS_OF_SYMBOL (~splstate~ ~HASTE_IMMUNITY~)  
+  OUTER_SET hold_immunity      = IDS_OF_SYMBOL (~splstate~ ~HOLD_IMMUNITY~)  
+  OUTER_SET panic_immunity     = IDS_OF_SYMBOL (~splstate~ ~PANIC_IMMUNITY~)  
+  OUTER_SET silence_immunity   = IDS_OF_SYMBOL (~splstate~ ~SILENCE_IMMUNITY~)   
+  OUTER_SET slow_immunity      = IDS_OF_SYMBOL (~splstate~ ~SLOW_IMMUNITY~)  
+  OUTER_SET web_immunity       = IDS_OF_SYMBOL (~splstate~ ~WEB_IMMUNITY~)    
+  
+  ACTION_IF (confusion_immunity > 0) BEGIN 
+  
+    COPY_EXISTING ~u#clubmp.itm~ ~override~ // Monkey Paw of Discipline
+                  ~u#swdbrc.itm~ ~override~ // Rage of Chaos
+      LPF CLONE_EFFECT INT_VAR match_opcode = 128 opcode = 324 power = 0 parameter1 = confusion_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = above resource = EVAL ~%SOURCE_RES%~ END
+      BUT_ONLY
+  
+  END   
+  
+  ACTION_IF (death_immunity > 0) BEGIN 
+  
+    COPY_EXISTING ~u#zzl6ma.itm~ ~override~ // Mace of Goblin Slaying +1
+      LPF CLONE_EFFECT INT_VAR match_opcode = 55 multi_match = 1 opcode = 324 power = 0 parameter1 = death_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = first resource = EVAL ~%SOURCE_RES%~ END
+      BUT_ONLY
+  
+  END         
+  
+  ACTION_IF ((entangle_immunity > 0) OR (haste_immunity > 0) OR (hold_immunity > 0) OR (slow_immunity > 0) OR (web_immunity > 0))BEGIN // free action... le sigh
+  
+    COPY_EXISTING ~u#hfssls.itm~ ~override~ // Lolth's Cruel Sting
+      PATCH_IF (entangle_immunity > 0) BEGIN
+        LPF CLONE_EFFECT INT_VAR multi_match = 1 match_opcode = 101 match_parameter2 = 154 opcode = 328 parameter2 = entangle_immunity special = 1 STR_VAR insert = first END // clone immunity to entangle into set spell state
+      END  
+      PATCH_IF (haste_immunity > 0) BEGIN
+        LPF CLONE_EFFECT INT_VAR multi_match = 1 match_opcode = 101 match_parameter2 = 16 opcode = 328 parameter2 = haste_immunity special = 1 STR_VAR insert = first END // clone immunity to haste into set spell state
+      END  
+      PATCH_IF (hold_immunity > 0) BEGIN
+        LPF CLONE_EFFECT INT_VAR multi_match = 1 match_opcode = 101 match_parameter2 = 175 opcode = 328 parameter2 = hold_immunity special = 1 STR_VAR insert = first END // clone immunity to hold into set spell state
+      END  
+      PATCH_IF (slow_immunity) BEGIN
+        LPF CLONE_EFFECT INT_VAR multi_match = 1 match_opcode = 101 match_parameter2 = 40 opcode = 328 parameter2 = slow_immunity special = 1 STR_VAR insert = first END // clone immunity to slow into set spell state
+      END  
+      PATCH_IF (web_immunity) BEGIN
+        LPF CLONE_EFFECT INT_VAR multi_match = 1 match_opcode = 101 match_parameter2 = 157 opcode = 328 parameter2 = web_immunity special = 1 STR_VAR insert = first END // clone immunity to web into set spell state
+        LPF CLONE_EFFECT INT_VAR match_opcode = 157 opcode = 324 power = 0 parameter1 = web_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 
+          STR_VAR insert = above resource = EVAL ~%SOURCE_RES%~ END // web immune creatures block melee web effect
+      END  
+      BUT_ONLY 
+  
+  END 
+  
+  ACTION_IF (panic_immunity > 0) BEGIN 
+  
+    COPY_EXISTING ~u#clubmp.itm~ ~override~ // Monkey Paw of Discipline
+                  ~u#hfhrva.itm~ ~override~ // The Dire-Hammer Valorfoe
+      LPF CLONE_EFFECT INT_VAR match_opcode =  24 opcode = 324 power = 0 parameter1 = panic_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = first resource = EVAL ~%SOURCE_RES%~ END
+      BUT_ONLY
+  
   END  
-  BUT_ONLY
+  
+  ACTION_IF (silence_immunity > 0) BEGIN 
+  
+    COPY_EXISTING ~u#hfsfws.itm~ ~override~ // Caballus' Whispering Staff
+      LPF CLONE_EFFECT INT_VAR match_opcode = 38 opcode = 324 power = 0 parameter1 = silence_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = first resource = EVAL ~%SOURCE_RES%~ END
+      BUT_ONLY
+  
+  END     
+  
+END

@@ -1,0 +1,96 @@
+/////                                                  \\\\\
+///// items casting spells                             \\\\\
+/////                                                  \\\\\
+
+// borrowed from IWD Fixpack v9
+
+DEFINE_ACTION_FUNCTION cd_items_casting_spells
+  INT_VAR cast_at_level = 1
+          duration      = "-1"
+          item_header   = "-1"
+          probability   = 0 
+          set_icon      = 0
+  STR_VAR item  = null
+          spell = null
+  BEGIN
+  
+  ACTION_IF FILE_EXISTS_IN_GAME ~%spell%.spl~ AND
+            FILE_EXISTS_IN_GAME ~%item%.itm~ AND
+            item_header >= 0 BEGIN
+            
+    COPY_EXISTING ~%spell%.spl~ ~override~
+      READ_SHORT 0x68 abil_num
+      READ_LONG  0x64 abil_off
+      READ_LONG  0x6a fx_off
+      PATCH_IF ((abil_num = 1) OR (cast_at_level = 1)) BEGIN
+        SET base_off = abil_off
+      END ELSE BEGIN  
+        FOR (index = 1 ; index < abil_num ; ++index) BEGIN // skip first ability
+          READ_SHORT (abil_off + 0x10 + (index * 0x28)) min_lev
+          PATCH_IF min_lev = cast_at_level BEGIN
+            SET base_off = (abil_off + 0x00 + (index * 0x28))
+            SET index = abil_num // kill loop
+          END  
+          PATCH_IF min_lev < cast_at_level BEGIN
+            SET base_off = (abil_off + 0x00 + ((index - 1) * 0x28))
+            SET index = abil_num // kill loop
+          END  
+        END
+      END
+      READ_ASCII (base_off + 0x04) icon
+      READ_SHORT (base_off + 0x1e) transfer_fx_num
+      READ_SHORT (base_off + 0x20) abil_fx_idx 
+      READ_ASCII (fx_off + (abil_fx_idx * 0x30)) transfer_effects (0x30 * transfer_fx_num) // read all effects in a massive block
+      BUT_ONLY
+    
+    COPY_EXISTING ~%item%.itm~ ~override~    
+      READ_SHORT 0x68 abil_num
+      READ_LONG  0x64 abil_off
+      READ_LONG  0x6a fx_off
+      SET fx_delta = 0
+      FOR (index = 0 ; index < abil_num + 1 ; ++index) BEGIN
+        PATCH_IF index = 0 BEGIN // global effect loop
+          SET abil_fx_idx_off = 0x6e
+          SET abil_fx_num_off = 0x70
+        END ELSE BEGIN           // ability loops
+          SET abil_fx_idx_off = (abil_off + 0x20 + ((index - 1) * 0x38))
+          SET abil_fx_num_off = (abil_off + 0x1e + ((index - 1) * 0x38))
+        END 
+        WRITE_SHORT  abil_fx_idx_off (THIS + fx_delta)         // update with previously inserted effects
+        PATCH_IF index = item_header BEGIN                     // if we're in the correct header
+          PATCH_IF set_icon AND item_header BEGIN
+            WRITE_ASCIIE (abil_fx_idx_off - 0x1c) ~%icon%~ #8  // update icon, if indicated
+          END  
+          SET fx_delta += transfer_fx_num                      // update delta
+          READ_SHORT abil_fx_idx_off abil_fx_idx               // read updated index
+          WRITE_SHORT abil_fx_num_off (THIS + transfer_fx_num) // update number of effects
+          SET base_fx_add = (fx_off + 0x00 + (abil_fx_idx * 0x30))
+          INSERT_BYTES base_fx_add (0x30 * transfer_fx_num)            // make space for...
+          WRITE_ASCIIE base_fx_add ~%transfer_effects%~                // transferred effects
+          FOR (index2 = 0 ; index2 < transfer_fx_num ; ++index2) BEGIN // loop through newly-inserted effects
+            READ_ASCII (base_fx_add + 0x14 + (0x30 * index2)) resref
+            PATCH_IF ("%resref%" STRING_COMPARE_CASE "%spell%" = 0) BEGIN 
+              WRITE_ASCIIE (base_fx_add + 0x14 + (0x30 * index2)) "%item%" #8 // if self-reference, update
+            END // end self-reference check
+            PATCH_IF duration > 0 BEGIN                                   // if custom duration set, update duration
+              READ_LONG (base_fx_add + 0x0e + (0x30 * index2)) fx_dur
+              PATCH_IF fx_dur > 6 BEGIN                                   // skip instant effects
+                WRITE_LONG (base_fx_add + 0x0e + (0x30 * index2)) duration
+              END // duration length check
+            END // custom duration check
+            PATCH_IF probability BEGIN                                    // if custom probability set, scale probabilities
+              WRITE_BYTE (base_fx_add + 0x12 + (0x30 * index2)) ((THIS * probability) / 100) 
+              WRITE_BYTE (base_fx_add + 0x13 + (0x30 * index2)) ((THIS * probability) / 100) 
+            END // custom probability check
+          END // end new fx loop
+        END // end header match check
+      END // end main for loop 
+      BUT_ONLY      
+            
+  END ELSE BEGIN
+  
+    WARN ~cd_items_casting_spells: file(s) not found or invalid input~
+    
+  END
+
+END  
