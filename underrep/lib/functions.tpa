@@ -72,7 +72,7 @@ DEFINE_ACTION_FUNCTION cd_items_casting_spells
             PATCH_IF ("%resref%" STRING_COMPARE_CASE "%spell%" = 0) BEGIN 
               WRITE_ASCIIE (base_fx_add + 0x14 + (0x30 * index2)) "%item%" #8 // if self-reference, update
             END // end self-reference check
-            PATCH_IF duration > 0 BEGIN                                   // if custom duration set, update duration
+            PATCH_IF duration >= 0 BEGIN                                  // if custom duration set, update duration
               READ_LONG (base_fx_add + 0x0e + (0x30 * index2)) fx_dur
               PATCH_IF fx_dur > 6 BEGIN                                   // skip instant effects
                 WRITE_LONG (base_fx_add + 0x0e + (0x30 * index2)) duration
