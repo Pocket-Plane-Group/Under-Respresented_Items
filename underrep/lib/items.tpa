@@ -325,10 +325,10 @@ ACTION_IF enhanced_edition BEGIN
       PATCH_IF (hold_immunity > 0) BEGIN
         LPF CLONE_EFFECT INT_VAR multi_match = 1 match_opcode = 101 match_parameter2 = 175 opcode = 328 parameter2 = hold_immunity special = 1 STR_VAR insert = first END // clone immunity to hold into set spell state
       END  
-      PATCH_IF (slow_immunity) BEGIN
+      PATCH_IF (slow_immunity > 0) BEGIN
         LPF CLONE_EFFECT INT_VAR multi_match = 1 match_opcode = 101 match_parameter2 = 40 opcode = 328 parameter2 = slow_immunity special = 1 STR_VAR insert = first END // clone immunity to slow into set spell state
       END  
-      PATCH_IF (web_immunity) BEGIN
+      PATCH_IF (web_immunity > 0) BEGIN
         LPF CLONE_EFFECT INT_VAR multi_match = 1 match_opcode = 101 match_parameter2 = 157 opcode = 328 parameter2 = web_immunity special = 1 STR_VAR insert = first END // clone immunity to web into set spell state
         LPF CLONE_EFFECT INT_VAR match_opcode = 157 opcode = 324 power = 0 parameter1 = web_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 
           STR_VAR insert = above resource = EVAL ~%SOURCE_RES%~ END // web immune creatures block melee web effect
