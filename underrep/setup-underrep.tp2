@@ -1,5 +1,5 @@
 BACKUP ~weidu_external/underrep/backup~
-AUTHOR ~http://forums.pocketplane.net/index.php/board,43.0.html~
+SUPPORT ~http://forums.pocketplane.net/index.php/board,43.0.html~
 
 ALWAYS
 
@@ -16,7 +16,7 @@ ALWAYS
   
 END
 
-VERSION ~v9~
+VERSION ~v10~
 
 README ~underrep/readme-underrep.%LANGUAGE%.html~ 
        ~underrep/readme-underrep.%LANGUAGE%.txt~ 
@@ -27,14 +27,14 @@ LANGUAGE ~American English~
          ~underrep/languages/american/setup.tra~
          ~underrep/languages/american/u#conlan.tra~
 
-LANGUAGE ~Traduction francaise (par Mathrim Cauthon, Mathrim.Cauthon@free.fr)~ 
+LANGUAGE ~Traduction francaise (par Mathrim Cauthon)~ 
          ~french~
          ~underrep/languages/american/setup.tra~
          ~underrep/languages/american/u#conlan.tra~
 	       ~underrep/languages/french/setup.tra~
          ~underrep/languages/french/u#conlan.tra~
 
-LANGUAGE ~Russian (SERKOS)~
+LANGUAGE ~Russian (SERKOS, Aerie.ru)~
          ~russian~
          ~underrep/languages/american/setup.tra~
          ~underrep/languages/american/u#conlan.tra~
