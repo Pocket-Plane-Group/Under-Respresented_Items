@@ -268,8 +268,8 @@ ACTION_IF enhanced_edition BEGIN
                 ~u#staf90.itm~ ~override~ // Staff of Greater Spell Resistance +5
                 ~u#swdb94.itm~ ~override~ // Miasmic Bastard Sword
                 ~u#swds94.itm~ ~override~ // Charged Short Sword of Wounding +5
-    LPF CLONE_EFFECT INT_VAR match_opcode = 25 opcode = 324 power = 0 parameter2 = 55 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = above resource = EVAL ~%SOURCE_RES%~ END // golems/undead
-    LPF CLONE_EFFECT INT_VAR match_opcode = 25 opcode = 324 power = 0 parameter2 = 77 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = above resource = EVAL ~%SOURCE_RES%~ END // poison resist >= 100
+    LPF CLONE_EFFECT INT_VAR match_opcode = 25 opcode = 324 parameter2 = 55 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = above resource = EVAL ~%SOURCE_RES%~ END // golems/undead
+    LPF CLONE_EFFECT INT_VAR match_opcode = 25 opcode = 324 parameter2 = 77 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = above resource = EVAL ~%SOURCE_RES%~ END // poison resist >= 100
     BUT_ONLY
 
   // use ee's HP draining flags instead of damage/hp gain
@@ -300,7 +300,7 @@ ACTION_IF enhanced_edition BEGIN
   
     COPY_EXISTING ~u#clubmp.itm~ ~override~ // Monkey Paw of Discipline
                   ~u#swdbrc.itm~ ~override~ // Rage of Chaos
-      LPF CLONE_EFFECT INT_VAR match_opcode = 128 opcode = 324 power = 0 parameter1 = confusion_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = above resource = EVAL ~%SOURCE_RES%~ END
+      LPF CLONE_EFFECT INT_VAR match_opcode = 128 opcode = 324 parameter1 = confusion_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = above resource = EVAL ~%SOURCE_RES%~ END
       BUT_ONLY
   
   END   
@@ -308,7 +308,7 @@ ACTION_IF enhanced_edition BEGIN
   ACTION_IF (death_immunity > 0) BEGIN 
   
     COPY_EXISTING ~u#zzl6ma.itm~ ~override~ // Mace of Goblin Slaying +1
-      LPF CLONE_EFFECT INT_VAR match_opcode = 55 multi_match = 1 opcode = 324 power = 0 parameter1 = death_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = first resource = EVAL ~%SOURCE_RES%~ END
+      LPF CLONE_EFFECT INT_VAR match_opcode = 55 multi_match = 1 opcode = 324 parameter1 = death_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = first resource = EVAL ~%SOURCE_RES%~ END
       BUT_ONLY
   
   END         
@@ -330,7 +330,7 @@ ACTION_IF enhanced_edition BEGIN
       END  
       PATCH_IF (web_immunity > 0) BEGIN
         LPF CLONE_EFFECT INT_VAR multi_match = 1 match_opcode = 101 match_parameter2 = 157 opcode = 328 parameter2 = web_immunity special = 1 STR_VAR insert = first END // clone immunity to web into set spell state
-        LPF CLONE_EFFECT INT_VAR match_opcode = 157 opcode = 324 power = 0 parameter1 = web_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 
+        LPF CLONE_EFFECT INT_VAR match_opcode = 157 opcode = 324 parameter1 = web_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 
           STR_VAR insert = above resource = EVAL ~%SOURCE_RES%~ END // web immune creatures block melee web effect
       END  
       BUT_ONLY 
@@ -341,7 +341,7 @@ ACTION_IF enhanced_edition BEGIN
   
     COPY_EXISTING ~u#clubmp.itm~ ~override~ // Monkey Paw of Discipline
                   ~u#hfhrva.itm~ ~override~ // The Dire-Hammer Valorfoe
-      LPF CLONE_EFFECT INT_VAR match_opcode =  24 opcode = 324 power = 0 parameter1 = panic_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = first resource = EVAL ~%SOURCE_RES%~ END
+      LPF CLONE_EFFECT INT_VAR match_opcode =  24 opcode = 324 parameter1 = panic_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = first resource = EVAL ~%SOURCE_RES%~ END
       BUT_ONLY
   
   END  
@@ -349,7 +349,7 @@ ACTION_IF enhanced_edition BEGIN
   ACTION_IF (silence_immunity > 0) BEGIN 
   
     COPY_EXISTING ~u#hfsfws.itm~ ~override~ // Caballus' Whispering Staff
-      LPF CLONE_EFFECT INT_VAR match_opcode = 38 opcode = 324 power = 0 parameter1 = silence_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = first resource = EVAL ~%SOURCE_RES%~ END
+      LPF CLONE_EFFECT INT_VAR match_opcode = 38 opcode = 324 parameter1 = silence_immunity parameter2 = 110 timing = 0 duration = 0 resist_dispel = 0 savingthrow = 0 STR_VAR insert = first resource = EVAL ~%SOURCE_RES%~ END
       BUT_ONLY
   
   END     
