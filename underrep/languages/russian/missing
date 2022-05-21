@@ -1,5 +1,0 @@
-
-The ENTIRE FILE [russian/setup.TRA] is missing:
-	Sys_error("russian/setup.TRA: No such file or directory")
-
-All Strings in [american/u#conlan.TRA] are also in [russian/u#conlan.TRA]
