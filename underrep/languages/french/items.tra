@@ -1,0 +1,1017 @@
+@1	= ~Conlan~
+@2	= ~Forge de Conlan~
+@3	= ~Grande Hache Sacrée de Justice +5~
+@4	= ~Cette puissante arme se compose d'une hampe d'environ 1,5 m de long, surmontée d'une lourde lame. La hache peut être à double ou simple tranchant. C'est une arme peu maniable, mais un guerrier expérimenté peut s'en servir pour porter des coups dévastateurs. Des runes naines ont été gravées sur l'énorme lame pour en augmenter les performances.
+
+PARAMETRES :
+
+Dégâts : 1d12 +5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : tranchants
+Spécial :
+ Sort : La cible subit l'effet du sort de cécité (un jet de résistance aux sorts l'annule)
+ Sainte : +2d6 de dégâts contre les créatures maléfiques
+Poids : 10
+Compétence : Hache
+Type d'arme : à deux mains
+Nécessite: 10 en Force
+Inutilisable par:
+ Personnages Mauvais
+ Druides
+ Clercs
+ Mages
+ Voleurs
+ Moines
+ Belluaires~
+@5	= ~Grande Hache de Glace +5~
+@6	= ~Cette puissante arme se compose d'une hampe d'environ 1,5 m de long, surmontée d'une lourde lame. La hache peut être à double ou simple tranchant. C'est une arme peu maniable, mais un guerrier expérimenté peut s'en servir pour porter des coups dévastateurs. Des runes naines ont été gravées sur l'énorme lame pour en augmenter les performances.
+
+PARAMETRES :
+
+Dégâts : 1d12 +5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : tranchants
+Spécial :
+ Givre : +2d6 de dégâts du froid et 10% de chance d'infliger +2d10 de dégâts de froid supplémentaires
+ Résistance : 50% de Résistance au Froid
+Poids : 10
+Compétence : Hache
+Type d'arme : à deux mains
+Nécessite: 10 en Force
+Inutilisable par:
+ Druides
+ Clercs
+ Mages
+ Voleurs
+ Moines
+ Belluaires~
+@7	= ~Grande hache de Vision Troublée +5~
+@8	= ~Cette puissante arme se compose d'une hampe d'environ 1,5 m de long, surmontée d'une lourde lame. La hache peut être à double ou simple tranchant. C'est une arme peu maniable, mais un guerrier expérimenté peut s'en servir pour porter des coups dévastateurs. Des runes naines ont été gravées sur l'énorme lame pour en augmenter les performances.
+
+PARAMETRES :
+
+Dégâts : 1d12 +5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : tranchants
+Spécial :
+ Sort : Le détenteur de cette arme se trouve sous l'emprise du sort de Flou
+ Sanglante : inflige 1 point de dégâts supplémentaire par round pendant 10 rounds (jet de sauvegarde contre le poison pour annuler).
+Poids : 10
+Compétence : Hache
+Type d'arme : à deux mains
+Nécessite: 10 en Force
+Inutilisable par:
+ Druides
+ Clercs
+ Mages
+ Voleurs
+ Moines
+ Belluaires~
+@9	= ~Grande hache de Digestion +5~
+@10	= ~Cette puissante arme se compose d'une hampe d'environ 1,5 m de long, surmontée d'une lourde lame. La hache peut être à double ou simple tranchant. C'est une arme peu maniable, mais un guerrier expérimenté peut s'en servir pour porter des coups dévastateurs. Des runes naines ont été gravées sur l'énorme lame pour en augmenter les performances.
+
+PARAMETRES :
+
+Dégâts : 1d12 +5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : tranchants
+Spécial :
+ Corrosion : +2d6 de dégâts d'acide et 10% de chance d'infliger +2d10 de dégâts d'acide supplémentaires
+Poids : 10
+Compétence : Hache
+Type d'arme : à deux mains
+Nécessite: 10 en Force
+Inutilisable par:
+ Druides
+ Clercs
+ Mages
+ Voleurs
+ Moines
+ Belluaires~
+@11	= ~Grande hache Massive de Flammes +5~
+@12	= ~Cette puissante arme se compose d'une hampe d'environ 1,5 m de long, surmontée d'une lourde lame. La hache peut être à double ou simple tranchant. C'est une arme peu maniable, mais un guerrier expérimenté peut s'en servir pour porter des coups dévastateurs. Des runes naines ont été gravées sur l'énorme lame pour en augmenter les performances.
+
+PARAMETRES :
+
+Dégâts : 2d12 + 5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : tranchants
+Spécial :
+ Explosion : +1d6 de dégâts du feu et 10% de chances d'infliger 1d10 dégâts du feu supplémentaires
+Poids : 15
+Compétence : Hache
+Type d'arme : à deux mains
+Nécessite: 18 en Force
+Inutilisable par:
+ Druides
+ Clercs
+ Mages
+ Voleurs
+ Moines
+ Belluaires~
+@13	= ~Grande hache de Puissance +5~
+@14	= ~Cette puissante arme se compose d'une hampe d'environ 1,5 m de long, surmontée d'une lourde lame. La hache peut être à double ou simple tranchant. C'est une arme peu maniable, mais un guerrier expérimenté peut s'en servir pour porter des coups dévastateurs. Des runes naines ont été gravées sur l'énorme lame pour en augmenter les performances.
+
+PARAMETRES :
+
+Dégâts : 1d12 +5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : tranchants
+Spécial :
+ Force : +1
+Poids : 10
+Compétence : Hache
+Type d'arme : à deux mains
+Nécessite: 10 en Force
+Inutilisable par:
+ Druides
+ Clercs
+ Mages
+ Voleurs
+ Moines
+ Belluaires~
+@15	= ~Grande hache des Eléments~
+@16	= ~Cette puissante arme se compose d'une hampe d'environ 1,5 m de long, surmontée d'une lourde lame. La hache peut être à double ou simple tranchant. C'est une arme peu maniable, mais un guerrier expérimenté peut s'en servir pour porter des coups dévastateurs. Des runes naines ont été gravées sur l'énorme lame pour en augmenter les performances.
+
+PARAMETRES :
+
+Dégâts : 1d12
+Type de dégâts : tranchants
+Spécial :
+ Feu intense : +1d6 de dégâts du feu et 10% de chances d'infliger 1d10 de dégâts supplémentaires du feu
+ Givre : +1d6 de dégâts du froid et 10% de chances d'infliger 1d10 de dégâts du froid supplémentaires
+ Foudre intense : +1d6 de dégâts électriques et 10% de chances d'infliger 1d10 de dégâts du feu supplémentaire
+ Infaillible : cette arme est considérée comme +5 pour les créatures qui requièrent une arme magique pour être touchées
+Poids : 10
+Compétence : Hache
+Type d'arme : à deux mains
+Nécessite: 18 en Force
+Inutilisable par:
+ Druides
+ Clercs
+ Mages
+ Voleurs
+ Moines
+ Belluaires~
+@17	= ~Grande hache de Flammes vampirique~
+@18	= ~Cette puissante arme se compose d'une hampe d'environ 1,5 m de long, surmontée d'une lourde lame. La hache peut être à double ou simple tranchant. C'est une arme peu maniable, mais un guerrier expérimenté peut s'en servir pour porter des coups dévastateurs.
+
+PARAMETRES :
+
+Dégâts : 1d12
+Type de dégâts : tranchants
+Enchantement : +5
+Spécial :
+ Feu intense : +2d6 de dégâts du feu et 10% de chances d'infliger 1d10 de dégâts supplémentaires du feu
+ Vampirique : 2 PV sont drainés de la cible et s'ajoutent à ceux du porteur
+ Infaillible : cette arme est considérée comme +5 pour les créatures qui requièrent une arme magique pour être touchées
+Poids : 10
+Compétence : Hache
+Type d'arme : à deux mains
+Nécessite: 18 en Force
+Inutilisable par:
+ Druides
+ Clercs
+ Mages
+ Voleurs
+ Moines
+ Belluaires~
+@19	= ~Ceinture de Béatification~
+@20	= ~Les prêtres de Helm de Berdusk ont consacré cette ceinture avant de la donner à Thom Wainwright, un guerrier qui avait rendu de fiers services à l'église, en détruisant par exemple l'Oeil Aveugle et ses adorateurs, les Acolytes Aveuglés. Thom porta cette ceinture avec fierté, mais vers la fin de sa vie, ses dettes l'obligèrent à son grand regret à la vendre à un prêtre de Mask bien connu.
+
+PARAMETRES :
+
+Porteur sous l'effet du sort Bénédiction tant qu'il en est équipé
+Poids : 1
+Non Utilisable par:
+ Tueur de Magicien~
+@21	= ~Cotte de maille elfique de la Main +3~
+@22	= ~C'est au cours de l'Age d'Or entre les elfes de la Main de la Seldarine et les nains du Profondorn que des exemplaires spécifiques de la célèbre cotte mailles elfique furent conçus, protégeant leur porteur des rigueurs du climat nordique.
+
+PARAMETRES :
+
+Classe d'Armure: 2
+Spécial:
+ +50% de résistance au froid
+Poids : 7,5
+Inutilisable par:
+ Druide
+ Mage
+ Kensai
+ Moine
+ Belluaire
+ Traqueur~
+@23	= ~Croc de Vipère +2~
+@24	= ~La dague diffère du couteau par sa lame, qui est à la fois plus longue, plus pointue et à double tranchant.
+
+PARAMETRES :
+
+Dégâts : 1d4 +2
+Bonus d'attaque : +2
+Enchantement : +2
+Type de dégâts : perforants
+Spécial :
+ Venin : +2 points de dégâts du poison par seconde pendant 6 secondes (Jet de sauvegarde contre le poison pour annuler)
+Poids : 0,5
+Compétence: Dague
+Type d'arme : à une main 
+Force requise: 3
+Inutilisable par:
+ Clerc
+ Belluaire~
+@25	= ~Dague Patte-de-Chat +3~
+@26	= ~La dague diffère du couteau par sa lame, qui est à la fois pointue et à double tranchant.
+
+PARAMETRES :
+
+Dégâts : 1d4 +3
+Bonus d'attaque : +3
+Enchantement : +3
+Type de dégâts : perforants
+Spécial :
+ D'ombre : +20% en Déplacement Silencieux, +20% en Furtivité
+Poids : 0,5
+Compétence: Dague
+Type d'arme : à une main 
+Force requise: 3
+Inutilisable par:
+ Clerc
+ Belluaire~
+@27	= ~Dague vampirique +1~
+@28	= ~La dague diffère du couteau par sa lame, qui est à la fois pointue et à double tranchant.
+
+PARAMETRES :
+
+Dégâts : 1d4 +1
+Bonus d'attaque : +1
+Enchantement : +1
+Type de dégâts : perforants
+Spécial :
+ Vampirique : +2 points de dégâts, et ajoute temporairement 2 points de vie au porteur
+Poids : 0,5
+Compétence: Dague
+Type d'arme : à une main 
+Force requise: 3
+Inutilisable par:
+ Clerc
+ Belluaire~
+@29	= ~Fléchette boomerang étourdissante +1~
+@30	= ~La fléchette est une flèche de petite taille qui se lance à la main. Des lignes de puissance ont été tracées avec soins sur celle-ci.
+
+PARAMETRES :
+
+Dégâts : 1d4 +1
+Bonus d'attaque : +1
+Enchantement : +1
+Type de dégâts : projectile (perforants)
+Spécial :
+ Etourdissement : 25% de chances que la cible soit étourdie pour 1/2 round de combat (jet de sauvegarde contre la paralysie pour annuler)
+ Returning: revient à son utilisateur
+Poids : 0
+Compétence : fléchettes
+Type d'arme : à une main
+Inutilisable par:
+ Clerc
+ Kensai
+ Cavalier~
+@31	= ~Fléchette boomerang à pointe empoisonnée~
+@32	= ~La fléchette est une flèche de petite taille qui se lance à la main. Des lignes de puissance ont été tracées avec soins sur celle-ci.
+
+PARAMETRES :
+
+Dégâts : 1d4
+Type de dégâts : projectile (perforants)
+Spécial :
+ Venin : +2 points de dégâts du poison par seconde pendant 6 secondes (jet de sauvegarde contre le poison pour annuler)
+ Boomerang : revient à son utilisateur
+Poids : 0
+Compétence : fléchettes
+Type d'arme : à une main
+Inutilisable par:
+ Clerc
+ Kensai
+ Cavalier~
+@33	= ~Hallebarde Infernale du Défenseur~
+@34	= ~La hallebarde est composée d’une lame de hache montée à l’extrémité d’un bâton de près de deux mètres de long. Des propriétés magiques lui ont été conférées, de façon à améliorer ses performances en combat. Sa large lame a pour mission de trancher les chairs à la recherche des os de l'ennemi, alors que son crochet sert à découvrir les failles de son armure.
+
+PARAMETRES :
+
+Dégâts : 1d10
+Enchantement : +5
+Type de dégâts : perforants
+Spécial :
+ Bonus de CA : +1
+ Explosion : +2d6 de dégâts de feu et 10% de chances d'infliger 2d10 supplémentaires de dégâts de feu
+ Coup certain (infaillibe): Cette arme est considérée comme +5 pour ce qui est des créatures qui requièrent une arme magique pour être touchées
+Poids : 7
+Compétence : Hallebarde
+Type d'arme : à 2 mains
+Force requise: 13
+Inutilisable par:
+ Druide
+ Clerc
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@35	= ~Hallebarde Massive de Haine +4~
+@36	= ~La hallebarde est composée d’une lame de hache montée à l’extrémité d’un bâton de près de deux mètres de long. Des propriétés magiques lui ont été conférées, de façon à améliorer ses performances en combat. Sa large lame a pour mission de trancher les chairs à la recherche des os de l'ennemi, alors que son crochet sert à découvrir les failles de son armure.
+
+PARAMETRES :
+
+Dégâts : 2d8 + 4
+Bonus d'attaque : +4
+Enchantement : +4
+Type de dégâts : perforants
+Spécial :
+ Mauvais +2d6 de dégâts contre les créatures bonnes
+ Vampirique : +2 points de dégâts, et ajoute temporairement 2 points de vie au porteur
+Poids : 25
+Compétence : Hallebarde
+Type d'arme : à 2 mains
+Force requise: 18
+Inutilisable par:
+ Personnages Bons
+ Druide
+ Clerc
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@37	= ~Hallebarde de Vitesse +5~
+@38	= ~La hallebarde est composée d’une lame de hache montée à l’extrémité d’un bâton de près de deux mètres de long. Des propriétés magiques lui ont été conférées, de façon à améliorer ses performances en combat. Sa large lame a pour mission de trancher les chairs à la recherché des os de l'ennemi, alors que son crochet sert à découvrir les failles de son armure.
+
+PARAMETRES :
+
+Dégâts : 1d10 +5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : perforants
+Spécial :
+ Vitesse : 1 attaque supplémentaire par round de combat
+Poids : 7
+Compétence : Hallebarde
+Type d'arme : à 2 mains
+Force requise: 13
+Inutilisable par:
+ Druide
+ Clerc
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@39	= ~Marteau sacré de Corrosion +5~
+@40	= ~Comme la plupart des armes de ce type, ce marteau de guerre est entièrement fait d'acier. La tête se trouve au bout d'une hampe de près de 50 cm. Des propriétés magiques lui ont été conférées pour améliorer ses performances en combat.
+
+PARAMETRES :
+
+Dégâts : 1d8 +5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : contondants
+Spécial :
+ Sainte : +2d6 de dégâts contre les créatures maléfiques
+ Corrosion : +1d6 de dégâts d'acide et 10% de chances d'infliger 1d10 de dégâts d'acide supplémentaires
+Poids : 3,5
+Compétence: Marteau de Guerre
+Type d'arme : à une main
+Force requise: 9
+Inutilisable par:
+ Personnages Mauvais
+ Druides
+ Mages
+ Voleurs
+ Moines
+ Belluaires~
+@41	= ~Arrache-Oeil de Delnar~
+@42	= ~Mage timide, Delnar n'était pas du genre à rechercher l'aventure. Il passa la majeure partie de son existence près de sa mère, à essayer d'apprendre comment fabriquer des objets magiques. Pour sa première tentative, il décida de créer un dard qui serait extrêmement utile à un mage, en frappant la cible à coup sûr avant de dissiper les protections magiques de cette dernière et de revenir dans la main de son possesseur.
+
+Malheureusement, alors qu'il lançait les derniers sorts sur l'objet, sa mère entra et lui dit de faire attention de ne pas se crever un oeil, recommandation qui fut, elle aussi, intégrée à l'enchantement du dard. Depuis, ce dernier fonctionne comme prévu, mais il arrive également qu'il aveugle son possesseur en revenant dans sa main.
+
+PARAMETRES :
+
+Dégâts : 1d4 + 5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : projectile (perforants)
+Spécial :
+ Dissipation de la magie : 90% de chances de lancer Dissipation de la magie sur la cible
+ Sort : 5% de chances lancer Cécité sur le porteur (jet de vigueur pour y résister)
+Boomerang : revient vers l'envoyeur
+Poids : 0,5
+Compétence : fléchettes
+Type d'arme : à une main
+Inutilisable par:
+ Clerc
+ Kensai
+ Cavalier~
+@43	= ~Fléchettes de Peste Néfaste~
+@44	= ~Conçus il y a quarante ans de cela par l'ambitieuse prêtresse talonienne Presio, ces appareils ne connaissent le succès au sein de l'église de Talona que depuis six ou sept ans. Presio était célèbre dans certains cercles du nord par sa capacité à passer inaperçue, particulièrement aux yeux de ceux qui la craignaient. Vers l'an 1280, Presio se retrouva mêlée à un complot démoniaque dans l'Epine Dorsale du Monde et seuls quelques-uns de ses fidèles la suivirent. Elle trouva la mort peu de temps après dans le volcan de l'Oeil du Dragon, laissant derrière elle toutes les formules de ses fameuses potions ainsi que quelques armes magiques.
+
+PARAMETRES :
+
+Dégâts : 1d4 +3
+Bonus d'attaque : +3
+Enchantement : +3
+ Fléau d'insectes si la cible est touchée
+Type de dégâts : projectile (perforants)
+Poids : 0
+Compétence : fléchettes
+Type d'arme : à une main
+Inutilisable par:
+ Clerc
+ Kensai
+ Cavalier~
+@45	= ~Marteau de Lucerne sacré Swizarnien~
+@46	= ~Cette étrange arme d’hast ressemble à un croisement entre une hallebarde et une pique.
+
+On la doit à une erreur commise lors d’une commande d’arme effectuée par Lodur le Brave (également surnommé le Téméraire ou le Sot), prêtre puissant mais guère intelligent. Ce dernier avait entendu des rumeurs évoquant un marteau à long manche, qui aurait appartenu à un héros appelé Lucerne, à moins que ce nom ne soit celui de l’endroit où l’arme avait été créée. Quoi qu’il en soit, ce marteau était lié à un pays, un roi ou un dieu appelé Souisse, ou quelque chose d’approchant.
+
+Lodur demanda également que l’arme soit bénie, afin qu’elle puisse faire exploser les morts-vivants au moindre contact.
+
+La réputation d’homme coléreux qui accompagnait le prêtre et les nombreux sacs d’or qu’il avait avec lui convainquirent le forgeron nain qu’il avait contacté d’accepter la commande. Renvoyant Lodur chez lui, l’artisan lui promit l’arme dans un délai de deux mois. Il consulta aussitôt le gardien du savoir, ce qui lui permit d’apprendre qu’une telle arme existait bel et bien, et qu’elle était arrivée de Sigil, apportée par un individu habitué à se déplacer entre les plans. Le forgeron recopia fidèlement les schémas dont il disposait, ajoutant quelques runes magiques au manche de l’arme afin d’obtenir les pouvoirs requis par Lodur.
+
+Quand ce dernier vint chercher son fabuleux marteau, il se retrouva en présence d’une arme perforante, que sa religion lui interdisait d’utiliser. Fou de rage, il protesta tant et plus, avant de s’en aller sans un regard en arrière, laissant là tout son argent et son "marteau de Lucerne" qui n’avait en fait rien d’un marteau.
+
+PARAMETRES :
+
+Dégâts : 1d10 +3
+Bonus d'attaque : +3
+Enchantement : +3
+Type de dégâts : perforants
+Spécial :
+  Disruption : tous les morts-vivants et extérieurs touchés doivent réussir un jet contre la mort à -4 sous peine d’être détruits
+ Sort : 25% de chances de lancer Châtiment divin sur la cible à chaque coup au but
+Poids : 7,5
+Compétence : Hallebarde
+Type d'arme : à 2 mains
+Force requise: 13
+Inutilisable par:
+ Druide
+ Clerc
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@47	= ~Mangevie~
+@48	= ~Mangevie est une splendide lance dotée d'une pointe en adamantium de plus de 40 centimètres de long et aux tranchants en dents de scie. Des deux côtés de la lame, qui s'orne de runes argentées, deux trous semblent mener au centre du manche de chêne poli, ce dernier étant creux et renforcé par des bandes de mithril sur toute sa longueur.
+
+Mangevie est une arme redoutable, puisqu'elle combine les pouvoirs d'une arme sanglante (jet de vigueur pour ne pas se vider de son sang à chaque round) et vampirique (autre jet de vigueur pour ne pas perdre des points de vie supplémentaires, qui sont transférés au porteur de la lance). Son efficacité au combat a également été augmentée.<0}
+
+PARAMETRES :
+
+Dégâts : 1d8 +5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : perforants
+Spécial :
+Sanglante : inflige 1 point de dégât supplémentaire par round pendant 10 rounds (jet de sauvegarde contre le poison annule)
+Vampirique : absorbe 2 points de vie à la cible par coup au but pour les ajouter temporairement au total de son possesseur
+Poids : 3
+Compétence : lance
+Type d'arme : à deux mains
+Force requise: 5
+Inutilisable par:
+ Clerc
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@49	= ~Cruelle Piqûre de Lolth~
+@50	= ~Les épées de ce type sont souvent offertes aux assassins méritants au service de Lolth. Chacune d'elle est noire comme la nuit la plus sombre du pommeau au bout de sa lame et ne reflète pas la moindre lumière. Le manche est gravé pour donner l'impression d'être recouvert d'une toile d'araignée, tandis que plusieurs centaines de minuscules arachnides ont été ciselées à même la lame. La magie de l'arme protège son porteur contre les toiles d'araignées magique, tout en lui permettant d'en lancer sur ses cibles.
+
+En règle générale, l'assassin utilise l'épée pour enfermer sa proie dans un cocon de soie, après quoi il ne lui reste plus qu'à l'exécuter à l'aide d'un projectile empoisonné (dard, carreau d'arbalète de poing, etc.). Une telle arme a également permis à de nombreux tueurs de s'enfuir après avoir raté leur tentative d'assassinat.
+
+PARAMETRES :
+
+Dégâts : 1d6 +3
+Bonus d'attaque : +3
+Enchantement : +3
+Type de dégâts : perforants
+Spécial :
+ Bénédiction de Lolth : Action libre quand équipé
+ Malédiction de Lolth : 33% de chances de provoquer 2 points de dégâts de poison supplémentaires toutes les secondes pendant 7 secondes (pas de JS)
+ Malédiction de Lolth : 33% de chance de lancer Toile d'Araignée sur la cible pendant 7 secondes (pas de JS)
+Poids : 1,5
+Compétence : épée courte
+Type d'arme : à une main
+Force requise: 5
+Inutilisable par:
+ Druide
+ Clerc
+ Mage
+ Belluaire~
+@51	= ~Masse d'Etourdissement Glacial~
+@52	= ~La masse est la descendante directe du gourdin : on y a simplement rajouté une tête métallique. Pour cette arme, la tête est métallique et émet une lueur bleutée. Le manche est de chêne verni.
+
+PARAMETRES :
+
+Dégâts : 1d8
+Type de dégâts : contondants
+Enchantement : +5
+Spécial :
+ Etourdissement : cible étourdie pour 1/2 tour de combat en cas d'échec du JS contre la paralysie
+ Givre : +1d6 de dégâts du froid et 10% de chances d'infliger 1d10 de dégâts du froid supplémentaires
+ Infaillibile : cette arme est considérée comme +5 pour les créatures qui requièrent une arme magique pour être touchées
+Poids : 6
+Compétence : masse
+Type d'arme : à une main
+Force requise: 10
+Inutilisable par:
+ Druide
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@53	= ~Masse du Châtiment Divin~
+@54	= ~La masse est la descendante directe du gourdin : on y a simplement rajouté une tête métallique. Pour cette arme, la tête est métallique et émet une lueur bleutée. Le manche est de chêne verni.
+
+PARAMETRES :
+
+Dégâts : 1d8
+Type de dégâts : contondants
+Enchantement : +5
+Spécial :
+ Sort : 33% de chances que la cible soit frappée du Châtiment divin.
+ Infaillibile : cette arme est considérée comme +5 pour les créatures qui requièrent une arme magique pour être touchées
+ Sainte : +2d6 de dégâts contre les créatures maléfiques
+Poids : 6
+Compétence : masse
+Type d'arme : à une main
+Force requise: 10
+Inutilisable par:
+ Personnages mauvais
+ Druide
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@55	= ~Masse de Disruption de Feu Intense~
+@56	= ~La masse est la descendante directe du gourdin : on y a simplement rajouté une tête métallique. Pour cette arme, la tête est métallique et émet une lueur bleutée. Le manche est de chêne verni.
+
+PARAMETRES :
+
+Dégâts : 1d8
+Type de dégâts : contondants
+Enchantement : +5
+Spécial :
+ Feu intense : +1d6 de dégâts du feu et 10% de chances d'infliger 1d10 de dégâts du feu supplémentaires
+ Disruption : les morts-vivants et les extérieurs touchés par cette arme doivent réussir un JS contre la mort à -4 pour ne pas être anéantis.
+ Infaillible : cette arme est considérée comme +5 pour les créatures qui requièrent une arme magique pour être touchées
+Poids : 6
+Compétence : masse
+Type d'arme : à une main
+Force requise: 10
+Inutilisable par:
+ Druide
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@57	= ~Lance d'Etourdissement +2~
+@58	= ~L’une des premières armes de l’humanité, qui n’est autre qu’un bout de bois dont l’une des extrémités a été taillée en pointe. L’apparition de la métallurgie a permis d’ajouter une tête de fer ou d’acier à la lance. Les expérimentations des forgerons entraînèrent ensuite la création de diverses variantes et l'apparition des armes d'hast. Cette lance doit sa particularité aux enchantements qui ont été lancés sur elle.
+
+PARAMETRES :
+
+Dégâts : 1d8 +2
+Bonus d'attaque : +2
+Enchantement : +2
+Type de dégâts : perforants
+Spécial :
+ Etourdissement : cible étourdie pour 1/2 round de combat en cas d'échec du JS contre la paralysie
+Poids : 2,5
+Compétence : lance
+Type d'arme : à deux mains
+Force requise: 5
+Inutilisable par:
+ Clerc
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@59	= ~Bâton spectral +5~
+@60	= ~Arme des plus simples, le bâton n'est autre qu'un bout de bois d'une longueur variant entre 2 et 3 m. Les meilleurs bâtons sont faits en chêne et voient leurs extrémités renforcées par des pièces de métal. Celui-ci est particulier car il bénéficie de multiples sortilèges.
+
+PARAMETRES :
+
+Dégâts : 1d6 +5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : contondants
+Spécial :
+ Spectral: Projette une image fantôme de l'arme qui peut frapper un adversaire se trouvant à 5 mètres.
+Poids : 2
+Compétence : bâton
+Type d'arme : à 2 mains
+Force requise: 5
+Inutilisable par:
+ Moine~
+@61	= ~Bâton de Résistance aux Sorts Majeure +5~
+@62	= ~Arme des plus simples, le bâton n'est autre qu'un bout de bois d'une longueur variant entre 2 et 3 m. Les meilleurs bâtons sont faits en chêne et voient leurs extrémités renforcées par des pièces de métal. Celui-ci est particulier car il bénéficie de multiples sortilèges.
+
+PARAMETRES :
+
+Dégâts : 1d6 +5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : contondants
+Spécial :
+ Résistance : +15% de Résistance à la Magie
+ Venin : +2 points de dégâts du poison par seconde pendant 6 secondes (JS contre le poison pour annuler)
+Poids : 2
+Compétence : bâton
+Type d'arme : à 2 mains
+Force requise: 5
+Inutilisable par:
+ Moine~
+@63	= ~Epée bâtarde de Miasmes~
+@64	= ~On l’appelle également “épée à une main et demie” du fait de sa taille intermédiaire entre l’épée longue et l’épée à deux mains. L'épée bâtarde possède un tranchant double et une longue poignée pouvant au besoin accueillir la deuxième main. La longueur totale de l’épée bâtarde oscille entre 120 et 150 cm.
+
+PARAMETRES :
+
+Dégâts : 1d10
+Enchantement : +5
+Type de dégâts : tranchants
+Spécial :
+ Corrosion : +1d6 de dégâts d'acide et 10% de chances d'infliger 1d10 de dégâts d'acide supplémentaires
+ Venin : +2 points de dégâts de poison par seconde pendant 6 secondes (JS contre le poison pour annuler)
+ Coup certain (infaillible) : Cette arme est considérée comme +5 pour ce qui est des créatures qui requièrent une arme magique pour être touchées
+ Etourdissement : 25% de chances pour que la cible soit étourdie pour 1/2 round de combat (JS contre la paralysie pour annuler)
+Poids : 4,5
+Compétence: épée bâtarde
+Type d'arme : à une main
+Force requise: 11
+Inutilisable par:
+ Druide
+ Clerc
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@65	= ~Epée bâtarde du Courroux~
+@66	= ~On l’appelle également "épée à une main et demie" du fait de sa taille intermédiaire entre l’épée longue et l’épée à deux mains. L'épée bâtarde possède un tranchant double et une longue poignée pouvant au besoin accueillir la deuxième main. La longueur totale de l’épée bâtarde oscille entre 120 et 150 cm.
+
+PARAMETRES :
+
+Dégâts : 1d10
+Enchantement : +5
+Type de dégâts : tranchants
+Spécial :
+ Feu intense : +2d6 de dégâts du feu et 10% de chances d'infliger 1d10 de dégâts du feu supplémentaires
+ Force : +2
+ Infaillible : cette arme est considérée comme +5 pour les créatures qui requièrent une arme magique pour être touchées
+Poids : 4,5
+Compétence: épée bâtarde
+Type d'arme : à une main
+Force requise: 11
+Inutilisable par:
+ Druide
+ Clerc
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@67	= ~Rage du Chaos~
+@68	= ~Cette arme fait la fierté de son porteur : sa lame d'or rouge au tranchant d'argent, sa garde en platine poli et sa poignée d'adamantine noire en font en effet un objet très convoité. Une fois sortie, la lame scintille d'un véritable arc-en-ciel de couleurs...
+
+Ses propriétaires successifs l'ont tour à tour considérée comme une malédiction et une bénédiction, qui inflige des dégâts dévastateurs aux créatures loyales avec une précision mortelle. Elle est ainsi connue pour avoir renversé le cours de nombreuses batailles perdues d'avance. De plus, la victime peut perdre le contrôle de ses facultés et fuir, confuse, chaque fois qu'elle est touchée par cette arme. Le pouvoir chaotique de cette arme empêche le porteur d'être contrôlé ou confus pendant un combat.
+
+Nul ne connaît précisément son histoire ; on sait simplement que l'épée fait de fréquentes apparitions sur les champs de bataille depuis quelques siècles avant de disparaître tout aussi soudainement.
+
+PARAMETRES :
+
+Dégâts : 1d10 +3
+Bonus d'attaque : +3
+Enchantement : +3
+Type de dégâts : tranchants
+Spécial :
+ Effet Permanent: Ordre Chaotique
+ Sort : La cible est sous l'effet du sort Chaos pendant 3 rounds à chaque coup porté (JS contre les sorts à -4 pour annuler)
+ Chaotique : +2d6 contre les créatures loyales
+Poids : 4
+Compétence: épée bâtarde
+Type d'arme : à une main
+Force requise: 11
+Inutilisable par:
+ Druide
+ Clerc
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@69	= ~Epée courte Sanglante chargée +5~
+@70	= ~L'épée courte est le premier type d'épée à avoir vu le jour. Pour parler simplement, elle peut être considérée comme une dague dont la lame est trop longue pour qu'on puisse encore l'appeler dague. Le terme "épée courte" n'existe normalement pas dans la classification des épées, il n'en est pas moins passé dans l'usage pour décrire une lame à double tranchant d'environ soixante centimètres de long et dont le bout pointu la rend idéale pour piquer. La pointe de l'épée est utilisée pour donner des coups d'estoc.
+
+PARAMETRES :
+
+Dégâts : 1d6 +5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : perforants
+Spécial :
+ Foudre intense : +2d6 de dégâts d’acide et 10% de chance d’infliger +2d10 de dégâts d’acide
+ Sanglante : inflige 1 point de dégât supplémentaire par round pendant 10 rounds (JS contre le poison pour annuler).
+Poids : 1,5
+Compétence : épée courte
+Type d'arme : à une main
+Force requise: 5
+Inutilisable par:
+ Druide
+ Clerc
+ Mage
+ Belluaire~
+@71	= ~Lentement mais Sûrement~
+@72	= ~Ce lourd marteau semble avoir servi à la construction de la Palissade, sans d'ailleurs qu'aucun des ouvriers du chantier n'ait remarqué sa nature magique. Il est sensiblement plus lourd et plus lent qu'un marteau normal mais aussi beaucoup plus précis et dévastateur. Chaque coup de ce marteau fait résonner une note cristalline.
+
+PARAMETRES :
+
+Dégâts : 1d8 +4
+Bonus d'attaque : +4
+Enchantement : +4
+Type de dégâts : contondants
+Spécial :
+ Force : +3
+Poids : 4,5
+Compétence: Marteau de Guerre
+Type d'arme : à une main
+Force requise: 9
+Inutilisable par:
+ Druides
+ Mages
+ Voleurs
+ Moines
+ Belluaires~
+@73	= ~Douze Pas~
+@74	= ~Cette longue lance est faite de chêne particulièrement épais et semble avoir longtemps servi à chasser le sanglier arctique. Elle porte nombre de runes le long de son manche pour aider son porteur à frapper juste et dans une situation critique, elle peut s'allonger considérablement pour atteindre l'adversaire avant qu'il puisse arriver au corps à corps.
+
+PARAMETRES :
+
+Dégâts : 1d8 +4
+Bonus d'attaque : +4
+Enchantement : +4
+Type de dégâts : perforants
+Spécial :
+ Longueur de 5 au lieu de 2
+ Sort : Brêche 3/jour
+ Sort : Abaissement de la résistance 3/jour
+Poids : 3,5
+Compétence : lance
+Type d'arme : à deux mains
+Force requise: 5
+Inutilisable par:
+ Clerc
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@75	= ~Bâton de Murmure de Caballus~
+@76	= ~Ce bâton en bois de fer appartenait au sorcier gobelin Caballus, dont il porte encore la puanteur. Des runes serpentent tout autour du bâton, mais mis à part une rune mineure de précision et une autre de blessure, les autres ne semblent être que non-sens. Il est étonnamment léger et bien équilibré pour sa taille. Vous pouvez de plus le tenir facilement dans une main.
+
+PARAMETRES :
+
+Dégâts : 1d6 +4
+Bonus d'attaque : +3
+Enchantement : +3
+Type de dégâts : contondants
+Spécial :
+ +15% en Déplacement silencieux.
+ Tout coup réussi lance le sort Silence sur la cible (JS contre les sorts pour annuler)
+ Sort : Lance le sort Sphère d’invisibilité 1/jour
+Poids : 1,5
+Compétence : bâton
+Type d'arme : à 2 mains
+Force requise: 5
+Inutilisable par:
+ Moine~
+@77	= ~Torche éternelle de Belib~
+@78	= ~Belib le Prudent était ou aurait sans aucun doute été l’aventurier le mieux équipé à avoir foulé le royaume s’il avait effectivement quitté sa maison en vie. La torche éternelle n’est que l’un des nombreux objets enchantés dont il était équipé. Cette lanterne magique, qui a la forme d’une torche en bois, brûle d’une flamme orange brillante, impossible à éteindre. Qu’elle soit plongée dans de l’eau, enterrée sous des tonnes de roches ou utilisée pour fracasser le crâne trempé d’un troll des marais, la torche éternelle de Belib ne s’éteindra jamais.
+
+Lorsque Belib eut achevé le dernier de ses objets, il les entassa dans un sac gigantesque, enchanté pour contenir bien plus que ce que Belib aurait pu porter, et le mit sur son dos, prêt à partir à l’aventure. Alors qu’il franchissait le seuil de sa porte, il trébucha ... et fut instantanément écrasé sous le poids de son énorme sac à dos. Le sac s’ouvrit et répandit tout son contenu dans la rue d’Eauprofonde où vivait Belib. Le contenu du sac disparut évidemment assez rapidement dans les mains des bons à rien qui passaient par là.
+
+Le corps de Belib fut finalement emmené jusque dans un temple où une prêtresse au bon coeur lui rendit la vie, mais à ce moment là tous ces objets enchantés avaient disparus pour de bon, comme une bonne partie de ce que contenait sa maison. Reconnaissant, mais quelque peu agacé, Belib conçu quelques objets magiques uniques pour la prêtresse, avant de rejoindre sa famille et sa terre natale pour disparaître à jamais de la surface du monde.
+
+PARAMETRES :
+
+Dégâts : 1d6
+Type de dégâts : contondants
+Spécial :
+ Explosion: +2d6 de dégâts de feu et 10% de chances d'infliger 1d10 supplémentaires de dégâts de feu
+Poids : 2,5
+Compétence : masse
+Type d'arme : à une main
+Force requise: 10
+Inutilisable par:
+ Druide
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@79	= ~Armure en peau de Cornugan~
+@80	= ~Un grand mystère entoure cette armure de cuir, dont personne ne connaît l'origine. Tout ce que l'on sait, c'est qu'elle a été confectionnée à partir de la peau d'un cornugon. De couleur noire, elle s'orne d'écailles couvertes de pointes redoutables et dégage une étrange odeur de vinaigre, heureusement assez discrète.
+
+Les divers porteurs de l'armure ont pu constater qu'elle les protégeait contre les armes non magiques et qu'elle aidait leurs blessures à se refermer plus rapidement.
+
+PARAMETRES :
+
+Classe d'Armure: 5
+Malus au jet d'armure : -2
+Echec des sorts profanes : 20%
+Spécial :
+ Immunité aux armes normales
+ Régénération : le porteur de l'armure regagne 1 PV tous les 10 rounds
+Poids : 7,5
+Force requise: 6
+Inutilisable par:
+ Mage
+ Kensai
+ Moine
+ Métamorphe~
+@81	= ~Marteau Vaillant Funeste~
+@82	= ~"Marteau vaillant funeste" est une arme terrifiante, forgée dans le but de mettre à mal le moral de l'ennemi avant de défoncer son armure et son crâne. Le nom de son créateur s'est depuis longtemps perdu dans les brumes des temps, alors que les registres duergars remontent pourtant sur de nombreux millénaires. Couvert de runes inquiétantes, il arbore l'inscription suivante dans la langue des Nains d'antan, qui n'est plus désormais utilisée que par les Duergars :
+
+"Ce n'est pas la mort qu'il faut craindre, mais la peur de la mort."
+
+Chaque coup de Marteau vaillant funeste peut provoquer la terreur chez la cible, l'obligeant à s'enfuir à toutes jambes.
+
+PARAMETRES :
+
+Dégâts : 1d10 +3
+Bonus d'attaque : +3
+Enchantement : +3
+Type de dégâts : contondants
+Spécial :
+ Terreur : la cible s'enfuit de terreur à chaque coup au but (JS contre les sorts annule)
+Poids : 3,5
+Compétence: Marteau de Guerre
+Type d'arme : à une main
+Force requise: 9
+Inutilisable par: 
+ Druides
+ Mages
+ Voleurs
+ Moines
+ Belluaires~
+@83	= ~Crochet du "Baron" Sulo~
+@84	= ~Personne ne sait d'où vient cette dague de parade magique, mais elle est devenue célèbre entre les mains du célèbre corsaire Sulo de Luskan, qui s'était autoproclamé "baron" des mers. Quand il décida de s'emparer des bijoux de la famille Leberm sur un petit navire évoluant au large de Port Llast, ses hommes et lui se retrouvèrent face à un groupe d'aventuriers expérimentés déguisés en gardes. L'un d'eux se battait comme un diable, utilisant son épée et sa dague avec une redoutable efficacité. Ce héros, dont l'histoire n'a pas retenu le nom, tua la majeure partie des hommes de Sulo et trancha la main gauche de ce dernier. Le "baron" aurait lui aussi péri si, par un caprice du destin, une flèche de baliste tirée au hasard n'avait transpercé l'aventurier qui s'apprêtait à l'achever, le projetant en mer et ne laissant derrière lui que cette belle dague de parade tourbillonnant sur le pont.
+
+Sulo se fit fixer la dague à son moignon, en lieu et place d'un crochet. Quand il fut tué neuf ans plus tard, la dague fut enterrée à ses côtés, de même qu'une grande quantité d'or et de pierres précieuses. Mais bien que sa tombe fut supposée secrète, elle fut rapidement pillée et la dague reprit bien vite du service.
+
+PARAMETRES :
+
+Dégâts : 1d4 +1
+Bonus d'attaque : malus de -1
+Enchantement : +1
+Type de dégâts : perforants
+Spécial :
+ Bonus de CA: +3
+ Jet de sauvegarde : +1
+ Résistance : +15% de résistance à la magie
+Poids : 0,5
+Compétence: Dague
+Type d'arme : à une main 
+Force requise: 3
+Inutilisable par:
+ Clerc
+ Belluaire~
+@85	= ~Croc de Désespoir de Xvim~
+@86	= ~Afin de remercier Saablic Tan d'avoir rejoint la Légion de la Chimère, Isaïr et Madae lui offrirent la dague appelée Croc de Xvim.
+
+Forgée dans les métaux les plus résistants et enchantée à l'aide des puissants enchantements maléfiques propres au clergé de Xvim, l'arme en acier noirci ne reflète pas la moindre lumière. En fait, sa lame courbe est si noire qu'il est presque impossible de la voir distinctement. C'est à croire qu'elle absorbe la lumière.
+
+Saablic Tan ne se sépare jamais de cette arme, non seulement car elle possède le pouvoir de pétrifier ses adversaires, mais aussi parce qu'elle augmente les facultés intellectuelles de son porteur, ce qui en fait un objet de choix pour tout magicien digne de ce nom.
+
+
+PARAMETRES :
+
+Dégâts : 1d4 +5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : perforants
+Spécial :
+ Sort : 5% de chances de lancer Pétrification sur la cible à chaque coup au but
+ Sort : 20% de chances de lancer Emotion : désespoir sur la cible à chaque coup au but
+  Bonus de caractéristique : +4 en Intelligence (une fois équipée)
+Poids : 0,5
+Compétence: Dague
+Type d'arme : à une main 
+Force requise: 3
+Inutilisable par:
+ Clerc
+ Belluaire~
+@87	= ~Patte de Singe de Discipline~
+@88	= ~Sprawg, le capitaine néo-orog, est actuellement l’instructeur de stratégie martiale des nouvelles recrues de la Légion de la Chimère. En tant que tel, il avait besoin d’un outil permettant de rendre ses élèves obéissants et ordonnés. C’est ainsi que la Patte de Singe de Discipline fut créée.
+
+La Patte de Singe de Discipline porte très bien son nom. Elle est principalement constituée d’un énorme bras pétrifié de singe, coupé au niveau de l’épaule. C’est à cet endroit qu’une sorte de poignée a été insérée, comme miraculeusement soudée dans l’os. A l’autre bout, la patte ouverte applique les sentences. Lorsqu’elle entre en action, la victime est non seulement gravement blessée, mais se trouve en plus dans un état de peur panique ou de confusion très intenses. Une fois ces symptômes disparus, il y a fort à parier que celui ou celle qui en a pâti deviendra particulièrement sage, surtout lorsqu’il sera en classe.
+
+PARAMETRES :
+
+Dégâts : 1d6 + 3
+Bonus d'attaque : +3
+Enchantement : +3
+Type de dégâts : Contondants
+Spécial :
+ Vitesse : Une attaque supplémentaire par round
+ Sort : 15% de chances de lancer le sort Emotion : Terreur sur la cible par coup
+ Sort : 5% de chances de lancer le sort Confusion sur la cible par coup.
+Poids : 1,5
+Compétence : masse
+Type d'arme : à une main
+Force requise: 10
+Inutilisable par:
+ Druide
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@89	= ~Brutal Impact~
+@90	= ~Lorsqu'il a atteint le rang de tyrannar (grand prêtre) de la Légion de la Chimère, Brutai Mar a automatiquement reçu le terrible marteau de guerre Brutal Impact en guise de récompense.
+
+Le manche finement ciselé de cette arme montre plusieurs représentations de Iyachtu Xvim repoussant une horde de paladins. Sa tête en mithral est plus large que celle de la plupart des autres marteaux de guerre, et pourtant son poids reste le même. Comme toutes les armes enchantées à l'aide des sorts propres au clergé de Xvim, sa tête de métal noire semble absorber la lumière.
+
+Lors des rares occasions où Brutai Mar s'est servi de cette arme contre ses adversaires, il s'est senti plus fort et plus précis dans l'exécution de ses coups. De plus, le marteau génère parfois de l'acide, le même qui se mêle aux eaux de la Main Tranchée.
+
+PARAMETRES :
+
+Dégâts : 1d8 +3
+Bonus d'attaque : +3
+Enchantement : +3
+Type de dégâts : contondants
+Spécial :
+  Corrosion : 33% de chances d'infliger +2d6 points de dégâts d'acide et 10% de chances d'infliger +2d10 points supplémentaires de dégâts d'acide
+ Force : bonus de +2
+Poids : 3,5
+Compétence: Marteau de Guerre
+Type d'arme : à une main
+Force requise: 9
+Inutilisable par:
+ Druides
+ Mages
+ Voleurs
+ Moines
+ Belluaires~
+@91	= ~Brisarme ardente de Pudu~
+@92	= ~Le capitaine Pudu, commandant de la garde de la Légion de la Chimère, aime utiliser l'arme la plus impressionnante et la plus destructrice qui soit. C'est sans doute ce qui a incité ce demi-gobelin à se munir d'une arme en théorie bien trop grande pour lui, la hallebarde.
+
+Mais il ne pouvait se satisfaire d'une hallebarde comme les autres, aussi en fit-il forger une dotée d'enchantements particulièrement mauvais. La Brisarme Ardente de Pudu inflige de terrifiants dégâts du feu à ses victimes, et il arrive également qu'elle les étourdisse, les empêchant de se défendre efficacement... car c'est ainsi que Pudu préfère ses ennemis...
+
+PARAMETRES :
+
+Dégâts : 1d10 +5
+Bonus d'attaque : +5
+Enchantement : +5
+Type de dégâts : perforants
+Spécial :
+ Etourdissement : 25% de chances d'étourdir la cible pendant 1/2 round (JS contre la paralysie annule)
+ Feu intense : +1d6 de dégâts du feu et 10% de chances d'infliger 1d10 dégâts supplémentaires du feu
+ Sort : 5% de chances de diminuer la résistance magique de la cible de 25% pendan 140 secondes à chaque coup porté
+Poids : 7
+Compétence : Hallebarde
+Type d'arme : à 2 mains
+Force requise: 13
+Inutilisable par:
+ Druide
+ Clerc
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+@93	= ~Masse Tueuse de Gobelins +1~
+@94	= ~La masse est la descendante directe du gourdin : on y a simplement rajouté une tête métallique. La tête de celle-ci émet une lueur bleutée. Le manche est de chêne poli.
+
+PARAMETRES :
+
+Dégâts : 1d8 +1
+Bonus d'attaque : +1
+Enchantement : +1
+Type de dégâts : contondants
+Spécial :
+ Tueuse: tue les gnolls, gobelins, hobgobelins, kobolds et orques (pas de JS)
+Poids : 6
+Compétence : masse
+Type d'arme : à une main
+Force requise: 10
+Inutilisable par:
+ Druide
+ Mage
+ Voleur
+ Moine
+ Belluaire~
+// these strings were copied from IWDEE, not IWD, so adjust @96 for original BG2 as needed 
+@95 = ~Hache à deux mains~
+@96 = ~Cette arme puissante consiste en un manche de 1,20 mètre à 1,50 mètre de long, au bout duquel a été fixée une lourde lame, laquelle peut être simple ou double (une lame de chaque côté du manche). C'est une arme difficile à manier, mais un combattant aguerri peut délivrer des coups terribles avec.
+
+PARAMÈTRES :
+
+Dégâts : 1d10 (tranchant)
+Facteur de vitesse : 9
+Type de compétence : hache
+Type : arme à deux mains
+Nécessite : 10 en force
+
+Poids : 10~ 

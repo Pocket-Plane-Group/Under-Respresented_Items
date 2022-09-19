@@ -3,14 +3,29 @@ SUPPORT ~http://forums.pocketplane.net/index.php/board,43.0.html~
 
 ALWAYS
 
-  OUTER_SET enhanced_edition = 0
-  
   ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
 
-    ACTION_DEFINE_ARRAY cdreload BEGIN ~setup~ ~u#conlan~ END
-    LAF HANDLE_CHARSETS INT_VAR infer_charset = 1 STR_VAR default_language = american tra_path = EVAL ~%MOD_FOLDER%/languages~ convert_array = cdreload reload_array = cdreload END
+    OUTER_SET enhanced_edition = 1
+  
+    ACTION_IF FILE_EXISTS ~underrep/languages/%LANGUAGE%/setup_ee.tra~ BEGIN
 
-    OUTER_SET enhanced_edition = 1 // ee game
+      LOAD_TRA ~underrep/languages/%LANGUAGE%/setup_ee.tra~ // override normal item descriptions with EE-formatted ones
+   
+    END 
+
+    OUTER_SPRINT ~tra_location~ ~underrep/languages~
+
+  END ELSE BEGIN
+
+    OUTER_SET enhanced_edition = 0
+
+    OUTER_SPRINT ~tra_location~ ~weidu_external/underrep/languages~
+
+    // convert strings from UTF-8 for originals
+    ACTION_DEFINE_ARRAY cdnoconvert BEGIN weidu items_ee END
+    ACTION_DEFINE_ARRAY cdreload BEGIN items END
+    LAF HANDLE_CHARSETS INT_VAR from_utf8 = 1 infer_charsets = 1
+                        STR_VAR default_language = ~american~ tra_path = ~underrep/languages~ out_path = ~weidu_external/underrep/languages~ noconvert_array = cdnoconvert reload_array = cdreload END
 
   END
   
@@ -24,36 +39,36 @@ README ~underrep/readme-underrep.%LANGUAGE%.html~
 
 LANGUAGE ~American English~ 
          ~american~
-         ~underrep/languages/american/setup.tra~
-         ~underrep/languages/american/u#conlan.tra~
+         ~underrep/languages/american/weidu.tra~
+         ~underrep/languages/american/items.tra~
 
 LANGUAGE ~Traduction francaise (par Mathrim Cauthon)~ 
          ~french~
-         ~underrep/languages/american/setup.tra~
-         ~underrep/languages/american/u#conlan.tra~
-	       ~underrep/languages/french/setup.tra~
-         ~underrep/languages/french/u#conlan.tra~
+         ~underrep/languages/american/weidu.tra~
+         ~underrep/languages/american/items.tra~
+         ~underrep/languages/french/weidu.tra~
+         ~underrep/languages/french/items.tra~
 
 LANGUAGE ~Russian (SERKOS, Aerie.ru)~
          ~russian~
-         ~underrep/languages/american/setup.tra~
-         ~underrep/languages/american/u#conlan.tra~
-         ~underrep/languages/russian/setup.tra~
-         ~underrep/languages/russian/u#conlan.tra~
+         ~underrep/languages/american/weidu.tra~
+         ~underrep/languages/american/items.tra~
+         ~underrep/languages/russian/weidu.tra~
+         ~underrep/languages/russian/items.tra~
 
 LANGUAGE ~Italian (Stoneangel)~
          ~italian~
-         ~underrep/languages/american/setup.tra~
-         ~underrep/languages/american/u#conlan.tra~
-         ~underrep/languages/italian/setup.tra~
-         ~underrep/languages/italian/u#conlan.tra~
+         ~underrep/languages/american/weidu.tra~
+         ~underrep/languages/american/items.tra~
+         ~underrep/languages/italian/weidu.tra~
+         ~underrep/languages/italian/items.tra~
 
 LANGUAGE ~Polski (Aristo - The Stars of Mystra)~
          ~polish~
-         ~underrep/languages/american/setup.tra~
-         ~underrep/languages/american/u#conlan.tra~
-         ~underrep/languages/polish/setup.tra~
-         ~underrep/languages/polish/u#conlan.tra~
+         ~underrep/languages/american/weidu.tra~
+         ~underrep/languages/american/items.tra~
+         ~underrep/languages/polish/weidu.tra~
+         ~underrep/languages/polish/items.tra~
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
@@ -77,7 +92,9 @@ INCLUDE ~underrep/lib/items.tpa~
 // uncomment the next line and edit prices.tpa if you want to customize the item prices in your game
 //INCLUDE ~underrep/lib/prices.tpa~ 
 
-COMPILE ~underrep/dlg/u#conlan.d~       
+WITH_TRA ~%tra_location%/american/u#conlan.tra~ ~%tra_location%/%LANGUAGE%/u#conlan.tra~ BEGIN 
+  COMPILE ~underrep/dlg/u#conlan.d~       
+END
 
 ACTION_IF GAME_IS ~tob bgt bg2ee eet~ THEN BEGIN
   EXTEND_BOTTOM ~ar3000.bcs~ ~underrep/baf/ar3000.baf~ // spawn conlan at WK

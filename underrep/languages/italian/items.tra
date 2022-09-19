@@ -1,0 +1,1006 @@
+@1    = ~Conlan~
+@2    = ~La Fucina di Conlan~
+@3    = ~Grande Ascia della Giustizia Sacra +5~
+@4    = ~Questa potente arma è composta da un'asta lunga quasi due metri sormontata da una possente lama. L'ascia può essere bipenne, e montare una lama da ogni lato dell'asta, oppure può essere dotata di una lama singola. È  un'arma difficile da impugnare, ma un guerriero abile è in grado di sferrare colpi di grande potenza se la usa come si deve. Per potenziare ulteriormente l'arma, la testa dell'ascia è stata decorata con rune naniche.
+
+STATISTICHE:
+
+Danno:  1d12 +5
+THACO:  +5
+Incantamento:  +5
+Tipo di Danno:  Taglio
+Speciale:
+  Incantesimo: Il bersaglio è sotto l'effetto dell'incantesimo Cecità (Tiro salvezza contro incantesimi per negare gli effetti)
+  Sacra: +2d6 Danno contro creature malvagie
+Peso:  20 
+Tipo di Capacità: Ascia
+Tipo:  A due mani
+Richiede: Forza 10
+Non utilizzabile da:
+  Personaggi Malvagi
+  Druido
+  Chierico
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@5    = ~Grande Ascia di Ghiaccio +5~
+@6    = ~Questa potente arma è composta da un'asta lunga quasi due metri sormontata da una possente lama. L'ascia può essere bipenne, e montare una lama da ogni lato dell'asta, oppure può essere dotata di una lama singola. È  un'arma difficile da impugnare, ma un guerriero abile è in grado di sferrare colpi di grande potenza se la usa come si deve. Per potenziare ulteriormente l'arma, la testa dell'ascia è stata decorata con rune naniche. 
+
+STATISTICHE:
+
+Danno:  1d12 + 5
+THACO:  +5 
+Incantamento:  +5
+Tipo di Danno:  Taglio
+Speciale: 
+  Esplosione di Gelo:  +2d6 danni da freddo ed il 10% di probabilità di infliggere 2d10 danni addizionali da freddo
+  Resistenza: +50% di Resistenza al Freddo 
+Tipo di Capacità: Ascia
+Tipo:  A due mani
+Richiede: Forza 10
+Non utilizzabile da:
+  Druido
+  Chierico
+  Mago 
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@7    = ~Grande Ascia della Vista Sfocata +5~
+@8    = ~Questa potente arma è composta da un'asta lunga quasi due metri sormontata da una possente lama. L'ascia può essere bipenne, e montare una lama da ogni lato dell'asta, oppure può essere dotata di una lama singola. È  un'arma difficile da impugnare, ma un guerriero abile è in grado di sferrare colpi di grande potenza se la usa come si deve. Per potenziare ulteriormente l'arma, la testa dell'ascia è stata decorata con rune naniche. 
+
+STATISTICHE:
+
+Danno:  1d12 + 5
+THACO:  +5 
+Incantamento:  +5
+Tipo di Danno:  Taglio
+Speciale: 
+  Effetto Costante: Quando viene  impugnata, chi la usa è sotto l'effetto dell'incantesimo Sfocatura (+3 bonus alla CA, +1 bonus ai Tiri Salvezza)
+  Veleno: Infligge 1 danno addizionale ogni round per 10 round (Tiro salvezza contro il veleno per negare gli effetti) 
+Peso:  20 
+Tipo di Capacità: Ascia
+Tipo:  A due mani
+Richiede: Forza 10
+Non utilizzabile da:
+  Druido
+  Chierico
+  Mago 
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@9    = ~Grande Ascia di Digestione +5~
+@10   = ~Questa potente arma è composta da un'asta lunga quasi due metri sormontata da una possente lama. L'ascia può essere bipenne, e montare una lama da ogni lato dell'asta, oppure può essere dotata di una lama singola. È  un'arma difficile da impugnare, ma un guerriero abile è in grado di sferrare colpi di grande potenza se la usa come si deve. Per potenziare ulteriormente l'arma, la testa dell'ascia è stata decorata con rune naniche. 
+
+STATISTICHE:
+
+Danno:  1d12 + 5
+THACO:  +5 
+Incantamento:  +5
+Tipo di Danno:  Taglio
+Speciale: 
+  Esplosione Corrosiva:  +2d6 danni da acido ed una probabilità del 10% di infliggere 2d10 danni addizionali da acido
+Peso:  20 
+Tipo di Capacità: Ascia
+Tipo:  A due mani
+Richiede: Forza 10 
+Non utilizzabile da:
+  Druido
+  Chierico
+  Mago 
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@11   = ~Grande Ascia Infuocata Massiccia +5~
+@12   = ~Questa potente arma è composta da un'asta lunga quasi due metri sormontata da una possente lama. L'ascia può essere bipenne, e montare una lama da ogni lato dell'asta, oppure può essere dotata di una lama singola. È  un'arma difficile da impugnare, ma un guerriero abile è in grado di sferrare colpi di grande potenza se la usa come si deve. Per potenziare ulteriormente l'arma, la testa dell'ascia è stata decorata con rune naniche. 
+
+STATISTICHE:
+
+Danno:  2d12 + 5
+THACO:  +5 
+Incantamento:  +5
+Tipo di Danno:  Taglio
+Speciale: 
+  Esplosione Infuocata:  +1d6 danni da fuoco ed una probabilità del 10% di infliggere 1d10 danni addizionali da fuoco 
+Peso:  30 
+Tipo di Capacità: Ascia
+Tipo:  A due mani
+Richiede: Forza 18 
+Non utilizzabile da:
+  Druido
+  Chierico
+  Mago 
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@13   = ~Grande Ascia della Potenza +5~
+@14   = ~Questa potente arma è composta da un'asta lunga quasi due metri sormontata da una possente lama. L'ascia può essere bipenne, e montare una lama da ogni lato dell'asta, oppure può essere dotata di una lama singola. È  un'arma difficile da impugnare, ma un guerriero abile è in grado di sferrare colpi di grande potenza se la usa come si deve. Per potenziare ulteriormente l'arma, la testa dell'ascia è stata decorata con rune naniche. 
+
+STATISTICHE:
+
+Danno:  1d12 + 5
+THACO:  +5
+Incantamento:  +5
+Tipo di Danno:  Taglio
+Speciale: 
+  Effetto Costante: +1 Bonus alla Forza
+Peso:  20
+Richiede: Forza 10 
+Non utilizzabile da:
+  Druido
+  Chierico
+  Mago 
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@15   = ~Grande Ascia dell'Esplosione Elementale~
+@16   = ~Questa potente arma è composta da un'asta lunga quasi due metri sormontata da una possente lama. L'ascia può essere bipenne, e montare una lama da ogni lato dell'asta, oppure dotata di una lama singola. È un'arma difficile da impugnare, ma un guerriero abile è in grado di sferrare colpi di grande potenza se la usa come si deve. Sulla lama gigante dell'ascia sono state incise rune naniche per potenziarla.
+
+STATISTICHE:
+
+Danno:  1d12
+Tipo di Danno:  Taglio
+Speciale:
+  Esplosione Infuocata: +1d6 danni da fuoco e probabilità del 10% di +1d10 ulteriori danni da fuoco 
+  Esplosione di Gelo: +1d6 danni da freddo e probabilità del 10% di +1d10 ulteriori danni da freddo 
+  Esplosione Folgorante: +1d6 danni da elettricità e probabilità del 10% di +1d10 ulteriori danni da elettricità
+  Colpo Sicuro: L'arma è trattata come se avesse un Incantamento +5 per colpire le creature che possono essere colpite solo da armi magiche
+Peso:  20 
+Tipo di Capacità: Ascia
+Richiede: Forza 18 
+Tipo:  A due mani
+Non utilizzabile da:
+  Druido
+  Chierico
+  Mago 
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@17   = ~Grande Ascia della Fiamma Vampirica~
+@18   = ~Questa potente arma è composta da un'asta lunga quasi due metri sormontata da una possente lama. L'ascia può essere bipenne, e montare una lama da ogni lato dell'asta, oppure può essere dotata di una lama singola. È un'arma difficile da impugnare, ma un guerriero abile è in grado di sferrare colpi di grande potenza se la usa come si deve.
+
+STATISTICHE:
+
+Danno:  1d12
+Tipo di Danno:  Taglio
+Incantamento:  +5
+Speciale:
+  Esplosione Infuocata:  +2d6 danni da fuoco e probabilità del 10% di infliggere un +1d10 in più danni da fuoco
+  Vampirica: +2 di Danno magico e aggiunge temporaneamente +2 punti ferita a chi lo impugna
+  Colpo Sicuro: L'arma è trattata come se avesse un Incantamento +5 per colpire le creature che possono essere colpite solo da armi magiche
+Peso:  20 
+Tipo di Capacità: Ascia
+Richiede: Forza 18 
+Tipo:  A due mani
+Non utilizzabile da:
+  Druido
+  Chierico
+  Mago 
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@19   = ~Cinta della Beatificazione~
+@20   = ~I sacerdoti di Helm a Berdusk consacrarono questa cintura e la diedero al guerriero Tom Wainwright, che aveva svolto numerosi servigi per la chiesa, tra cui la distruzione dell'Occhio Che non Vede e del culto che lo adorava, gli Accoliti Ciechi. Tom portò il cinto con orgoglio finché, nei suoi ultimi anni, non finì per indebitarsi gravemente. Con suo eterno rimorso, dovette venderlo a un famigerato sacerdote di Mask.
+
+STATISTICHE:
+
+Il portatore è sotto gli effetti di un incantesimo di Benedizione quando la indossa
+Peso: 2 
+Non utilizzabile da: Ammazzastregoni~
+@21   = ~Cotta di Maglia Elfica della Mano +3~
+@22   = ~Durante l'Età dell'Oro tra gli Elfi della Mano dei Seldarine e i Nani delle Sale di Dorn vennero create delle versioni speciali della nota cotta di maglia elfica che fornivano una protezione ulteriore contro le rigide condizioni climatiche del nord. 
+
+STATISTICHE:
+
+Classe Armatura: 2 (Cotta di Maglia Elfica +3)
+Speciale:
+  Resistenza: +50% di Resistenza al freddo 
+Peso: 15 
+Non utilizzabile da:
+  Druido
+  Mago
+  Kensai
+  Monaco
+  Addestratore di Animali
+  Predatore~
+@23   = ~Zanna di Vipera +2~
+@24   = ~Un tipico pugnale è normalmente dotato di una lama aguzza a doppio taglio, a differenza di un coltello, che possiede una singola lama ed è leggermente più corto di un pugnale.
+
+STATISTICHE:
+
+Danno:  1d4 + 2
+THACO:  +2 
+Incantamento:  +2
+Tipo di Danno:  Perforazione
+Speciale:
+  Veleno: +2 danni da veleno ogni secondo per 6 secondi (un Tiro Salvezza contro Veleno per negare il danno)
+Peso: 1 
+Tipo:  A una mano
+Tipo di Capacità: Pugnale
+Richiede: Forza 3 
+Non utilizzabile da:
+  Chierico
+  Addestratore di Animali~
+@25   = ~Pugnale Zampa di Gatto +3~
+@26   = ~Un tipico pugnale è normalmente dotato di una lama aguzza a doppio taglio, a differenza di un coltello, che possiede una singola lama ed è leggermente più corto di un pugnale. 
+
+STATISTICHE:
+
+Danno:  1d4 + 3
+THACO:  +3 
+Incantamento:  +3
+Tipo di Danno:  Perforazione
+Speciale:
+  Oscurato: +20% a Nascondersi nelle Ombre, +20% a Muoversi Silenziosamente
+Peso: 1 
+Tipo:  A una mano
+Tipo di Capacità: Pugnale
+Richiede: Forza 3
+Non utilizzabile da:
+  Chierico
+  Addestratore di Animali~
+@27   = ~Pugnale Vampirico +1~
+@28   = ~Un tipico pugnale è normalmente dotato di una lama aguzza a doppio taglio, a differenza di un coltello, che possiede una singola lama ed è leggermente più corto di un pugnale. 
+
+STATISTICHE:
+
+Danno:  1d4 + 1
+THACO:  +1 
+Incantamento:  +1
+Tipo di Danno:  Perforazione
+Speciale:
+  Vampirico: +2 di Danno magico e aggiunge temporaneamente +2 punti ferita a chi lo impugna
+Peso: 1 
+Tipo:  A una mano
+Tipo di Capacità: Pugnale
+Richiede: Forza 3
+Non utilizzabile da:
+  Chierico
+  Addestratore di Animali~
+@29   = ~Dardo Stordente Ritornante +1~
+@30   = ~Il dardo è un'arma da lancio piccola e facilmente occultabile che viene lanciata direttamente invece di essere scoccata da un arco o da un'altra arma apposita. Sulla superficie di questi dardi sono state incise delle minuscole rune argentee per aumentare la resa.
+
+STATISTICHE:
+
+Danno:  1d4  +1
+THACO:  +1
+Incantamento:  +1
+Tipo di Danno:  Proiettile (Perforazione)
+Speciale:
+  Stordente: 25% di probabilità che il bersaglio rimanga stordito per 3 secondi (Tiro Salvezza contro la Paralisi per negare gli effetti)
+  Ritornante: Ritorna a chi lo ha lanciato
+Peso: 0 
+Tipo di Capacità: Dardo
+Tipo:  A una mano
+Non utilizzabile da:
+  Chierico
+  Kensai
+  Cavaliere~
+@31   = ~Dardo Intriso di Veleno Ritornante~
+@32   = ~Il dardo è un'arma da lancio piccola e facilmente occultabile che viene lanciata direttamente invece di essere scoccata da un arco o da un'altra arma apposita. Sulla superficie di questi dardi sono state incise delle minuscole rune argentee per aumentare la resa. 
+
+STATISTICHE:
+
+Danno:  1d4
+Tipo di Danno:  Proiettile (Perforazione)
+Speciale:
+ Veleno: +2 danni da avvelenamento al secondo per 6 secondi (Tiro Salvezza contro Veleno per negare gli effetti) 
+ Ritornante: Ritorna a chi lo ha lanciato 
+Peso: 0 
+Tipo di Capacità: Dardo
+Tipo:  A una mano
+Non utilizzabile da:
+  Chierico
+  Kensai
+  Cavaliere~
+@33   = ~Alabarda Infernale del Difensore~
+@34   = ~Quest'alabarda, come altre simili, è costituita da un'ascia simile ad una mannaia montata su di un bastone lungo approssimativamente 180 cm. Comunque, è anche stata dotata di un piccolo numero di proprietà magiche in modo da renderla più efficace in combattimento. La sua lama affilata, per esempio, taglierà la carne dei tuoi avversari fino all'osso mentre la sua punta acuminata si farà strada oltre le loro armature. 
+STATISTICHE:
+
+Danno:  1d10
+Incantamento:  +5
+Tipo di Danno:  Perforazione
+Speciale:
+  Classe Armatura Bonus: +1 
+  Esplosione Infuocata: +2d6 danni da fuoco e probabilità del 10% di altri +2d10 danni da fuoco extra  
+Colpo Sicuro: l'arma viene considerata dotata di un incantamento +5 al fine di determinare quali creature è in grado di colpire 
+Peso: 14 
+Tipo di Capacità: Alabarda
+Tipo:  A due mani
+Richiede: Forza 13 
+Non utilizzabile da:
+  Druido
+  Chierico
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@35   = ~Alabarda Pesante dell’Odio +4~
+@36   = ~Quest'alabarda, come altre simili, è costituita da un'ascia simile ad una mannaia montata su di un bastone lungo approssimativamente 180 cm. Comunque, è anche stata dotata di un piccolo numero di proprietà magiche in modo da renderla più efficace in combattimento. La sua lama affilata, per esempio, taglierà la carne dei tuoi avversari fino all'osso mentre la sua punta acuminata si farà strada oltre le loro armature.
+
+STATISTICHE:
+
+Danno:  2d8 + 4
+THACO:  +4 
+Incantamento:  +4
+Tipo di Danno:  Perforazione
+Speciale:
+  Malvagio: +2d6 danni contro le creature buone
+  Vampirico: +2 di danno magico al bersaglio e +2 punti ferita aggiunti a chi usa l'arma
+Peso: 28 
+Tipo di Capacità: Alabarda
+Tipo:  A due mani
+Richiede: Forza 18 
+Non utilizzabile da:
+  Personaggi Buoni
+  Druido
+  Chierico
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@37   = ~Alabarda della Velocità +5~
+@38   = ~Quest'alabarda, come altre simili, è costituita da un'ascia simile ad una mannaia montata su di un bastone lungo approssimativamente 180 cm. Comunque, è anche stata dotata di un piccolo numero di proprietà magiche in modo da renderla più efficace in combattimento. La sua lama affilata, per esempio, taglierà la carne dei tuoi avversari fino all'osso mentre la sua punta acuminata si farà strada oltre le loro armature.
+
+STATISTICHE:
+
+Danno:  1d10 + 5
+THACO:  +5 
+Incantamento:  +5
+Tipo di Danno:  Perforazione
+Speciale:
+  Velocità: 1 attacco aggiuntivo per round
+Peso: 14 
+Tipo di Capacità: Alabarda
+Tipo:  A due mani
+Richiede: Forza 13 
+Non utilizzabile da:
+  Druido
+  Chierico
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@39   = ~Martello Sacro dell’Esplosione Corrosiva +5~
+@40   = ~Questo martello da guerra, come altri simili, è fatto interamente d'acciaio, con un martello spaccaossa montato su un'asta lunga 45 cm.  Comunque, è anche stato dotato di un piccolo numero di proprietà magiche in modo da renderlo più efficace in combattimento.
+
+STATISTICHE:
+
+Danno:  1d8 +5
+THACO:  +5 
+Incantamento:  +5
+Tipo di Danno:  Contundente
+Speciale:
+  Sacra: +2d6 danni contro le creature malvagie 
+  Esplosione Corrosiva:  +1d6 danni da acido e probabilità del 10% di arrecare ulteriori +1d10 danni da acido
+Peso: 7 
+Tipo di Capacità: Martello da Guerra
+Tipo:  A una mano
+Richiede: Forza 9 
+Non utilizzabile da:
+  Personaggi Malvagi
+  Druido
+  Mago 
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@41   = ~Fendi Occhi di Delnar~
+@42   = ~Delnar era un mago codardo, che non era portato per l'avventura. Passava la maggior parte del suo tempo a studiare, vivendo con sua madre e tentando di apprendere i segreti della creazione degli oggetti magici. Come primo tentativo, Delnar decise di creare un dardo che fosse il migliore amico dei maghi. L'arma avrebbe colpito il bersaglio, avrebbe dissolto tutte le protezioni magiche e poi sarebbe tornata nella mano dell'incantatore.
+
+Sfortunatamente, proprio mentre finiva di incantare l'oggetto, la madre di Delnar entrò nella stanza e disse "Sta attento, ti caverai un occhio con quel coso!". E sfortunatamente, le parole della madre divennero parte dell'incantesimo. Il dardo ha funzionato perfettamente, ma a volte ha accecato chi lo utilizzava al suo ritorno.
+
+STATISTICHE:
+
+Danno:  1d4  +5
+THACO:  +5 
+Incantamento:  +5
+Tipo di Danno:  Proiettile (Perforazione)
+Speciale: 
+  Dissolvi Magie: 90% di probabilità di lanciare Rimuovere Magie sul bersaglio
+  Incantesimo: 5% di probabilità di lanciare Cecità su chi lo impugna (Tiro Salvezza contro Morte per resistere)
+  Ritornante: Ritorna a chi lo ha lanciato 
+Peso: 1 
+Tipo di Capacità: Dardo
+Tipo:  A una mano
+Non utilizzabile da:
+  Chierico
+  Kensai
+  Cavaliere~
+@43   = ~Dardi della Pestilenza Crudele~
+@44   = ~ Creati circa quarant'anni fa dall'ambiziosa sacerdotessa e necromante di Talona di nome Presio, questi strumenti divennero popolari nella chiesa di Talona solo sei o sette anni fa. Presio era molto conosciuta in alcuni circoli del nord, anche se la sua presenza spesso non veniva notata da coloro che ne erano terrorizzati. Attorno al 1280 Presio prese parte a uno strano intrigo demoniaco sulle Montagne del Dorso del Mondo. Sono pochi tra i suoi seguaci la seguirono in quel viaggio. Anche se sia lei che i suoi alleati vennero uccisi nel vulcano dell'Occhio del Drago, molte delle ricette e delle formule per le sue pozioni sono sopravvissute. 
+
+STATISTICHE:
+
+Danno: 1d4  +3
+THACO:  +3
+Incantamento:  +3
+ Lancia Piaga degli Insetti se colpisce un bersaglio 
+Tipo di Danno:  Proiettile (Perforazione)
+Peso: 0 
+Tipo di Capacità: Dardo
+Tipo:  A una mano~
+@45   = ~Sacro Martello Swizarniano di Lucerne~
+@46   = ~Questa strana arma inastata sembra un incrocio tra un'alabarda e un martello da guerra, dotato di una testa di martello quadrangolare e una lunga punta acuminata per gli affondi.
+
+La sua creazione è il risultato di un errore effettuato nel corso della commissione di un oggetto incantato per Lodur il Coraggioso (conosciuto anche col nome di Lodur Palle di Ferro, Lodur il Temerario e Lodur lo Stupido), un chierico molto potente ma non troppo sveglio. Lodur aveva sentito parlare di un possente martello su asta lunga, a quanto pare impugnato da un eroe di nome Lucerne, o forse quello era il posto dove veniva costruito, che forse aveva a che fare (o forse no) con una terra, un re o una divinità chiamata Swizaria, Switzera o "qualcosa del genere, ne sono sicuro".
+
+"Oh," aggiunse poi, "e, per favore, benedicimela anche... Sai, in modo che faccia scoppiare i non morti e cose del genere, in modo che io possa punire le cose in modo molto esplosivo."
+
+Il portamento fiero, la reputazione violenta e i sacchi d'oro di Lodur furono sufficiente a ottenere obbedienza senza ribattere, e così il nano armaiolo si limitò ad annuire e a salutare il chierico, promettendogli che avrebbe avuto la sua arma nel giro di due mesi. L'armaiolo si consultò col maestro del sapere del suo clan, e in effetti *c'erano* tracce di un'arma del genere: ne parlava un mercante di Sigil che riferiva quanto saputo tramite un viandante planare estremamente esperto. L'armaiolo copiò scrupolosamente la funzione e la forma dell'arma, tracciando rune di potere sull'asta e sulla testa dell'arma proprio come Lodur aveva detto.
+
+Quando Lodur il Coraggioso fece ritorno alla fortezza nanica per ritirare il suo nuovo martello, trovò invece un'arma chiodata, il cui uso gli era proibito dalla sua religione. Il chierico imprecò e inveì a lungo per tutte le sale del clan nanico prima di andarsene disgustato, lasciando il suo pagamento e l'arma, inadeguatamente battezzata "Martello Switzariano di Lucerne", dietro di sé.
+
+STATISTICHE:
+
+Danno:  1d10 + 3
+THACO:  +3 
+Incantamento:  +3
+Tipo di Danno:  Perforazione
+Speciale:
+  Distruttiva: Tutte le creature non morte devono superare un Tiro Salvezza a -4 o venire distrutte
+  Incantesimo: 25% di probabilità di lanciare Punizione Sacra sul bersaglio ad ogni colpo andato a segno
+Peso: 15 
+Tipo di Capacità: Alabarda
+Tipo:  A due mani
+Richiede: Forza 13 
+Non utilizzabile da:
+  Druido
+  Chierico
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@47   = ~Sete di Sangue~
+@48   = ~Sete di Sangue è un'arma splendida a vedersi. La lancia fa sfoggio di una punta lunga 45 cm e di una lama allungata forgiata in acciaio adamantino. Su ogni lato della lama sono presenti delle piccole aperture che sembrano condurre all'interno dell'asta dell'arma. La lama risplende anche di varie rune d'argento. L'asta dell'arma misura 180 cm in lunghezza. È costruita in legno di quercia accuratamente levigato e rinforzato con bande di mithril per tutta la sua lunghezza. L'asta è cava.
+
+Sete di Sangue è un'arma micidiale in combattimento. Questa è un'arma avvelenata (è necessario un Tiro Salvezza contro il Veleno o si subiscono danni ad ogni round) e vampirica (dei danni aggiuntivi cureranno temporaneamente chi la impugna). Anche la precisione dell'arma è stata potenziata.
+
+STATISTICHE:
+
+Danno:  1d8 + 5
+THACO:  +5
+Incantamento:  +5
+Tipo di Danno:  Perforazione
+Speciale:  
+  Veleno: Infligge 1 danno addizionale per ogni round per 10 round (un Tiro Salvezza sul Veleno per negare gli effetti)
+  Vampirico: +2 di Danno magico e aggiunge temporaneamente +2 punti ferita a chi lo impugna
+Peso: 6 
+Tipo di Capacità: Lancia 
+Tipo:  A due mani
+Richiede: Forza 5 
+Non utilizzabile da:
+  Chierico
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@49   = ~Crudele Pungiglione di Lolth~
+@50   = ~Le lame come queste vengono spesso offerte agli assassini più abili al servizio di Lolth. L'intera arma è nera come la pece e non riflette alcuna luce; la sua impugnatura è intessuta con decorazioni simili a ragnatele mentre sulla lama sono disegnati centinaia di piccoli ragni. La magia nera della spada corta non solo protegge chi la impugna dagli effetti delle ragnatele magiche, ma può a sua volta avviluppare il bersaglio in una ragnatela.
+
+Un assassino di solito usa quest'arma per avviluppare il bersaglio in un bozzolo di seta, per poi indietreggiare lontano dal nemico che tenta di divincolarsi e completare l'opera con un dardo avvelenato o con un quadrello sparato da una balestra da polso. Armi simili molto spesso hanno aiutato un aspirante assassino a fuggire da qualcuno che hanno pugnalato alle spalle ma che non sono riusciti ad uccidere con un singolo colpo.
+
+STATISTICHE:
+
+Danno:  1d6 + 3
+THACO: +3 
+Incantamento:  +3
+Tipo di Danno:  Perforazione
+Speciale:
+  Benedizione di Lolth: Libertà d’Azione quando è impugnato
+  Maledizione di Lolth: 33% di probabilità di avvelenare il bersaglio per +2 punti di danno per secondo per 7 secondi (niente Tiro Salvezza)
+  Maledizione di Lolth: 33% di probabilità di lanciare Ragnatela sul bersaglio per 7 secondi (niente Tiro Salvezza)
+Peso: 3 
+Tipo di Capacità: Spada corta
+Tipo:  A una mano
+Richiede: Forza 5 
+Non utilizzabile da:
+  Druido
+  Chierico 
+  Mago
+  Addestratore di Animali~
+@51   = ~Mazza dello Stordimento Esplosione di Gelo~
+@52   = ~La mazza è una derivazione del normale randello, e non è altro che un bastone di legno dotato di una pietra o di una testa in ferro a una delle estremità. In questo caso, la testa, fissata in cima a un'asta levigata di legno di quercia,  è piramidale e sembra risplendere dall'interno di una luce blu.  
+
+STATISTICHE:
+
+Danno:  1d8
+Tipo di Danno:  Contundente
+Incantamento:  +5
+Speciale:
+  Stordimento: Il bersaglio è Stordito per 3 secondi (Tiro Salvezza contro Paralisi per negare gli effetti)
+  Esplosione di Gelo: +1d6 danni da freddo e probabilità del 10% di ulteriori +1d10 danni da freddo 
+  Colpo Sicuro: L'arma è trattata come se avesse un incantamento +5 per colpire le creature che possono essere colpite solo da armi magiche 
+Peso: 12 
+Tipo di Capacità: Clava
+Tipo:  A una mano
+Richiede: Forza 10
+Non utilizzabile da:
+  Druido
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@53   = ~Mazza della Sacra Punizione~
+@54   = ~La mazza è una derivazione del normale randello, e non è altro che un bastone di legno dotato di una pietra o di una testa in ferro a una delle estremità. In questo caso, la testa, fissata in cima a un'asta levigata di legno di quercia,  è piramidale e sembra risplendere dall'interno di una luce blu. 
+
+STATISTICHE:
+
+Danno:  1d8
+Tipo di Danno:  Contundente
+Incantamento:  +5
+Speciale:
+  Incantesimo Raro: 33% di probabilità di lanciare Punizione Sacra sul bersaglio
+  Sacra: +2d6 danni alle creature malvagie 
+  Colpo Sicuro: L'arma è trattata come se avesse un Incantamento +5 per colpire le creature che possono essere colpite solo da armi magiche 
+Peso: 12 
+Tipo di Capacità: Clava
+Tipo:  A una mano
+Richiede: Forza 10 
+Non utilizzabile da:
+  Personaggi Malvagi
+  Druido
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@55   = ~Mazza della Distruzione Esplosione Infuocata~
+@56   = ~ La mazza è una derivazione del normale randello, e non è altro che un bastone di legno dotato di una pietra o di una testa in ferro a una delle estremità. In questo caso, la testa, fissata in cima a un'asta levigata di legno di quercia,  è piramidale e sembra risplendere dall'interno di una luce blu.  
+
+STATISTICHE:
+
+Danno:  1d8
+Tipo di Danno:  Contundente
+Incantamento:  +5
+Speciale:
+  Esplosione Infuocata:  +1d6 danni da fuoco e la probabilità del 10% di effettuare ulteriori +1d10 danni da fuoco
+  Distruzione: Tutti i non morti colpiti devono effettuare un Tiro Salvezza contro Morte a -4 o essere distrutti
+  Colpo Sicuro: L'arma è trattata come se avesse un Incantamento +5 per colpire le creature che possono essere colpite solo da armi magiche 
+Peso: 12 
+Tipo di Capacità: Clava
+Tipo:  1-handed
+Richiede: Forza 10 
+Non utilizzabile da:
+  Druido
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@57   = ~lancia dello Stordimento +2~
+@58   = ~Le prime lance, alcune tra le primissime armi utilizzate dall'uomo e risalenti alle ere primitive, erano semplici aste di legno con una pietra appuntita legata alla cima. Quando l'uomo ha imparato a lavorare i metalli, le punte delle lance sono state costruite in ferro e in acciaio. Una volta appresa questa tecnica, i costruttori d0armi hanno iniziato a sperimentare con vari tipi di punta di lancia, fino a giungere alla creazione di vari tipi di armi inastate. In ogni caso, questa lancia è leggermente differente, essendo stata pervasa di alcune proprietà magiche. 
+
+STATISTICHE:
+
+Danno:  1d8 + 2
+THACO:  +2 
+Incantamento:  +2
+Tipo di Danno:  Perforazione
+Speciale:
+  Stordimento: Il bersglio è Stordito per 3 secondi (Tiro Salvezza contro paralisi per negare gli effetti)
+Peso: 5 
+Tipo di Capacità: Lancia 
+Tipo:  A due mani
+Richiede: Forza 5 
+Non utilizzabile da:
+  Chierico
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@59   = ~Bastone Fantasma +5~
+@60   = ~ Il bastone ferrato, la più semplice e la più umile tra tutte le armi semplici, è semplicemente un bastone lungo dai 180 ai 270 centimetri. I bastoni ferrati perfetti sono fatti in legno di quercia e sono rinforzati da rivestimenti in metallo ad entrambe le punte. Questo bastone in particolare ha qualcosa di speciale, visto che è stato dotato di proprietà magiche. 
+
+STATISTICHE:
+
+Danno:  1d6 + 5
+THACO:  +5 
+Incantamento:  +5
+Tipo di Danno:  Contundente
+Speciale:
+  Fantasma: Proietta un'immagine spettrale dell'arma che può colpire un avversario fino a 4,5 metri di distanza. 
+Peso: 4 
+Tipo di Capacità: Bastone Ferrato
+Tipo:  A due mani
+Richiede: Forza 5 
+Non utilizzabile da:
+  Monaco~
+@61   = ~Bastone della Resistenza agli Incantesimi Maggiore +5~
+@62   = ~Il bastone ferrato, la più semplice e la più umile tra tutte le armi semplici, è semplicemente un bastone lungo dai 180 ai 270 centimetri. I bastoni ferrati perfetti sono fatti in legno di quercia e sono rinforzati da rivestimenti in metallo ad entrambe le punte. Il bastone ferrato va impugnato a due mani. Questo bastone è speciale, dato che vi sono state infuse alcune proprietà magiche. 
+
+STATISTICHE:
+
+Danno:  1d6 + 5
+THACO:  +5 
+Incantamento:  +5
+Tipo di Danno:  Contundente
+Speciale:
+  Resistenza: +15% di Resistenza alla Magia
+  Veleno: +2 punti di anno da avvelenamento ogni secondo per 6 secondi (Tiro Salvezza contro Veleno per negare gli effetti)
+Peso: 4 
+Tipo di Capacità: Bastone Ferrato
+Tipo:  A due mani
+Richiede: Forza 5 
+Non utilizzabile da:
+  Monaco~
+@63   = ~Spada Bastarda Miasmica~
+@64   = ~La spada bastarda, nota anche come spada a una mano e mezza, deriva il suo nome dal fatto che è un incrocio tra uno spadone e una spada lunga. La spada bastarda ha una lama a doppio taglio e una lunga impugnatura in grado di consentire la presa con entrambe le mani, se lo si preferisce. La lunghezza totale della spada bastarda va da 120 a 145 cm.   
+
+STATISTICHE:
+
+Danno:  1d10
+Incantamento:  +5
+Tipo di Danno:  Taglio
+Speciale:
+  Esplosione corrosiva:  +1d6 danni da acido e la probabilità del 10% di ulteriori +1d10 danni da acido
+  Veleno: +2 punti di danno da avvelenamento al secondo per 6 secondi (Tiro Salvezza contro Veleno per negare gli effetti)
+  Stordimento: 25% di probabilità di Stordire il bersaglio per 3 secondi (Tiro Salvezza contro Paralisi per negare gli effetti)
+Peso:  9 
+Tipo:  A una mano
+Tipo di Capacità: Spada Bastarda
+Richiede: Forza 11 
+Non utilizzabile da:
+  Druido
+  Chierico
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@65   = ~Spada Bastarda dell’Ira~
+@66   = ~ Altresì nota come spada a una mano e mezza, la spada bastarda trae il suo nome dal fatto che essa è a metà tra lo spadone e la spada lunga. La spada bastarda ha una lama a doppio taglio e un'impugnatura lunga che fornisce spazio per ambo le mani, se si preferisce. La lunghezza totale della spada bastarda varia da 120 a 145 cm. 
+
+STATISTICHE:
+
+Danno:  1d10
+Incantamento:  +5
+Tipo di Danno:  Taglio
+Speciale:
+  Esplosione Infuocata:  +2d6 danni da fuoco e la probabilità del 10% di ulteriori +2d10 danni da fuoco
+  Effetto Constante: Forza +2 Bonus
+  Colpo Sicuro: l'arma viene considerata dotata di un incantamento +5 al fine di colpire creature per cui è necessaria un'arma magica
+Tipo:  A una mano
+Tipo di Capacità: Spada Bastarda
+Richiede: Forza 11 
+Non utilizzabile da:
+  Druido
+  Chierico
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@67   = ~Ira del Caos~
+@68   = ~Quest'arma è splendida a vedersi. La lama è realizzata in oro rosso con un bordo in argento. La guardia è in platino finemente lucidato, e l'elsa in filo intrecciato è realizzata in adamantio nero. Quando viene sfoderata, la lama irradia un arcobaleno di colori.
+
+Quest'arma è stata considerata sia una maledizione sia una benedizione da parte di coloro che la utilizzano. Contro le creature legali essa infligge un danno devastante e consente effettuano attacchi con prodigiosa precisione. L'Ira del Caos è nota per aver rovesciato le sorti in molte battaglie. Purtroppo, chi la usa perde il controllo delle proprie facoltà e cade in preda a un'ira berserk quando sfodera l'arma. Si crede anche che l'arma sia maledetta. Una volta che la si impugna, non la si può lasciare andare.
+
+La storia dell'Ira del Caos è sconosciuta. L'arma è apparsa in tutti i reami in varie battaglie nel corso dei secoli, solo per essere sempre di nuovo perduta. 
+
+STATISTICHE:
+
+Danno: 1d10 + 3
+THACO: +3 
+Incantamento:  +3
+Tipo di Danno: Taglio
+Speciale:
+  Effetto Costante: Ordini Caotici sempre equipaggiato 
+  Caotica: +2d6 di danno ai bersagli Legali
+  Incantesimo:  Infligge gli effetti dell’incantesimo Caos per 3 round per ogni clop riuscito (Tiro salvezza contro Incantesimi a -4 per negare gli effetti) 
+Peso: 8 
+Tipo:  A una mano
+Tipo di Capacità: Spada Bastarda 
+Richiede: Forza 11 
+Non utilizzabile da:
+  Personaggi Legali
+  Druido
+  Chierico
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@69   = ~Spada Corta del Ferimento elettrificata +5~
+@70   = ~La spada corta è stata la prima spada esistente. Al livello più semplice, una spada corta può essere considerata un pugnale con una lama talmente lunga da non poter più essere definito pugnale. Il termine spada corta non esiste nella classificazione delle spade. Ad ogni modo si è giunti a usarlo per descrivere una lama a doppio taglio di circa 60 cm di lunghezza. La punta della spada è di solito aguzza, ideale per gli a fondo. 
+
+STATISTICHE:
+
+Danno:  1d6 + 5
+THACO:  +5 
+Incantamento:  +5
+Tipo di Danno:  Perforazione
+Speciale:
+  Esplosione Folgorante:  +2d6 danni da elettricità e la probabilità del 10% di ulteriori +2d10 danni da elettricità
+  Veleno: Infligge  1 punto addizionale di anno per round per 10 round (Tiro Salvezza contro Veleno per negare gli effetti)
+Peso:  3 
+Tipo di Capacità: Spada Corta
+Tipo:  A una mano
+Richiede: Forza 5 
+Non utilizzabile da:
+  Druido
+  Chierico 
+  Mago
+  Addestratore di Animali~
+@71   = ~Lento e Continuo~
+@72   = ~ Questo pesante martello sembra essere stato utilizzato per lavorare alla Palizzata, ed è possibile che nessuno dei lavoratori fosse consapevole della sua natura incantata. Pur essendo più lento e più pesante di un martello da guerra, colpisce con più precisione e infligge maggiori danni. Un singolo tocco di questo martello crea una nota limpida e squillante. 
+
+STATISTICHE:
+
+Danno:  1d8 + 4
+THACO:  +4 
+Incantamento:  +4
+Tipo di Danno:  Contundente
+Speciale:
+  Effetto Costante: Forza +3 Bonus
+Peso: 9 
+Tipo di Capacità: Martello da Guerra
+Tipo:  A una mano
+Richiede: Forza 9 
+Non utilizzabile da:
+  Druido
+  Mago 
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@73   = ~Dodici Passi~
+@74   = ~Questa lunga lancia è fatta di una spessa asta di quercia, e sembra essere stata usata intensamente nella caccia del cinghiale artico. Lungo l'asta si trovano numerosi sigilli e rune che l'aiutano a colpire con precisione e senza fallo, e in situazione di vita o di morte, può colpire un avversario fino a cinque lunghezze dal portatore, abbattendo la vittima prima che arrivi a distanza sufficiente per un combattimento corpo a corpo. 
+
+STATISTICHE:
+
+Danno:  1d8 + 4
+THACO:  +4 
+Incantamento:  +4
+Tipo di Danno:  Perforazione
+Speciale: 
+  Portata di 5 lunghezze, anziché 2 
+  Incantesimi: Può lanciare Breccia 3 volte al giorno
+  Incantesimi: Può lanciare Abbassare la Resistenza 3 volte al giorno
+Peso: 7 
+Tipo di Capacità: Lancia 
+Tipo:  A due mani
+Richiede: Forza 5 
+Non utilizzabile da:
+  Chierico
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@75   = ~Bastone Bisbigliante di Caballus ~
+@76   = ~Questo bastone in legno di ferro è stato impugnato dal goblin stregone Caballus, ed è ancora impregnato del suo pessimo odore. Le rune si avvolgono come serpenti per tutta la sua superficie, ma a parte una runa minore di precisione ed un'altra di ferimento, il resto è composto di sillabe e lettere senza senso. Il bastone è incredibilmente leggero e ben bilanciato per la sua taglia, e può essere facilmente impugnato con una mano sola. 
+
+STATISTICHE:
+
+Danno:  1d6 + 4
+THACO:  +3 
+Incantamento:  +3
+Tipo di Danno:  Contundente
+Speciale:  
+  +15% all’abilità Muoversi Silenziosamente
+  Il bersaglio colpito subisce l'incantesimo Silenzio (Tiro Salvezza contro Incantesimi per negare gli effetti)
+  Incantesimi: Può lanciare Invisibilità di Massa 1 volta al giorno
+Peso: 3 
+Tipo di Capacità: Bastone Ferrato
+Tipo:  A una mano
+Richiede: Forza 5 
+Non utilizzabile da:
+  Monaco~
+@77   = ~La Torcia Permanente di Belib~
+@78   = ~Belib il Prudente era probabilmente l'avventuriero più equipaggiato che il reame avesse mai visto, o lo sarebbe stato, visto che non ha mai lasciato la sua casa per un'avventura. Solo uno degli oggetti della sua incredibile lista di oggetti incantati trovati nei labirinti sotterranei è la Torcia Permanente. Una lanterna magica dalla forma di una elaborata torcia di legno, brucia con una fiamma arancione che non può essere spenta, sia che venga immersa nell'acqua sia che venga sepolta sotto metri di roccia, o data in testa a un troll delle paludi, la Torcia Permanente di Belib non si spegne.
+
+Quando Belib terminò finalmente l'ultimo dei suoi oggetti, li mise tutti in un enorme zaino, incantato per contenere molto più di quello che Belib poteva portare normalmente, e se lo caricò sulle spalle, pronto per l'avventura di una vita. Appena Belib uscì dalla sua casa inciampò... e venne schiacciato istantaneamente sotto il suo enorme zaino. La borsa si aprì e il contenuto si sparse per le strade di Waterdeep dove Belib viveva, svanendo immediatamente nelle mani di passanti buoni a nulla.
+
+Il cadavere di Belib venne alla fine portato al tempio e fatto rinascere da una sacerdotessa dal cuore buono, ma l'ultimo degli oggetti incantati di Belib, insieme a molto del contenuto della sua casa, era sparito. Grato ma comprensibilmente arrabbiato, Belib costruì una serie di oggetti magici per la sacerdotessa prima di tornare alla sua famiglia nelle sue terre d'origine, svanendo del tutto dalla faccia della terra. 
+
+STATISTICHE:
+
+Danno:  1d6
+Tipo di Danno:  Contundente
+Speciale:
+  Esplosione Infuocata:  +2d6 danni da fuoco e la probabilità del 10% di ulteriori +1d10 danni da fuoco
+Peso:  5 
+Tipo di Capacità: Clava
+Tipo:  A una mano
+Richiede: Forza 10 
+Non utilizzabile da:
+  Druido
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@79   = ~Armatura di Pelle di Cornugon~
+@80   = ~Su questa armatura di cuoio c'è un alone di grande mistero. Nessuno può dire con precisione come e dove sia stata creata. Quello che si sa è che è stata creata lavorando la pelle di un Cornugon. L'armatura è nera e ricoperta di scaglie robuste e appuntite. Inoltre, emana un leggero odore d'acido.
+
+Chi indossa la Pelle dell'Abishai gode di una limitata forma di invulnerabilità alle armi non magiche e dell'abilità di rigenerare le proprie ferite. 
+
+STATISTICHE:
+
+Classe Armatura: 5 (hide armor +1)
+Speciale:
+  Rigenerazione: Chi la usa recupera 1 punto ferita ogni 10 round di combattimento 
+  Immunità: Chi la usa è immune a tutte le armi normali
+Peso: 15 
+Richiede: Forza 6 
+Non utilizzabile da:
+  Mago
+  Kensai
+  Monaco
+  Mutaforma~
+@81   = ~Il Martello Crudele Nemico del Valore~
+@82   = ~Questo terribile martello, che viene chiamato "Il Nemico del Valore", è un'arma forgiata per spezzare, oltre alle ossa ed all'armatura, anche lo spirito di un nemico. E'estremamente antica, ed il nome di chi la costruì è andato perduto perfino negli ampi registri dei nani grigi. Coperto di rune di grande potere, il Nemico del Valore presenta una semplice iscrizione nella lingua antica dei nani, ormai usata solo dai duergar:
+
+"Non è La Morte Che Devi Temere, Ma La Paura Della Morte"
+
+Ogni colpo inflitto dal Nemico del Valore ha una probabilità di infondere il terrore nel cuore del nemico, costringendolo a fuggire da chi lo impugna. 
+
+STATISTICHE:
+
+Danno:  1d10 + 3
+THACO:  +3 
+Incantamento:  +3
+Tipo di Danno:  Contundente
+Speciale:
+  Infondere Terrore: Il bersaglio fugge terrorizzato per 21 secondi (Tiro Salvezza contro  Incantesimi per negare gli effetti)
+Peso: 7 
+Tipo di Capacità: Martello da Guerra
+Tipo:  A una mano
+Richiede: Forza 9 
+Non utilizzabile da:
+  Druido
+  Mago 
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@83   = ~L’Uncino del "Barone" Sulo~
+@84   = ~ Nessuno sa da dove provenga questo pugnale difensivo magico, anche se si è guadagnato una certa fama in mano ad un famoso capitano corsaro, il "Barone" Sulo di Luskan. Quando Sulo e la sua ciurma tentarono di rubare i gioielli della famiglia Leberm su una piccola nave mercantile che navigava sulla costa di Port Llast, dovettero fare i conti  con un gruppo di esperti avventurieri che erano stati ingaggiati come guardie. Uno di essi in particolare combatteva come un demonio, ed impugnava una coppia di lame da duellante finemente lavorate. L'avventuriero senza nome uccise molti uomini di Sulo e, quando arrivò a scontrarsi con il capitano corsaro in persona, riuscì addirittura a recidergli la mano sinistra. Il "Barone" Sulo sarebbe morto quel giorno, se non fosse stato per un colpo di ballista proveniente dalla nave dei Leberm: l'enorme lancia colpì in pieno lo sfortunato spadaccino e lo buttò fuori bordo. Tutto ciò che rimase di lui fu la sua stupenda lama difensiva, che continuò per un attimo a girare su se stessa sul ponte della nave, come se il suo padrone non fosse mai stato lì.
+
+Sulo decise di innestare la lama dello spadaccino sul moncherino, al posto di un comune Uncino. Quando Sulo fu ucciso nove anni dopo, la lama fu sotterrata con lui in una tomba nascosta, assieme ad una grande quantità di gemme e monete. A dispetto della "segretezza" di un luogo del genere, il suo tesoro venne ben presto saccheggiato, e l'Uncino di Sulo passò nelle mani di altri uomini. 
+
+STATISTICHE:
+
+Danno:  1d4 + 1
+THACO: -1 di penalità
+Incantamento:  +1
+Tipo di Danno:  Perforazione
+Speciale:
+  Classe Armatura Bonus: +3 
+  Tiri Salvezza Bonus: +1 
+  Resistenza: +15% di Resistenza alla Magia
+Peso: 1 
+Tipo di Capacità: Pugnale
+Richiede: Forza 3
+Non utilizzabile da:
+  Chierico
+  Addestratore di Animali~
+@85   = ~Zanna Xvimiana della Disperazione~
+@86   = ~Come gesto di gratitudine e buona fede nei confronti di Saablic Tan per essersi unito alla Legione della Chimera, Isair e Madae offrirono a Saablic il pugnale Zanna di Xvim.
+
+La Zanna di Xvim, forgiata nei metalli migliori e incantata con le magie più nere disponibili per la fede di Xvim, non riflette alcuna luce sulla sua lama annerita. La lama è talmente nera, infatti, che qualsiasi dettaglio che solitamente è visibile in un pugnale a lama ricurva è qui completamente assente. È come se la lama assorbisse veramente la luce.
+
+Saablic Tan tiene sempre la Zanna di Xvim vicino a sé, non solo perché il pugnale ha il terribile potere di trasformare gli individui in pietra quando vengono colpiti, ma anche perché il pugnale aumenta a tutti gli effetti l'intelletto di chi la impugna: veramente un'arma adatta a un mago potente. 
+ 
+
+STATISTICHE:
+
+Danno:  1d4 + 5
+THACO:  +5 
+Incantamento:  +5
+Tipo di Danno:  Perforazione
+Speciale:  
+  Incantesimo: 5% di probabilità di lanciare Carne in Pietra sul bersaglio ad ogni colpo 
+  Incantesimo:  20% di probabilità di lanciare Emozione sul bersaglio ad ogni colpo 
+  Effetto Costante: +4 bonus all’Intelligence quando è impugnato
+Peso: 1 
+Tipo di Capacità: Pugnale
+Richiede: Forza 3 
+Non utilizzabile da:
+  Chierico
+  Addestratore di Animali~
+@87   = ~Zampa di Scimmia della Disciplina~
+@88   = ~Il capitano neo-orog, Sprawg, è l'attuale istruttore di tattiche generali di battaglia per le reclute della nuova Legione della Chimera. Come tale, aveva bisogno di uno strumento per mantenere le proprie reclute sottomesse ed in riga, perciò, fu creata la Zampa di Scimmia della Disciplina.
+
+La Zampa di Scimmia della Disciplina è esattamente come il nome la descrive. Consiste per lo più di un grande braccio pietrificato di una scimmia, tagliato alla spalla. All'attaccatura della spalla, sembra che una impugnatura ad una mano sia stata fusa magicamente all'osso. All'estremità opposta, la zampa è aperta ed è la maggior fonte di dolore. Quando qualcuno viene colpito dalla zampa, a parte il considerevole danno, c'è la probabilità che venga infuso di disciplina, soffrendo di acuta paura e/o confusione. Una volta passato l'effetto, il beneficiario della disciplina della zampa difficilmente sarà un problema in futuro, specialmente durante le lezioni. 
+
+STATISTICHE:
+
+Danno:  1d6  +3
+THACO:  +3
+Incantamento:  +3 
+Tipo di Danno:  Contundente
+Speciale:
+  Velocità:  Un attacco extra per round
+  Incantesimo: 15% di probabilità di provocare il panico nel bersaglio per 35 secondi per ogni colpo (Tiro Salvezza contro Incantesimi per negare gli effetti) 
+  Incantesimo:  5% di probabilità di confondere il bersaglio per 63 secondi per colpo (Tiro salvezza contro Incantesimi per negare gli effetti) 
+Peso: 3 
+Tipo di Capacità: Clava
+Tipo:  A una mano
+Richiede: Forza 10 
+Non utilizzabile da:
+  Druido
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@89   = ~Impatto Brutale~
+@90   = ~Tra i privilegi ottenuti per essere il Tyrannar (il gran sacerdote) della fede di Xvim nella Legione della Chimera, Brutai Mar ha ricevuto il mortale martello da guerra, Impatto Brutale.
+
+Questo martello è dotato di un'asta finemente intarsiata con alcune immagini di Iyachtu Xvim che respinge un'intera legione di paladini. Questo splendido martello forgiato in mithral è molto più grosso della maggior parte dei martelli da guerra, anche se non sembra affatto più pesante. Come in molte altre armi dotate degli empi incantamenti di Iyachtu Xvim, il metallo del martello sembra assorbire la luce in un fulcro di infinita oscurità.
+
+Nelle poche occasioni in cui il Tyrannar Brutai Mar ha usato la sua arma sui suoi nemici, Brutai è stato pervaso da una forza superiore e da una precisione migliore. Inoltre, ad alcuni dei colpi contundenti si aggiungono esplosioni di acido Xvimiano - lo stesso acido che scorre nelle acque della Mano Mozzata. 
+
+STATISTICHE:
+
+Danno:  1d8 + 3
+THACO:  +5 
+Incantamento:  +3
+Tipo di Danno:  Contundente
+Speciale:
+  Esplosione Corrosiva:  33% di probabilità di +2d6 di danno da acido e 10% di probabilità di ulteriori +2d10 danni da acido
+  Effetto Costante: Forza +2 Bonus
+Peso: 7 
+Tipo di Capacità: Martello da Guerra
+Tipo:  A una mano
+Richiede: Forza 9 
+Non utilizzabile da:
+  Druido
+  Mago 
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@91   = ~Feroce pestilenza di Pudu~
+@92   = ~Il Capitano Pudu, il Capitano delle Guardie della Legione della Chimera, è senza dubbio un maestro dell'esagerazione. Com'è tipico dei mezzi goblin, Pudu provava il bisogno di impugnare l'arma più grossa possibile  per i gracili mezzosangue, l'alabarda.
+
+Non essendo ovviamente soddisfatto da un'alabarda comune, Pudu ordinò che fossero posti alcuni incantesimi particolarmente minacciosi sulla sua arma preferita. In tono con la posizione che Pudu rivestiva all'interno della Legione della Chimera, la sua nuova alabarda, affettuosamente chiamata la Delizia di Pudu, provocava danni da fuoco spaventosi su coloro che erano abbastanza sfortunati da trovarsi dal lato sbagliato della lama rossa infuocata. Inoltre, l'alabarda era nota per stordire gli avversari, e per impedire al bersaglio di deviare gli attacchi di Pudu. Un avversario che non può ribattere è in effetti il tipo di avversario preferito di Pudu. Ma meglio non dirlo a lui. 
+
+STATISTICHE:
+
+Danno:  1d10 + 5
+THACO:  +5 
+Incantamento:  +5
+Tipo di Danno:  Perforazione
+Speciale:
+  Stordimento: 25% di probabilità di Stordire il bersaglio per 3 secondi (Tiro Salvezza contro Paralisi per negare gli effetti) 
+  Esplosione Infiammata:  +2d6 di danno da fuoco e il 10% di probabilità di ulteriori +2d10 danni da fuoco
+  Incantesimo: 5% di probabilità di abbassare la resistenza magica del bersaglio del 25% per 140 secondi per colpo
+Peso: 14 
+Tipo di Capacità: Alabarda
+Tipo:  A due mani
+Richiede: Forza 13 
+Non utilizzabile da:
+  Druido
+  Chierico
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+@93   = ~Mazza dell’Uccisione di Goblin +1~
+@94   = ~La mazza è una derivazione del normale randello, e non è altro che un bastone di legno dotato di una pietra o di una testa in ferro a una delle estremità. In questo caso, la testa, fissata in cima a un'asta levigata di legno di quercia,  è piramidale e sembra risplendere dall'interno di una luce blu. 
+
+STATISTICHE:
+
+Danno:  1d8  +1
+THACO:  +1 
+Incantamento:  +1
+Tipo di Danno:  Contundente
+Speciale:
+  Uccisione: Uccide gnoll, goblin, hobgoblin, coboldi, e orchi (senza Tiro Salvezza) 
+Peso: 12 
+Tipo di Capacità: Clava
+Tipo:  A una mano
+Richiede: Forza 10 
+Non utilizzabile da:
+  Druido
+  Mago
+  Ladro
+  Monaco
+  Addestratore di Animali~
+
+// these strings were copied from IWDEE, not IWD, so adjust @96 for original BG2 as needed 
+@95 = ~Ascia a Due Mani~
+@96 = ~Questa possente arma consta di un manico lungo circa un metro e mezzo con una lama molto pesante. L'ascia può essere anche a doppio taglio, con lame su entrambi i lati dell'attaccatura, oppure ad una sola lama. È un'arma poco maneggevole, ma un guerriero esperto può vibrare colpi di enorme potenza con essa.
+
+STATISTICHE:
+
+Danno: 1d10 (tagliente)
+Fattore-velocità: 9
+Tipo di Competenza: Ascia
+Tipo: A due mani
+
+Richiede:
+Forza 10
+
+Peso: 10~
