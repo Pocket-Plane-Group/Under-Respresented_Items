@@ -2,7 +2,7 @@
                         Under-Represented Items Mod
                           Author: Westley Weimer
                        Current Maintainer: CamDawg
-                             \/ Release 10 \/
+                             \/ Release 11 \/
 
                            http://www.weidu.org/
 
@@ -444,3 +444,31 @@ Version 9 (CamDawg, May 18, 2022):
 Version 10 (CamDawg, May 21, 2022):
         * Updated Russian translation
         * A few minor adjustments to the immunity spellstate code for EE games
+Version 11 (CamDawg, September 19, 2022):
+        * Further changes to prepare for EE Fixpack
+        * Corrected portrait icon for Greataxe of Ice +5
+        * Massive Greataxe of Flame +5 was only adding 1d6 fire damage instead
+          of the listed 2d6
+        * Greataxe of Might +5 had an incorrect minimum STR  
+        * Greataxe of Vampiric Flame was adding 2d6 fire damage instead of the 
+          listed 1d6
+        * Ranged weapons now use projectiles that better match projectiles used
+          by other items, e.g. the throwing darts will use 1pp-style projectiles
+          if available  
+        * Infernal Halberd of the Defender was doing 2d10 fire damage instead of
+          the listed 1d10 on 10% of hits
+        * Pudu's Fiery Blight was doing 1d10 fire damage instead of the listed 
+          2d10 on 10% of hits
+        * Cornugon Hide Armor should not be usable by Avengers
+        * Caballus' Whispering Staff now uses the mace animation like other 
+          one-handed staves  
+        * Corrected weapon speeds for Life's Blood Drinker, Twelve Paces, 
+          Lolth's Cruel Sting, Charged Short Sword of Wounding +5
+        * Poison immunity could end up blocking the sound effects from Life's 
+          Blood Drinker's HP drain on EE games
+        * Lolth's Cruel Sting would display the 'poisoned' icon even if the
+          poison was blocked by magic resistance. Its Free Action will also
+          block stun, if that option has been installed from the BG2 Fixpack          
+        * The duration for the Chaos effect of Rage of Chaos was too long  
+        * Corrected some miscellaneous file errors (e.g. leftover IWD2 flags).
+          These shouldn't have affected gameplay, but are fixed anyway.
