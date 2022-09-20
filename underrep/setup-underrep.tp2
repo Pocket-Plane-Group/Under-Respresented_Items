@@ -7,9 +7,9 @@ ALWAYS
 
     OUTER_SET enhanced_edition = 1
   
-    ACTION_IF FILE_EXISTS ~underrep/languages/%LANGUAGE%/setup_ee.tra~ BEGIN
+    ACTION_IF FILE_EXISTS ~underrep/languages/%LANGUAGE%/items_ee.tra~ BEGIN
 
-      LOAD_TRA ~underrep/languages/%LANGUAGE%/setup_ee.tra~ // override normal item descriptions with EE-formatted ones
+      LOAD_TRA ~underrep/languages/%LANGUAGE%/items_ee.tra~ // override normal item descriptions with EE-formatted ones
    
     END 
 
