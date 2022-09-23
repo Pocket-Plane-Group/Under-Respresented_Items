@@ -31,7 +31,7 @@ ALWAYS
   
 END
 
-VERSION ~v11~
+VERSION ~v12~
 
 README ~underrep/readme-underrep.%LANGUAGE%.html~ 
        ~underrep/readme-underrep.%LANGUAGE%.txt~ 

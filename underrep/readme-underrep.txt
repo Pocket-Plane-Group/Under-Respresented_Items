@@ -472,3 +472,5 @@ Version 11 (CamDawg, September 19, 2022):
         * The duration for the Chaos effect of Rage of Chaos was too long  
         * Corrected some miscellaneous file errors (e.g. leftover IWD2 flags).
           These shouldn't have affected gameplay, but are fixed anyway.
+Version 12 (CamDawg, September 22, 2022):
+        * Fixed the encoding of the Polish translation (thanks AL|EN!)
