@@ -14,7 +14,7 @@ This mod adds items to Baldur's Gate II. The items come from Icewind Dale II. On
 
 ## More Information
 
-:page_facing_up: [Readme](https://raw.githubusercontent.com/Pocket-Plane-Group/Under-Respresented_Items/master/underrep/readme-underrep.txt)
+:page_facing_up: [Readme](https://pocket-plane-group.github.io/readmes/readme-underrep.html)
 :page_facing_up: [Forum](http://forums.pocketplane.net/index.php/board,43.0.html) 
 
 ## 

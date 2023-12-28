@@ -28,7 +28,7 @@ set audio_folder=%mod_folder%\audio
 set tispack_folder=%mod_folder%\tiz
 set tile2ee_folder=%mod_folder%\tools\tile2ee
 set iconv_folder=%mod_folder%\languages\iconv
-set mod_readme=https://raw.githubusercontent.com/Pocket-Plane-Group/Under-Respresented_Items/master/underrep/readme-underrep.txt
+set mod_readme=https://pocket-plane-group.github.io/readmes/readme-underrep.html
 
 REM /* MODIFY: if you don't need to build a specific package, you can disable it by setting the appropriate variable below to 0 */
 set build_windows=1
@@ -39,6 +39,6 @@ REM /* MODIFY: if you want to avoid making filenames lowercase, you can disable 
 set lowercase_filenames=1
 
 REM /* this performs the actual packaging */
-call "%~dp0..\ModPackaging\utilities\complete_packaging.bat"
+call "%~dp0..\ModPackaging\utilities\complete_packaging_weidu.bat"
 
 endlocal

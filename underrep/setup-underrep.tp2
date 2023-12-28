@@ -35,7 +35,7 @@ VERSION ~v12~
 
 README ~underrep/readme-underrep.%LANGUAGE%.html~ 
        ~underrep/readme-underrep.%LANGUAGE%.txt~ 
-       ~underrep/readme-underrep.txt~
+       ~underrep/readme-underrep.html~
 
 LANGUAGE ~American English~ 
          ~american~
