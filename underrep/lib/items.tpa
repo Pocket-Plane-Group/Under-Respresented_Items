@@ -1,4 +1,4 @@
-INCLUDE ~underrep/lib/functions.tpa~ // load cd_items_casting_spells
+INCLUDE ~underrep/lib/cd_items_casting_spells.tpa~ // load cd_items_casting_spells
 
 ACTION_IF ((enhanced_edition) AND (FILE_EXISTS ~underrep/languages/%LANGUAGE%/setup_ee.tra~)) BEGIN
 
