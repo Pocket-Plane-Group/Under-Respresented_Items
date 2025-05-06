@@ -70,6 +70,12 @@ LANGUAGE ~Polski (Aristo - The Stars of Mystra)~
          ~underrep/languages/polish/weidu.tra~
          ~underrep/languages/polish/items.tra~
 
+LANGUAGE ~Simplified Chinese (good0593)~
+         ~schinese~
+         ~underrep/languages/american/weidu.tra~
+         ~underrep/languages/american/items.tra~
+         ~underrep/languages/schinese/weidu.tra~
+         ~underrep/languages/schinese/items.tra~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////                                                  \\\\\
